@@ -1,0 +1,119 @@
+{
+  "course": {
+    "id": "02807",
+    "title": "Computational Tools for Data Science",
+    "shortTitle": "Data Science Tools",
+    "term": "Fall 2026",
+    "verified": "12 October 2026",
+    "learn": "https://learn.inside.dtu.dk/d2l/home/326379",
+    "website": "https://courses.compute.dtu.dk/02807/2026/",
+    "project": "https://courses.compute.dtu.dk/02807/2026/project/project.pdf",
+    "breakStart": "2026-10-12",
+    "breakEnd": "2026-10-18",
+    "noExam": true
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2026-08-31",
+      "end": "2026-09-06",
+      "title": "Data mining & TF.IDF"
+    },
+    {
+      "number": 2,
+      "start": "2026-09-07",
+      "end": "2026-09-13",
+      "title": "Python & notebooks"
+    },
+    {
+      "number": 3,
+      "start": "2026-09-14",
+      "end": "2026-09-20",
+      "title": "MapReduce"
+    },
+    {
+      "number": 4,
+      "start": "2026-09-21",
+      "end": "2026-09-27",
+      "title": "Similar items & LSH"
+    },
+    {
+      "number": 5,
+      "start": "2026-09-28",
+      "end": "2026-10-04",
+      "title": "Frequent itemsets"
+    },
+    {
+      "number": 6,
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "title": "Clustering"
+    },
+    {
+      "number": 7,
+      "start": "2026-10-19",
+      "end": "2026-10-25",
+      "title": "Graph communities"
+    },
+    {
+      "number": 8,
+      "start": "2026-10-26",
+      "end": "2026-11-01",
+      "title": "Scope your project"
+    },
+    {
+      "number": 9,
+      "start": "2026-11-02",
+      "end": "2026-11-08",
+      "title": "Prepare the data"
+    },
+    {
+      "number": 10,
+      "start": "2026-11-09",
+      "end": "2026-11-15",
+      "title": "Build a baseline"
+    },
+    {
+      "number": 11,
+      "start": "2026-11-16",
+      "end": "2026-11-22",
+      "title": "Add the outside method"
+    },
+    {
+      "number": 12,
+      "start": "2026-11-23",
+      "end": "2026-11-29",
+      "title": "Evaluate & draft the report"
+    },
+    {
+      "number": 13,
+      "start": "2026-11-30",
+      "end": "2026-12-06",
+      "title": "Package & submit"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "group",
+      "title": "Form your project group",
+      "audience": "Group",
+      "due": "2026-10-23T23:59:00+02:00",
+      "date": "23 October",
+      "time": "23:59",
+      "url": "https://learn.inside.dtu.dk/d2l/home/326379",
+      "source": "https://courses.compute.dtu.dk/02807/2026/",
+      "description": "Register a group of 4 or 5 on DTU Learn."
+    },
+    {
+      "id": "project",
+      "title": "Submit the final project",
+      "audience": "Group",
+      "due": "2026-12-04T23:59:00+01:00",
+      "date": "4 December",
+      "time": "23:59 · confirm in Learn",
+      "url": "https://learn.inside.dtu.dk/d2l/home/326379",
+      "source": "https://courses.compute.dtu.dk/02807/2026/project/project.pdf",
+      "description": "Submit the report, documented notebook, member contributions and required data. The PDF contains conflicting dates; 4 December is the earlier date on its cover."
+    }
+  ]
+}

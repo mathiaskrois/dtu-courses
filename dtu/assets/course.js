@@ -6,7 +6,9 @@ import './practice.mjs';
 import {civilDate,semesterState,obligationState,nextObligation,calendarWeek} from './course-state.mjs';
 const all = selector => [...document.querySelectorAll(selector)];
 const set = (selector,text) => all(selector).forEach(el=>el.textContent=text);
-const storageKey='krois.dtu.12106.fall2026.completed';
+const courseId=document.body.dataset.course||location.pathname.match(/^\/dtu\/(\d{5})\//)?.[1]||'12106';
+const courseBase=`/dtu/${courseId}/`;
+const storageKey=`krois.dtu.${courseId}.fall2026.completed`;
 let completed={};
 try {const saved=JSON.parse(localStorage.getItem(storageKey)||'{}');if(saved&&typeof saved==='object'&&!Array.isArray(saved))completed=saved;}catch {}
 const dateFormat=new Intl.DateTimeFormat('en-GB',{timeZone:'Europe/Copenhagen',day:'numeric',month:'long',year:'numeric'});
@@ -28,9 +30,9 @@ function refresh() {
   set('[data-semester]',label);
   set('[data-semester-phone]',week?`Week ${week.number} / 13`:label);
   set('[data-week-dates]',week?`${dateFormat.format(new Date(week.start+'T12:00:00+01:00'))} – ${dateFormat.format(new Date(week.end+'T12:00:00+01:00'))}`:state.kind==='break'?'12–18 October · No teaching week':state.kind==='before'?'Week 1 starts 31 August 2026':'Week 13 ended 6 December 2026');
-  set('[data-calendar]',`Calendar week ${calendarWeek(day)} · ${state.kind==='break'?'Week 7 starts 19 October':week?.number===6?'Autumn break next week':week?.number===7?'Back after the autumn break':state.kind==='after'?'Submission and exam dates remain below':'13 teaching weeks, with a break in week 42'}`);
+  set('[data-calendar]',`Calendar week ${calendarWeek(day)} · ${state.kind==='break'?'Week 7 starts 19 October':week?.number===6?'Autumn break next week':week?.number===7?'Back after the autumn break':state.kind==='after'?(course.noExam?'Project dates remain below':'Submission and exam dates remain below'):'13 teaching weeks, with a break in week 42'}`);
   const currentLink=document.querySelector('[data-current-week]');
-  if(currentLink){const target=week?.number||(state.kind==='before'?1:state.kind==='break'?7:13);currentLink.href=`/dtu/12106/weeks/${target}/`;currentLink.textContent=state.kind==='break'?'Preview week 7 →':state.kind==='after'?'Review week 13 →':'Open the weekly plan →';}
+  if(currentLink){const target=week?.number||(state.kind==='before'?1:state.kind==='break'?7:13);currentLink.href=`${courseBase}weeks/${target}/`;currentLink.textContent=state.kind==='break'?'Preview week 7 →':state.kind==='after'?'Review week 13 →':'Open the weekly plan →';}
   all('[data-track]').forEach(el=>{const w=weeks.find(w=>w.number===Number(el.dataset.track));el.classList.toggle('elapsed',day>w.end);el.classList.toggle('current',week?.number===w.number);});
   if(!weeklyNavPositioned&&matchMedia('(max-width:760px)').matches){const nav=document.querySelector('.rail-weeks nav');const active=nav?.querySelector('[aria-current="page"]')||nav?.querySelector(`[data-week-nav="${week?.number}"]`);if(nav&&active){nav.scrollLeft+=active.getBoundingClientRect().left-nav.getBoundingClientRect().left-nav.clientWidth/2+active.offsetWidth/2;weeklyNavPositioned=true;}}
   all('[data-week-nav]').forEach(el=>el.classList.toggle('is-current-week',Number(el.dataset.weekNav)===week?.number));
@@ -59,12 +61,12 @@ function refresh() {
     set('[data-next-date]',`${next.date} · ${next.time}`);
     const days=next.dateOnly?Math.round((Date.parse(next.dateOnly+'T12:00:00Z')-Date.parse(day+'T12:00:00Z'))/86400000):Math.ceil((Date.parse(next.due)-now.getTime())/86400000);
     set('[data-countdown]',next.dateOnly&&day===next.dateOnly?'Today · time unconfirmed':days===0?'Due today':days===1?'Within 1 day':`In ${days} days`);
-    if(link){link.href=`/dtu/12106/deadlines/#${next.id}`;link.textContent='View requirements →';}
+    if(link){link.href=`${courseBase}deadlines/#${next.id}`;link.textContent='View requirements →';}
   }else{
     set('[data-next-title]',count===obligations.length?'All obligations marked complete':'No future deadline listed');
     set('[data-next-description]',passed?'Review the past dates and confirm your submission status in DTU Learn.':'Keep an eye on official course announcements for any changes.');
     set('[data-next-date]','Fall 2026');set('[data-countdown]','Review your checklist');
-    if(link){link.href='/dtu/12106/deadlines/';link.textContent='Review checklist →';}
+    if(link){link.href=courseBase+'deadlines/';link.textContent='Review checklist →';}
   }
 }
 // Run the date label even on the course directory. Resource filtering does not
@@ -85,7 +87,7 @@ all('[data-select-week]').forEach(button=>button.addEventListener('click',()=>{s
 document.querySelector('[data-return-current]')?.addEventListener('click',()=>{selectedWeek=null;refresh();});
 document.querySelector('#week-select')?.addEventListener('change',event=>{selectedWeek=Number(event.target.value);showWeek(selectedWeek);});
 try{
-  const response=await fetch('/dtu/12106/runtime.json');if(!response.ok)throw new Error('Course data unavailable');data=await response.json();
+  const response=await fetch(courseBase+'runtime.json');if(!response.ok)throw new Error('Course data unavailable');data=await response.json();
   all('[data-complete]').forEach(input=>{
     input.disabled=false;
     input.addEventListener('change',()=>{

@@ -1,0 +1,234 @@
+[
+  {
+    "title": "Mining of Massive Datasets \u00b7 textbook",
+    "url": "http://www.mmds.org",
+    "week": null,
+    "group": "Project & course information",
+    "kind": "Reading",
+    "unavailable": false
+  },
+  {
+    "title": "Videocasts",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326379&type=lti&rcode=dtu-880412&srcou=6606&launchFramed=1&framedName=Video+%26+Streaming",
+    "week": null,
+    "group": "Project & course information",
+    "kind": "Video",
+    "unavailable": false
+  },
+  {
+    "title": "Final project requirements",
+    "url": "https://courses.compute.dtu.dk/02807/2026/project/project.pdf",
+    "week": null,
+    "group": "Project & course information",
+    "kind": "Reading",
+    "unavailable": false
+  },
+  {
+    "title": "Example 1",
+    "url": "https://courses.compute.dtu.dk/02807/2026/reports/Report1r.pdf",
+    "week": null,
+    "group": "Project & course information",
+    "kind": "Reading",
+    "unavailable": false
+  },
+  {
+    "title": "Example 2",
+    "url": "https://courses.compute.dtu.dk/02807/2026/reports/Report9r.pdf",
+    "week": null,
+    "group": "Project & course information",
+    "kind": "Reading",
+    "unavailable": false
+  },
+  {
+    "title": "Example 3",
+    "url": "https://courses.compute.dtu.dk/02807/2026/reports/Report17r.pdf",
+    "week": null,
+    "group": "Project & course information",
+    "kind": "Reading",
+    "unavailable": false
+  },
+  {
+    "title": "Example 4",
+    "url": "https://courses.compute.dtu.dk/02807/2026/reports/Report22r.pdf",
+    "week": null,
+    "group": "Project & course information",
+    "kind": "Reading",
+    "unavailable": false
+  },
+  {
+    "title": "Example 5",
+    "url": "https://courses.compute.dtu.dk/02807/2026/reports/Report27r.pdf",
+    "week": null,
+    "group": "Project & course information",
+    "kind": "Reading",
+    "unavailable": false
+  },
+  {
+    "title": "Slides",
+    "url": "https://courses.compute.dtu.dk/02807/2026/slides/Intro.pdf",
+    "week": 1,
+    "group": "Week 1",
+    "kind": "Slides",
+    "unavailable": false
+  },
+  {
+    "title": "Exercise sheet",
+    "url": "https://courses.compute.dtu.dk/02807/2026/exercises/Python2/week2.pdf",
+    "week": 2,
+    "group": "Week 2",
+    "kind": "Practice",
+    "unavailable": false
+  },
+  {
+    "title": "Slides",
+    "url": "https://courses.compute.dtu.dk/02807/2026/slides/Week3.pdf",
+    "week": 3,
+    "group": "Week 3",
+    "kind": "Slides",
+    "unavailable": false
+  },
+  {
+    "title": "Exercise sheet",
+    "url": "https://courses.compute.dtu.dk/02807/2026/exercises/week3/week3.pdf",
+    "week": 3,
+    "group": "Week 3",
+    "kind": "Practice",
+    "unavailable": false
+  },
+  {
+    "title": "Solutions",
+    "url": "https://courses.compute.dtu.dk/02807/2026/exercises/week3/solutions/week3-sols.ipynb",
+    "week": 3,
+    "group": "Week 3",
+    "kind": "Solutions",
+    "unavailable": false
+  },
+  {
+    "title": "Test Files",
+    "url": "https://courses.compute.dtu.dk/02807/2026/data/data.zip",
+    "week": 3,
+    "group": "Week 3",
+    "kind": "Data",
+    "unavailable": false
+  },
+  {
+    "title": "Slides",
+    "url": "https://courses.compute.dtu.dk/02807/2026/slides/Week4.pdf",
+    "week": 4,
+    "group": "Week 4",
+    "kind": "Slides",
+    "unavailable": false
+  },
+  {
+    "title": "Exercise sheet",
+    "url": "https://courses.compute.dtu.dk/02807/2026/exercises/week4/week4.pdf",
+    "week": 4,
+    "group": "Week 4",
+    "kind": "Practice",
+    "unavailable": false
+  },
+  {
+    "title": "Solutions",
+    "url": "https://courses.compute.dtu.dk/02807/2026/exercises/week4/solutions/week4-sols.pdf",
+    "week": 4,
+    "group": "Week 4",
+    "kind": "Solutions",
+    "unavailable": false
+  },
+  {
+    "title": "Data and Template",
+    "url": "https://courses.compute.dtu.dk/02807/2026/data/dataWeek5.zip",
+    "week": 4,
+    "group": "Week 4",
+    "kind": "Data",
+    "unavailable": false
+  },
+  {
+    "title": "Slides",
+    "url": "https://courses.compute.dtu.dk/02807/2026/slides/week5.pdf",
+    "week": 5,
+    "group": "Week 5",
+    "kind": "Slides",
+    "unavailable": false
+  },
+  {
+    "title": "Exercise sheet",
+    "url": "https://courses.compute.dtu.dk/02807/2026/exercises/week5/week5.pdf",
+    "week": 5,
+    "group": "Week 5",
+    "kind": "Practice",
+    "unavailable": false
+  },
+  {
+    "title": "Solutions",
+    "url": "https://courses.compute.dtu.dk/02807/2026/exercises/week5/solutions/sheet_5_solutions.ipynb",
+    "week": 5,
+    "group": "Week 5",
+    "kind": "Solutions",
+    "unavailable": false
+  },
+  {
+    "title": "Slides",
+    "url": "https://courses.compute.dtu.dk/02807/2026/slides/week6.pdf",
+    "week": 6,
+    "group": "Week 6",
+    "kind": "Slides",
+    "unavailable": false
+  },
+  {
+    "title": "Exercise sheet",
+    "url": "https://courses.compute.dtu.dk/02807/2026/exercises/week6/week6.pdf",
+    "week": 6,
+    "group": "Week 6",
+    "kind": "Practice",
+    "unavailable": false
+  },
+  {
+    "title": "Solutions",
+    "url": "https://courses.compute.dtu.dk/02807/2026/exercises/week6/solutions/sheet_6_solutions.ipynb",
+    "week": 6,
+    "group": "Week 6",
+    "kind": "Solutions",
+    "unavailable": false
+  },
+  {
+    "title": "Slides",
+    "url": "https://courses.compute.dtu.dk/02807/2026/slides/week7.pdf",
+    "week": 7,
+    "group": "Week 7",
+    "kind": "Slides",
+    "unavailable": false
+  },
+  {
+    "title": "Exercise sheet",
+    "url": "https://courses.compute.dtu.dk/02807/2026/exercises/week7/week7.pdf",
+    "week": 7,
+    "group": "Week 7",
+    "kind": "Practice",
+    "unavailable": false
+  },
+  {
+    "title": "Solutions",
+    "url": "https://courses.compute.dtu.dk/02807/2026/exercises/week7/solutions/sheet_7_solutions.ipynb",
+    "week": 7,
+    "group": "Week 7",
+    "kind": "Solutions",
+    "unavailable": false
+  },
+  {
+    "title": "Survey on Spectral Clustering",
+    "url": "https://courses.compute.dtu.dk/02807/2026/slides/Luxburg07_tutorial_spectral_clustering.pdf",
+    "week": 7,
+    "group": "Week 7",
+    "kind": "Reading",
+    "unavailable": false
+  },
+  {
+    "title": "Stanford lecture notes on community structure in networks by Leskovec",
+    "url": "http://snap.stanford.edu/class/cs224w-2020/slides/13-communities.pdf",
+    "week": 7,
+    "group": "Week 7",
+    "kind": "Reading",
+    "unavailable": false
+  }
+]
