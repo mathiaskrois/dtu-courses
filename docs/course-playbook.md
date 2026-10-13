@@ -1,6 +1,6 @@
 # Course companion playbook
 
-All courses use the same design: compact top navigation, registry palettes, graphic directory covers, and optional explanations folded by default. Resizing must preserve expanded reading sections. Change shared markup in `scripts/lib/course-layout.mjs`, styling in `dtu/assets/course.css`, and behavior in `dtu/assets/course.js` or `practice.mjs`. Run `npm run build` to apply the change to the directory and every generated course page.
+All courses use the same design: compact top navigation, registry palettes, compact colored course rows and bold typographic headings, and optional explanations folded by default. Resizing must preserve expanded reading sections. Change shared markup in `scripts/lib/course-layout.mjs`, styling in `dtu/assets/course.css`, and behavior in `dtu/assets/course.js` or `practice.mjs`. Run `npm run build` to apply the change to the directory and every generated course page.
 
 Generated `dtu/**/index.html` and `runtime.json` are committed build results. Never fix a layout by editing them directly: the next build will overwrite it.
 
@@ -16,7 +16,7 @@ The command creates `dtu-source/12345/course.mjs` and `resources.json`, with emp
 1. Review the official course calendar, Learn assignment metadata, assessment brief and announcements. Record the verification date and source URLs. Keep raw/private exports, credentials and personal answers outside this repository.
 2. Fill in the course content using the schemas below. Keep official obligations separate from optional practice. Describe contradictions and missing information explicitly; use no guessed due dates.
 3. Add the registry entry printed by the command to `dtu-source/courses.mjs`. Its `source` points to `dtu-source/12345`. The build and course directory discover it automatically; no new build script or package command is needed.
-4. Set the registry's name, semester, assessment label and short detail. Give the entry a `palette` with six-digit hex `primary`, `accent` and `foreground` values. Keep the pairing distinct from existing courses and check text contrast. Optional artwork goes in `dtu/assets/course-art/12345.svg`; set `art` to its meaningful alt text. Leave `art: null` to omit the image.
+4. Set the registry's name, semester, assessment label and short detail. Give the entry a `palette` with six-digit hex `primary`, `accent` and `foreground` values. Keep the pairing distinct from existing courses and check text contrast. The typographic index does not display artwork. Existing SVG assets and `art` metadata are retained for future layouts; adding artwork is optional.
 5. Run the checks and preview below before committing the source and generated pages.
 
 The generic renderer is `scripts/lib/build-course.mjs`. Existing courses retain small adapters for their particular case study, calculator or assessment content, and use the same shared layout components. For a new course, start with the generic renderer. Extend a shared component if the course needs a new kind of content; pass course-specific copy as data or a content slot.
