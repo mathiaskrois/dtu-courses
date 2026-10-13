@@ -1,4 +1,4 @@
-import { civilDate } from "./course-state.mjs?v=7";
+import { civilDate } from "./course-state.mjs?v=8";
 
 export const periodId = (term) => term.toLowerCase().replace(/[^a-z0-9]/g, "");
 const month = {

@@ -21,14 +21,12 @@ async function page(selected, automatic = false) {
     weeks: [],
     catalog: courses,
     directoryTerm: selected.term,
-    directory: `<span class="eyebrow">YOUR DTU COURSES</span><strong>Course collection</strong><span>${courses.length} courses · ${periods.length} periods</span>`,
   });
   const visiblePeriods = automatic ? periods : [selected];
   const body =
     pageHeading(
-      "KRØIS / DTU COURSES",
-      "Your DTU courses",
-      "<p>Weekly essentials, fill-in practice and deadlines. Choose a teaching period from the sidebar.</p>",
+      "DTU / COURSE COLLECTION",
+      "Courses.",
     ) +
     `<div data-period-directory="${automatic ? "automatic" : "selected"}">${visiblePeriods.map((p) => `<section data-period-panel="${p.id}" data-period-start="${p.start}"${p.id !== selected.id ? " hidden" : ""}><div class="period-heading"><h2>${esc(p.term)}</h2><span>${p.courses.length} courses</span></div>${courseDirectory(p.courses)}</section>`).join("")}</div>`;
   const directory = automatic ? root : new URL(`periods/${selected.id}/`, root);

@@ -1,6 +1,6 @@
 # Course companion playbook
 
-All courses use the same design. Change shared markup in `scripts/lib/course-layout.mjs`, styling in `dtu/assets/course.css`, and behavior in `dtu/assets/course.js` or `practice.mjs`. Run `npm run build` to apply the change to the directory and every generated course page.
+All courses use the same design: compact top navigation, registry palettes, graphic directory covers, and optional explanations folded by default. Resizing must preserve expanded reading sections. Change shared markup in `scripts/lib/course-layout.mjs`, styling in `dtu/assets/course.css`, and behavior in `dtu/assets/course.js` or `practice.mjs`. Run `npm run build` to apply the change to the directory and every generated course page.
 
 Generated `dtu/**/index.html` and `runtime.json` are committed build results. Never fix a layout by editing them directly: the next build will overwrite it.
 
@@ -16,7 +16,7 @@ The command creates `dtu-source/12345/course.mjs` and `resources.json`, with emp
 1. Review the official course calendar, Learn assignment metadata, assessment brief and announcements. Record the verification date and source URLs. Keep raw/private exports, credentials and personal answers outside this repository.
 2. Fill in the course content using the schemas below. Keep official obligations separate from optional practice. Describe contradictions and missing information explicitly; use no guessed due dates.
 3. Add the registry entry printed by the command to `dtu-source/courses.mjs`. Its `source` points to `dtu-source/12345`. The build and course directory discover it automatically; no new build script or package command is needed.
-4. Set the registry's name, semester, assessment label and short detail. Optional artwork goes in `dtu/assets/course-art/12345.svg`; set `art` to its meaningful alt text. Leave `art: null` to omit the image.
+4. Set the registry's name, semester, assessment label and short detail. Give the entry a `palette` with six-digit hex `primary`, `accent` and `foreground` values. Keep the pairing distinct from existing courses and check text contrast. Optional artwork goes in `dtu/assets/course-art/12345.svg`; set `art` to its meaningful alt text. Leave `art: null` to omit the image.
 5. Run the checks and preview below before committing the source and generated pages.
 
 The generic renderer is `scripts/lib/build-course.mjs`. Existing courses retain small adapters for their particular case study, calculator or assessment content, and use the same shared layout components. For a new course, start with the generic renderer. Extend a shared component if the course needs a new kind of content; pass course-specific copy as data or a content slot.
@@ -32,7 +32,7 @@ The generic renderer is `scripts/lib/build-course.mjs`. Existing courses retain 
 - `course.breakStart`, `breakEnd`: ISO civil dates in Copenhagen, or `null` when no break is confirmed. Do not copy another semester's calendar.
 - `course.periodStart`: first teaching date. Copy it into the registry so automatic period selection uses the actual start date. The registry groups by `period` when supplied, otherwise `term`.
 - `course.noExam`: set `true` only when the official assessment confirms no exam.
-- `presentation`: course-specific subtitle, assessment explanation, deadline intro, date note, material intro and source note. These are plain text; the shared renderer escapes them.
+- `presentation`: course-specific subtitle, assessment explanation, deadline intro, date note, material intro and source note. Optional `warning` is concise consequential information shown outside the folded date/source notes. These are plain text; the shared renderer escapes them.
 
 An ordinary semester teaching week uses Monday-to-Sunday bounds. Intensive courses can use confirmed teaching blocks with their dates explained in `presentation.dateNote`. The class date is separate from the week range. Number teaching weeks consecutively, excluding confirmed breaks:
 
@@ -97,16 +97,16 @@ A resource entry:
 
 | Change | Edit once |
 | --- | --- |
-| Page shell, rail, navigation, head assets, topbar, footer | `createLayout` in `scripts/lib/course-layout.mjs` |
+| Page shell, top navigation, head assets and footer | `createLayout` in `scripts/lib/course-layout.mjs` |
 | Page title and actions | `pageHeading` |
-| Week picker and overview's Understand / Practise / Must do cards | `weeklyBrowser`, `weekPanel` |
+| Week picker and overview's Topics / Practice / Deadlines sections | `weeklyBrowser`, `weekPanel` |
 | Weekly page sections and navigation | `understandSection`, `practiceSection`, `mandatorySection`, `weekPagination` |
 | Practice fields, calculators, save status and toolbar | `exerciseWorkspace`, `practiceWorkspace` |
 | Next deadline, checklist cards and overview deadline table | `deadlineSpotlight`, `taskCard`, `compactTasks`, `deadlineChecklist` |
 | Deadline banner and assessment layout | `deadlineBanner`, `assessmentSection` |
 | Material filters and resource cards | `materialsLibrary` |
 | Course directory cards | `courseDirectory` |
-| Period grouping, sidebar and default selection | `periodNavigation`, `dtu/assets/period-state.mjs`, `directory.mjs`, `scripts/build-directory.mjs` |
+| Period menus and default selection | `periodNavigation`, `dtu/assets/period-state.mjs`, `directory.mjs`, `scripts/build-directory.mjs` |
 | Colors, spacing, type and responsive layout | `dtu/assets/course.css` |
 | Live dates, navigation, filters and completion | `dtu/assets/course.js`, `course-state.mjs` |
 | Saved answers, calculations and downloads | `dtu/assets/practice.mjs` |
@@ -114,7 +114,7 @@ A resource entry:
 
 Keep common HTML structure in shared components. Existing adapters supply copy, links, assessment values and special notes; they must not grow another copy of navigation, forms, material lists or the weekly section layout. Preserve the shared CSS classes, labels, IDs and `data-*` hooks when changing markup, or update their browser behavior together.
 
-The browser derives its storage semester from the shared shell's `data-storage-term`. `Fall 2026` stays `fall2026`, preserving every existing 12106 key. A different course or semester gets a different namespace. The live tracker derives week counts and break dates from that course's runtime data.
+The browser derives its storage semester from the shared shell's `data-storage-term`. `Fall 2026` stays `fall2026`, preserving every existing 12106 key. A different course or semester gets a different namespace. The live tracker derives week counts and break dates from that course's runtime data. `course.archived: true` selects archive presentation: the first study plan opens by default, historical dates are neutral, and countdowns and overdue-task nags are omitted. `course.studyUnit` defaults to `Week`; use `Block` for confirmed study blocks such as 42501 without changing `/weeks/<number>/` URLs or saved identifiers.
 
 When changing cached browser assets, bump their query version in `createLayout` and relevant module imports together. Do not add per-course stylesheets or JavaScript copies.
 
@@ -134,7 +134,7 @@ For shared markup or interaction changes, use the focused browser checks:
 ```sh
 npx playwright test --project=desktop-chromium
 npx playwright test tests/course-layout.spec.js --project=mobile-webkit
-npx playwright test tests/periods.spec.js --project=desktop-chromium --project=mobile-webkit
+npx playwright test tests/periods.spec.js tests/redesign.spec.js --project=desktop-chromium --project=mobile-webkit
 ```
 
 For copy/date-only edits, run the build and focused date/content checks. Do not repeat the full browser suite after successful focused checks unless a new change or failure warrants it. Review `git diff --stat` and source diffs; ensure `runtime.json` still represents the intended course data.
@@ -152,7 +152,7 @@ Commit and push the verified source plus generated pages. Wait for Verify websit
 
 ## Periods and archived editions
 
-Registry `term` values can be Fall, Spring, Winter, January, June, July, August or Summer plus a year. Use the actual teaching year, not a reused Learn tab label. Register `periodStart` from the calendar; the sidebar sorts newest periods first and groups them under their years. Add only periods that contain enrolled courses.
+Registry `term` values can be Fall, Spring, Winter, January, June, July, August or Summer plus a year. Use the actual teaching year, not a reused Learn tab label. Register `periodStart` from the calendar; the period menu sorts newest periods first and groups them under their years. Add only periods that contain enrolled courses.
 
 The directory is built independently of any one course. Explicit `/dtu/periods/<id>/` pages preserve a selected archive period. `/dtu/` chooses the current registered period on every visit using Copenhagen time, with the nearest available period as a fallback outside the archive. No last-visited preference overrides that default.
 

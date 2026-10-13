@@ -2,6 +2,7 @@
 export const courses = [
   {
     id: "12106",
+    palette: { primary: "#B9EF38", accent: "#8247E5", foreground: "#171B14" },
     name: "Quantitative Sustainability",
     label: "5 ECTS",
     detail: "Microfabrication · 13 teaching weeks",
@@ -12,6 +13,7 @@ export const courses = [
   },
   {
     id: "02616",
+    palette: { primary: "#8247E5", accent: "#EEFF58", foreground: "#FFFFFF" },
     name: "Large-scale Modelling",
     label: "Two projects + exam",
     detail: "MPI & HPC · 13 teaching weeks",
@@ -22,6 +24,7 @@ export const courses = [
   },
   {
     id: "02581",
+    palette: { primary: "#FF6B35", accent: "#235BEB", foreground: "#171B14" },
     name: "Geometric Data Analysis and Processing",
     label: "Oral exam",
     detail: "Group notebooks · 13 teaching weeks",
@@ -32,6 +35,7 @@ export const courses = [
   },
   {
     id: "02807",
+    palette: { primary: "#235BEB", accent: "#FF977D", foreground: "#FFFFFF" },
     name: "Computational Tools for Data Science",
     label: "No exam",
     detail: "Project-based · 13 teaching weeks",
@@ -42,6 +46,7 @@ export const courses = [
   },
   {
     id: "02582",
+    palette: { primary: "#40DFC0", accent: "#FF8245", foreground: "#171B14" },
     name: "Computational Data Analysis",
     term: "Spring 2026",
     periodStart: "2026-02-02",
@@ -52,6 +57,7 @@ export const courses = [
   },
   {
     id: "02506",
+    palette: { primary: "#FF9ABC", accent: "#165C43", foreground: "#171B14" },
     name: "Advanced Image Analysis",
     term: "Spring 2026",
     periodStart: "2026-02-02",
@@ -62,6 +68,7 @@ export const courses = [
   },
   {
     id: "02460",
+    palette: { primary: "#4634AE", accent: "#F5F36B", foreground: "#FFFFFF" },
     name: "Advanced machine learning",
     term: "Spring 2026",
     periodStart: "2026-02-02",
@@ -72,6 +79,7 @@ export const courses = [
   },
   {
     id: "02476",
+    palette: { primary: "#087C59", accent: "#FF92D1", foreground: "#FFFFFF" },
     name: "Machine learning operations",
     term: "Winter 2026",
     periodStart: "2026-01-05",
@@ -82,6 +90,7 @@ export const courses = [
   },
   {
     id: "42501",
+    palette: { primary: "#FFD43D", accent: "#662054", foreground: "#171B14" },
     name: "Innovation in engineering",
     term: "June 2025",
     periodStart: "2025-06-04",
@@ -92,6 +101,7 @@ export const courses = [
   },
   {
     id: "02806",
+    palette: { primary: "#51E2ED", accent: "#AE163E", foreground: "#171B14" },
     name: "Social Data Analysis and Visualization",
     term: "Spring 2025",
     periodStart: "2025-02-03",
@@ -102,6 +112,7 @@ export const courses = [
   },
   {
     id: "02613",
+    palette: { primary: "#D5F54D", accent: "#142F65", foreground: "#171B14" },
     name: "Python and high-performance computing",
     term: "Spring 2025",
     periodStart: "2025-02-03",
@@ -112,6 +123,7 @@ export const courses = [
   },
   {
     id: "02450",
+    palette: { primary: "#C5AFF5", accent: "#8A351F", foreground: "#171B14" },
     name: "Introduction to Machine Learning and Data Mining",
     term: "Spring 2025",
     periodStart: "2025-02-03",
@@ -122,6 +134,7 @@ export const courses = [
   },
   {
     id: "02810",
+    palette: { primary: "#A91F79", accent: "#CFFF68", foreground: "#FFFFFF" },
     name: "UX design prototyping",
     term: "Fall 2025",
     periodStart: "2025-09-01",
@@ -132,6 +145,7 @@ export const courses = [
   },
   {
     id: "02456",
+    palette: { primary: "#174FE8", accent: "#FFD09A", foreground: "#FFFFFF" },
     name: "Deep learning",
     term: "Fall 2025",
     periodStart: "2025-09-01",
@@ -142,6 +156,7 @@ export const courses = [
   },
   {
     id: "02805",
+    palette: { primary: "#EC5039", accent: "#9BE2FF", foreground: "#171B14" },
     name: "Social graphs and interactions",
     term: "Fall 2025",
     periodStart: "2025-09-01",

@@ -15,6 +15,7 @@ export const course = {
 };
 
 export const presentation = {
+  warning: "Exam and group-enrollment dates are unconfirmed.",
   subtitle: "Poster · written exam",
   assessment:
     "The Learn grading note combines up to 5 points for poster participation with up to 20 points for the written exam; the stated passing threshold is 12 out of 25. Groups must enroll to see the competition and poster assignments. Confirm the actual 2026 exam date and individual placement.",

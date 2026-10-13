@@ -1,11 +1,8 @@
-// Start phone explanations folded; desktop keeps the complete reading view.
-const phoneLayout=matchMedia('(max-width:760px)');
-function setPhoneFolds(){document.querySelectorAll('[data-phone-fold]').forEach(el=>el.open=!phoneLayout.matches);}
-setPhoneFolds();phoneLayout.addEventListener('change',setPhoneFolds);
-import './practice.mjs?v=7';
-import {civilDate,semesterState,obligationState,nextObligation,calendarWeek} from './course-state.mjs?v=7';
+import './practice.mjs?v=8';
+import {civilDate,semesterState,obligationState,nextObligation,calendarWeek} from './course-state.mjs?v=8';
 const all = selector => [...document.querySelectorAll(selector)];
 const set = (selector,text) => all(selector).forEach(el=>el.textContent=text);
+document.body.classList.add('js');
 const courseId=document.body.dataset.course||location.pathname.match(/^\/dtu\/(\d{5})\//)?.[1]||'12106';
 const courseBase=`/dtu/${courseId}/`;
 const storageTerm=document.body.dataset.storageTerm||'fall2026';
@@ -13,9 +10,28 @@ const storageKey=`krois.dtu.${courseId}.${storageTerm}.completed`;
 let completed={};
 try {const saved=JSON.parse(localStorage.getItem(storageKey)||'{}');if(saved&&typeof saved==='object'&&!Array.isArray(saved))completed=saved;}catch {}
 const dateFormat=new Intl.DateTimeFormat('en-GB',{timeZone:'Europe/Copenhagen',day:'numeric',month:'long',year:'numeric'});
-let data,selectedWeek=null,weeklyNavPositioned=false;
+// Optional reading sections start closed in HTML. Resizing never resets them.
+const menus = all('.nav-menu');
+for (const menu of menus) menu.addEventListener('toggle', () => {
+  if (menu.open) for (const other of menus) if (other !== menu) other.open = false;
+});
+document.addEventListener('click', event => {
+  for (const menu of menus) if (!menu.contains(event.target)) menu.open = false;
+});
+document.addEventListener('keydown', event => {
+  if (event.key === 'Escape') for (const menu of menus) if (menu.open) {
+    menu.open = false; menu.querySelector('summary').focus();
+  }
+});
+let data,selectedWeek=null;
 function showWeek(number) {
-  all('[data-week-panel]').forEach(panel=>panel.hidden=Number(panel.dataset.weekPanel)!==number);
+  all('[data-week-panel]').forEach(panel=>{
+    const selected=Number(panel.dataset.weekPanel)===number;
+    const changed=selected&&panel.hidden;
+    panel.hidden=!selected;
+    if(changed&&!matchMedia('(prefers-reduced-motion: reduce)').matches)
+      panel.animate([{opacity:0,transform:'translateY(6px)'},{opacity:1,transform:'translateY(0)'}],{duration:180});
+  });
   all('[data-select-week]').forEach(button=>button.setAttribute('aria-pressed',String(Number(button.dataset.selectWeek)===number)));
   const select=document.querySelector('#week-select');if(select)select.value=String(number);
 }
@@ -25,6 +41,11 @@ function refresh() {
   set('[data-date-phone]',new Intl.DateTimeFormat('en-GB',{timeZone:'Europe/Copenhagen',day:'numeric',month:'short'}).format(now));
   if(!data)return;
   const {course,weeks,obligations}=data;
+  const archived=course.archived===true;
+  if(archived){
+    set('[data-semester]',`${weeks.length} ${(course.studyUnit||'Week').toLowerCase()}s`);
+    if(selectedWeek===null&&weeks[0])showWeek(weeks[0].number);
+  }else{
   const state=semesterState(day,weeks,course.breakStart,course.breakEnd);
   const week=state.kind==='week'?state.week:null;
   const breakLabel=course.breakLabel||(/^Fall/.test(course.term)?'Autumn break':'Teaching break');
@@ -40,22 +61,23 @@ function refresh() {
   const currentLink=document.querySelector('[data-current-week]');
   if(currentLink&&currentNumber){currentLink.href=`${courseBase}weeks/${currentNumber}/`;currentLink.textContent=state.kind==='break'?`Preview week ${currentNumber} →`:state.kind==='after'?`Review week ${currentNumber} →`:'Open the weekly plan →';}
   all('[data-track]').forEach(el=>{const w=weeks.find(w=>w.number===Number(el.dataset.track));el.classList.toggle('elapsed',day>w.end);el.classList.toggle('current',week?.number===w.number);});
-  if(!weeklyNavPositioned&&matchMedia('(max-width:760px)').matches){const nav=document.querySelector('.rail-weeks nav');const active=nav?.querySelector('[aria-current="page"]')||nav?.querySelector(`[data-week-nav="${week?.number}"]`);if(nav&&active){nav.scrollLeft+=active.getBoundingClientRect().left-nav.getBoundingClientRect().left-nav.clientWidth/2+active.offsetWidth/2;weeklyNavPositioned=true;}}
   all('[data-week-nav]').forEach(el=>el.classList.toggle('is-current-week',Number(el.dataset.weekNav)===week?.number));
   all('[data-current-marker]').forEach(el=>{el.classList.toggle('is-now',Number(el.dataset.currentMarker)===week?.number);el.parentElement.classList.toggle('is-now',Number(el.dataset.currentMarker)===week?.number);});
   all('[data-tile]').forEach(el=>el.classList.toggle('is-current',Number(el.dataset.tile)===week?.number));
   if(selectedWeek===null&&currentNumber)showWeek(currentNumber);
+  }
   for(const item of obligations){
-    const status=obligationState(item,now,completed[item.id]===true);
-    const text={passed:'Deadline passed',complete:'Marked complete',soon:'Due within 7 days',today:item.id==='exam'?'Exam today · check time':'Due today · check time',upcoming:'Upcoming',undated:'Date unconfirmed'}[status];
+    const status=archived ? completed[item.id]===true ? 'complete' : item.due||item.dateOnly ? 'historical' : 'undated' : obligationState(item,now,completed[item.id]===true);
+    const text={historical:'Historical date',passed:'Deadline passed',complete:'Marked complete',soon:'Due within 7 days',today:item.id==='exam'?'Exam today · check time':'Due today · check time',upcoming:'Upcoming',undated:'Date unconfirmed'}[status];
     all(`[data-obligation="${item.id}"]`).forEach(card=>{
       card.classList.toggle('is-complete',status==='complete');
-      const badge=card.querySelector('[data-status]');badge.textContent=text;badge.className='status '+status;
+      const badge=card.querySelector('[data-status]');if(badge){badge.textContent=text;badge.className='status '+status;}
     });
     all(`[data-complete="${item.id}"]`).forEach(input=>input.checked=completed[item.id]===true);
   }
   const count=obligations.filter(o=>completed[o.id]===true).length;
   set('[data-completed-count]',`${count} of ${obligations.length} complete`);
+  if(archived)return;
   const passed=obligations.filter(o=>obligationState(o,now,completed[o.id]===true)==='passed').length;
   set('[data-past-compact]',passed?`${passed} earlier deadlines to check.`:'Saved on this device.');
   set('[data-past-count]',passed?`${passed} past deadline${passed===1?'':'s'} not marked complete. Check your actual submission status in Learn.`:'Completion reflects your checkboxes, not DTU submission records.');
@@ -70,7 +92,7 @@ function refresh() {
     if(link){link.href=`${courseBase}deadlines/#${next.id}`;link.textContent='View requirements →';}
   }else{
     set('[data-next-title]',count===obligations.length?'All obligations marked complete':'No future deadline listed');
-    set('[data-next-description]',passed?'Review the past dates and confirm your submission status in DTU Learn.':'Keep an eye on official course announcements for any changes.');
+    set('[data-next-description]',passed?'Review the past dates and confirm your submission status in DTU Learn.':'Keep an eye on official course announcements for updates.');
     set('[data-next-date]',course.term);set('[data-countdown]','Review your checklist');
     if(link){link.href=courseBase+'deadlines/';link.textContent='Review checklist →';}
   }
@@ -92,7 +114,7 @@ if(search){
 all('[data-select-week]').forEach(button=>button.addEventListener('click',()=>{selectedWeek=Number(button.dataset.selectWeek);showWeek(selectedWeek);}));
 document.querySelector('[data-return-current]')?.addEventListener('click',()=>{selectedWeek=null;refresh();});
 document.querySelector('#week-select')?.addEventListener('change',event=>{selectedWeek=Number(event.target.value);showWeek(selectedWeek);});
-try{
+if(document.body.dataset.course)try{
   const response=await fetch(courseBase+'runtime.json');if(!response.ok)throw new Error('Course data unavailable');data=await response.json();
   all('[data-complete]').forEach(input=>{
     input.disabled=false;

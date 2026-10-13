@@ -15,6 +15,7 @@ export const course = {
 };
 
 export const presentation = {
+  warning: "Weeks 1–8 have no mandatory hand-ins. Exam date is unconfirmed.",
   subtitle: "Group project · two-hour written exam",
   assessment:
     "Weeks 1–8 contain learning activities with no mandatory exercise hand-ins. The project is completed in groups of 3–4, with project selection, an ungraded synopsis and a final report. The report is at most four pages excluding references and the AI declaration, uses the course template and links a repository with reproducible results. A two-hour paper multiple-choice exam permits printed material only. Project and exam jointly determine the grade.",

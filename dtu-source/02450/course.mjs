@@ -15,6 +15,7 @@ export const course = {
 };
 
 export const presentation = {
+  warning: "Resubmissions apply only to unapproved reports. Exam date and time are unconfirmed.",
   subtitle: "Two approved reports · four-hour exam",
   assessment:
     "Two group reports must be approved to pass the course. Approval is not a prerequisite for attending the exam. Groups normally contain three students. The Spring 2025 handbook describes a four-hour paper multiple-choice exam with negative marking, two A4 sheets of handwritten notes on both sides, and a calculator. Reports and exam contribute approximately 10 and 90 percent to the overall assessment.",

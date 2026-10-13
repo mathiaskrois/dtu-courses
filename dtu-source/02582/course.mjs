@@ -16,6 +16,7 @@ export const course = {
 };
 
 export const presentation = {
+  warning: "Case 2: 5 May 2026, 23:59 in Learn; the course overview says 2 May.",
   subtitle: "Two cases · written exam",
   assessment:
     "Two applied cases, including a report and video poster for Case 2, plus a written examination. Learn also lists project-synopsis peer feedback. The overview gives a written-exam date of 20 May; confirm the archived time and room in the exam system. No grading split is inferred here.",

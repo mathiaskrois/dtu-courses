@@ -1,6 +1,6 @@
 # DTU course companion
 
-Independent source repository for https://krois.dk/dtu/. Covers 15 enrolled DTU courses across six teaching periods in 2025 and 2026, with weekly plans, official material links, fill-in practice and submission checklists. The left sidebar groups courses by period; the homepage automatically opens the current period using Copenhagen time. Answers and completion stay in the visitor's browser. Raw Learn exports, videos, credentials and personal answers are not part of this repository.
+Independent source repository for https://krois.dk/dtu/. Covers 15 enrolled DTU courses across six teaching periods in 2025 and 2026, with weekly plans, official material links, fill-in practice and submission checklists. The top navigation groups courses by period; the homepage automatically opens the current period using Copenhagen time. Answers and completion stay in the visitor's browser. Raw Learn exports, videos, credentials and personal answers are not part of this repository.
 
 ## Add courses and change the shared layout
 

@@ -15,22 +15,11 @@ export function studyPlan(
       lead: focus,
       learn: source,
       projectPhase,
-      takeaways: [
-        { title: "The central idea", text: focus },
-        {
-          title: "Make the assumptions visible",
-          text: "State what your example assumes, what information is available, and what would change the conclusion. Use the linked course material to check your reasoning.",
-        },
-        {
-          title: "Keep evidence with the result",
-          text: "Record a small example, its expected outcome and one limitation. A result is easier to trust when someone else can follow how you obtained it.",
-        },
-      ],
+      takeaways: [{ title, text: focus }],
       practice: {
-        title: `Try it: ${title}`,
+        title,
         prompt,
-        result:
-          "A small worked example, a justified result and one check or limitation.",
+        result: "Example, result and check.",
         fields: [
           {
             id: "example",

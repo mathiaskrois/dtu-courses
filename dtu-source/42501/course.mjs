@@ -12,6 +12,7 @@ export const course = {
   breakEnd: null,
   periodStart: "2025-06-04",
   archived: true,
+  studyUnit: "Block",
 };
 
 export const presentation = {

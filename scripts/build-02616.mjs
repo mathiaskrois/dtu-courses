@@ -35,7 +35,8 @@ const resources = JSON.parse(
 );
 const href = (n) => base + "weeks/" + n + "/";
 const stamp = `<p class="source-note">Checked ${c.verified}. Dates come from Learn assignments and the live course calendar, plus course briefings and announcements. Weekly explanations and mini-exercises are original study guidance. Learn materials require DTU login.</p>`;
-const sources = `<div class="source-links">${external(c.website, "Live course calendar")}${external(c.project, "Intro & assessment")}${external(c.learn, "DTU Learn")}</div>${stamp}`;
+const sourceContent = `<div class="source-links">${external(c.website, "Live course calendar")}${external(c.project, "Intro & assessment")}${external(c.learn, "DTU Learn")}</div>${stamp}`;
+const sources = `<details class="source-details"><summary>Sources & verification</summary>${sourceContent}</details>`;
 const date = (s) =>
   new Intl.DateTimeFormat("en-GB", {
     day: "numeric",
@@ -48,10 +49,6 @@ const layout = createLayout({
   weeks,
   description:
     "DTU 02616 Large-scale Modelling: weekly essentials, on-page practice, assignments and oral exam dates.",
-  railTitle: "Large-scale<br>Modelling",
-  railSubtitle: "Two projects · Oral exam",
-  weekHint: "Essentials, practice & projects",
-  railBottom: `<div class="rail-bottom"><span class="eyebrow">YOUR EXERCISES</span><strong>Group of 3–4</strong>${external(c.project, "Course & assessment briefing")}<p>Essential practice: 30–60 min/week.<br>Project implementation is additional.</p></div>`,
 });
 
 const taskCard = (o) => renderTaskCard(o, { year: c.term.match(/\d{4}/)[0] });
@@ -84,18 +81,13 @@ function panel(w) {
     due,
     next,
     dateLabel: w.projectPhase ? "PROJECT WORK" : date(w.date).toUpperCase(),
-    lead: w.lead,
-    takeaways: w.takeaways.map((t) => ({
-      ...t,
-      summary: t.text.split(". ")[0] + ".",
-    })),
+    takeaways: w.takeaways,
     prompt: w.practice.prompt,
-    noDeadline: `<div class="no-deadline"><h4>No dated deadline this week</h4><p>Continue the required project work and check Learn for updates. The on-page task is optional.</p></div>`,
   });
 }
 
 function overview() {
-  return `${pageHeading(`02616 / FALL 2026 / HPC`, `${c.shortTitle}`, `<div class="course-meta"><span class="desktop-copy" data-semester>13 teaching weeks</span><span class="phone-copy" data-semester-phone>13 weeks</span><span class="meta-dot">·</span><span data-calendar>Break in calendar week 42</span></div>`, `<a class="button" href="${base}materials/">Browse materials ↗</a>`, "page-heading overview-heading")}${deadlineSpotlight(base)}${weeklyBrowser(c, weeks, weeks.map(panel).join(""))}${overviewDeadlines(`Two reports. One oral exam.`, base, compactTasks(obligations, base), `Saved completion is personal; confirm registration and submission in Learn.`)}<details class="pass-details"><summary>How assessment works</summary>${projectInfo}</details><details class="source-details"><summary>Course logistics & sources</summary><p>Tuesdays 08:30–12:00, building 324 room 040. Autumn break: 12–18 October, with Project 1 due at its end. The calendar confirms all 13 weekly topics; Learn’s content list currently supplies files for weeks 1–4. Later pages combine confirmed calendar topics with suggested original practice. Project 2’s brief and report deadline are not yet visible. The 6 October one-page draft and five-minute discussion were formative, not graded.</p><p>For HPC work, the Useful Documents module corrects the matplotlib module to 3.10.6-numpy-2.3.1-python-3.12.11; use mpi4py/4.0.3-python-3.12.11-openmpi-5.0.8 alongside it. Computation belongs on application or batch nodes. The September announcement reported a GitLab outage; check current availability in Learn.</p>${sources}</details>`;
+  return `${pageHeading(`02616 / FALL 2026 / HPC`, `${c.shortTitle}`, `<div class="course-meta"><span class="desktop-copy" data-semester>13 teaching weeks</span><span class="phone-copy" data-semester-phone>13 weeks</span><span class="meta-dot">·</span><span data-calendar>Break in calendar week 42</span></div>`, `<a class="button" href="${base}materials/">Browse materials ↗</a>`, "page-heading overview-heading")}${deadlineSpotlight(base)}<p class="notice">Project 1: 18 October, 23:59, during autumn break. Project 2: required, date unconfirmed. Exam: 11 December, individual time unconfirmed.</p>${weeklyBrowser(c, weeks, weeks.map(panel).join(""))}${overviewDeadlines(`Two reports. One oral exam.`, base, compactTasks(obligations, base), `Saved completion is personal; confirm registration and submission in Learn.`)}<details class="pass-details"><summary>How assessment works</summary>${projectInfo}</details><details class="source-details"><summary>Course logistics & sources</summary><p>Tuesdays 08:30–12:00, building 324 room 040. Autumn break: 12–18 October, with Project 1 due at its end. The calendar confirms all 13 weekly topics; Learn’s content list currently supplies files for weeks 1–4. Later pages combine confirmed calendar topics with suggested original practice. Project 2’s brief and report deadline are not yet visible. The 6 October one-page draft and five-minute discussion were formative, not graded.</p><p>For HPC work, the Useful Documents module corrects the matplotlib module to 3.10.6-numpy-2.3.1-python-3.12.11; use mpi4py/4.0.3-python-3.12.11-openmpi-5.0.8 alongside it. Computation belongs on application or batch nodes. The September announcement reported a GitLab outage; check current availability in Learn.</p>${sourceContent}</details>`;
 }
 
 function weekly(w) {
@@ -103,22 +95,22 @@ function weekly(w) {
       (o) => o.due?.slice(0, 10) >= w.start && o.due?.slice(0, 10) <= w.end,
     ),
     next = obligations.find((o) => o.due?.slice(0, 10) > w.end);
-  return `<div class="breadcrumbs"><a href="${base}">Course overview</a> / Week ${w.number}</div>${pageHeading(`WEEK ${String(w.number).padStart(2, "0")} / ${date(w.date).toUpperCase()} / ${w.projectPhase ? "PROJECT WORK" : "TEACHING"}`, `${esc(w.title)}`, `<p>${esc(w.lead)}</p>`, `<div class="week-page-actions"><a class="button dark" href="#practice">Do the task ↓</a>${external(w.learn, "Open this week in Learn", "button")}</div>`, "page-heading")}${weekPagination(weeks, w.number, base, "Exam & final deadlines")}${w.projectPhase ? '<p class="notice">Project planning tasks here are suggestions based on the official calendar, not extra graded submissions.</p>' : ""}${understandSection(`${analysisList(w.takeaways)}`)}${practiceSection(
+  return `<div class="breadcrumbs"><a href="${base}">Course overview</a> / Week ${w.number}</div>${pageHeading(`WEEK ${String(w.number).padStart(2, "0")} / ${date(w.date).toUpperCase()} / ${w.projectPhase ? "PROJECT WORK" : "TEACHING"}`, `${esc(w.title)}`, ``, `<div class="week-page-actions"><a class="button dark" href="#practice">Do the task ↓</a>${external(w.learn, "Open this week in Learn", "button")}</div>`, "page-heading")}${weekPagination(weeks, w.number, base, "Exam & final deadlines")}${w.projectPhase ? '<p class="notice">Project planning tasks here are suggestions based on the official calendar, not extra graded submissions.</p>' : ""}${understandSection(`${analysisList(w.takeaways)}`)}${practiceSection(
     `${esc(w.practice.title)}`,
     `${w.projectPhase ? "Suggested milestone" : "30–60 min · Suggested"}`,
     `${esc(w.practice.prompt)}`,
     practiceWorkspace(w),
-    `<details class="practice-check" open data-phone-fold><summary>Expected output</summary><p>${esc(w.practice.result)}</p></details><details class="practice-resources" open data-phone-fold><summary>Related official resources</summary><div class="source-links">${resources
+    `<details class="practice-check"><summary>Expected output</summary><p>${esc(w.practice.result)}</p></details><details class="practice-resources"><summary>Related official resources</summary><div class="source-links">${resources
       .filter((r) => r.weeks?.includes(w.number))
       .map((r) => external(r.url, r.title))
       .join("")}</div></details>`,
-  )}${mandatorySection(`<p class="source-note">${w.number <= 6 ? "Project 1: due 18 October at 23:59, even though that is autumn break." : "Project 2 report: required; deadline not published. Check Learn for the brief and date."}</p>${due.length ? due.map(taskCard).join("") : '<p class="notice">No official deadline falls inside this week.</p>'}${next ? `<div class="coming-next"><span class="eyebrow">COMING UP</span><h3>${esc(next.title)} · ${next.date}</h3><p>${next.time}</p><a class="text-link" href="${base}deadlines/#${next.id}">View checklist ↗</a></div>` : ""}`)}<details class="source-details"><summary>Sources & date notes</summary>${sources}</details>`;
+  )}${mandatorySection(`<p class="source-note">${w.number <= 6 ? "Project 1: due 18 October at 23:59, even though that is autumn break." : "Project 2 report: required; deadline not published. Check Learn for the brief and date."}</p>${due.length ? due.map(taskCard).join("") : '<p class="notice">No official deadline falls inside this week.</p>'}${next ? `<div class="coming-next"><span class="eyebrow">COMING UP</span><h3>${esc(next.title)} · ${next.date}</h3><p>${next.time}</p><a class="text-link" href="${base}deadlines/#${next.id}">View checklist ↗</a></div>` : ""}`)}<details class="source-details"><summary>Sources & date notes</summary>${sourceContent}</details>`;
 }
 function deadlines() {
-  return `${pageHeading(`02616 / OFFICIAL OBLIGATIONS`, `Mandatory & deadlines`, `<p>Two project reports, group enrolment and a presentation exam.</p>`, `<a class="button" href="${base}">Course overview →</a>`, "page-heading")}${deadlineBanner(`13 teaching weeks`, `Break in calendar week 42`, `Dates use Copenhagen time.`)}<p class="notice"><strong>Project 1 is due during the autumn break: 18 October, 23:59.</strong> Project 2 is required, but its report deadline is not published in the checked Learn content. The oral exam is 11 December; confirm your individual time.</p>${deadlineChecklist(`Your submission checklist`, ``, obligations.length, `${obligations.map(taskCard).join("")}`)}<details class="pass-details"><summary>Assessment & working requirements</summary>${projectInfo}<p>The course briefing requires a declaration if AI was used for hand-in material: explain what it was used for and what it generated or edited. These optional practice tasks do not submit anything to DTU.</p></details>${sources}`;
+  return `${pageHeading(`02616 / OFFICIAL OBLIGATIONS`, `Deadlines`, ``, `<a class="button" href="${base}">Course overview →</a>`, "page-heading")}${deadlineBanner(`13 teaching weeks`, `Break in calendar week 42`, `Dates use Copenhagen time.`)}<p class="notice"><strong>Project 1 is due during the autumn break: 18 October, 23:59.</strong> Project 2 is required, but its report deadline is not published in the checked Learn content. The oral exam is 11 December; confirm your individual time.</p>${deadlineChecklist(`Your submission checklist`, ``, obligations.length, `${obligations.map(taskCard).join("")}`)}<details class="pass-details"><summary>Assessment & working requirements</summary>${projectInfo}<p>The course briefing requires a declaration if AI was used for hand-in material: explain what it was used for and what it generated or edited. These optional practice tasks do not submit anything to DTU.</p></details>${sources}`;
 }
 function materials() {
-  return `${pageHeading(`02616 / COURSE LIBRARY`, `Course materials`, `<p>All currently listed Learn files and linked HPC guides. Later weekly topics are published in the calendar; additional files and Project 2’s brief are not yet visible.</p>`, `${external(c.learn, "DTU Learn", "button")}`, "page-heading")}${materialsLibrary(resources, "Try: MPI, labs, network…")}${sources}`;
+  return `${pageHeading(`02616 / COURSE LIBRARY`, `Materials`, ``, `${external(c.learn, "DTU Learn", "button")}`, "page-heading")}${materialsLibrary(resources, "Try: MPI, labs, network…")}${sources}`;
 }
 async function page(path, body, title, active, week) {
   await mkdir(root + path, { recursive: true });

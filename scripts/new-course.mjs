@@ -55,5 +55,5 @@ await writeFile(
 );
 await writeFile(new URL("resources.json", directory), "[]\n");
 console.log(
-  `Created dtu-source/${id}/. After checking the sources, add this entry to dtu-source/courses.mjs:\n${JSON.stringify({ id, name: title, term, label: "Assessment to confirm", detail: "Weekly plans, practice & deadlines", source: `dtu-source/${id}`, art: null }, null, 2)}\nThen run npm run build. See docs/course-playbook.md for the content schema.`,
+  `Created dtu-source/${id}/. After checking the sources, add this entry to dtu-source/courses.mjs:\n${JSON.stringify({ id, name: title, term, label: "Assessment to confirm", detail: "Weekly plans, practice & deadlines", source: `dtu-source/${id}`, palette: { primary: "#B9EF38", accent: "#8247E5", foreground: "#171B14" }, art: null }, null, 2)}\nThen run npm run build. See docs/course-playbook.md for the content schema.`,
 );

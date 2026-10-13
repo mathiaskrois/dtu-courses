@@ -10,7 +10,8 @@
     "breakStart": null,
     "breakEnd": null,
     "periodStart": "2025-06-04",
-    "archived": true
+    "archived": true,
+    "studyUnit": "Block"
   },
   "weeks": [
     {
