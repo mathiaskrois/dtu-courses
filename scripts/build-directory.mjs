@@ -26,7 +26,7 @@ async function page(selected, automatic = false) {
   const body =
     pageHeading(
       "DTU / COURSE COLLECTION",
-      "Courses.",
+      "COURSE<br>INDEX.",
     ) +
     `<div data-period-directory="${automatic ? "automatic" : "selected"}">${visiblePeriods.map((p) => `<section data-period-panel="${p.id}" data-period-start="${p.start}"${p.id !== selected.id ? " hidden" : ""}><div class="period-heading"><h2>${esc(p.term)}</h2><span>${p.courses.length} courses</span></div>${courseDirectory(p.courses)}</section>`).join("")}</div>`;
   const directory = automatic ? root : new URL(`periods/${selected.id}/`, root);
