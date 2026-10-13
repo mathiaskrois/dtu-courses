@@ -13,6 +13,7 @@ This is the independent dtu-courses website repository, grouped locally under Gi
 
 - 12106: dtu-source/course.mjs and dtu-source/exercises.mjs, rendered by scripts/build-dtu.mjs.
 - 02807: dtu-source/02807/course.mjs and resources.json, rendered by scripts/build-02807.mjs.
-- npm run build renders both courses and the directory, then exports the complete public dtu/ tree.
+- 02581: dtu-source/02581/course.mjs and resources.json, rendered by scripts/build-02581.mjs. Dates follow Learn calendar and assignment metadata. FEA is undated; exam starts 8 December, individual slots unconfirmed.
+- npm run build renders all three courses and the directory, then exports the complete public dtu/ tree.
 - Browser storage must remain scoped by course ID and semester. Preserve existing 12106 keys.
 - Flag the contradictory 02807 project deadline (4 vs 6 December) until official confirmation. Do not import 12106 exam or peer-feedback requirements into other courses.

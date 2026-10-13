@@ -1,0 +1,740 @@
+[
+  {
+    "title": "02581-intro",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1268538/View",
+    "kind": "Slides",
+    "group": "Week 1 \u00b7 Intro to Polygonal Meshes and PyGEL",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "02581-mesh_intro.key",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1268540/View",
+    "kind": "Slides",
+    "group": "Week 1 \u00b7 Intro to Polygonal Meshes and PyGEL",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "PyGEL Intro",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264570/View",
+    "kind": "Video",
+    "group": "Week 1 \u00b7 Intro to Polygonal Meshes and PyGEL",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "The Dual and Smoothing",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264582/View",
+    "kind": "Assignment",
+    "group": "Week 1 \u00b7 Intro to Polygonal Meshes and PyGEL",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Ex_Dual_and_smoothing",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264586/View",
+    "kind": "Notebook / data",
+    "group": "Week 1 \u00b7 Intro to Polygonal Meshes and PyGEL",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Guide to Computational Geometry Processing",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264684/View",
+    "kind": "Reading",
+    "group": "Week 1 \u00b7 Intro to Polygonal Meshes and PyGEL",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "05 polygonal meshes",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f05-polygonal-meshes.pdf",
+    "kind": "Reading",
+    "group": "Week 1 \u00b7 Intro to Polygonal Meshes and PyGEL",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "repetition_elements_of_linear_algebra.mp4",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264605/View",
+    "kind": "Video",
+    "group": "Week 2 \u00b7 Geometry and Transformations",
+    "week": 2,
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Geometry and Transformations",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264583/View",
+    "kind": "Assignment",
+    "group": "Week 2 \u00b7 Geometry and Transformations",
+    "week": 2,
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Ex_GeometryTransformations.zip",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264604/View",
+    "kind": "Notebook / data",
+    "group": "Week 2 \u00b7 Geometry and Transformations",
+    "week": 2,
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "02580_week2_SVD_RMSD_PR_2026.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1270801/View",
+    "kind": "Slides",
+    "group": "Week 2 \u00b7 Geometry and Transformations",
+    "week": 2,
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "02 vector spaces affine spaces and metric spaces",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f02-vector-spaces-affine-spaces-and-metric-spaces.pdf",
+    "kind": "Reading",
+    "group": "Week 2 \u00b7 Geometry and Transformations",
+    "week": 2,
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "17 3d surface registration icp",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f17-3d-surface-registration-icp.pdf",
+    "kind": "Reading",
+    "group": "Week 2 \u00b7 Geometry and Transformations",
+    "week": 2,
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "02581_SpaceAndRegistration_23032022",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264579/View",
+    "kind": "Slides",
+    "group": "Week 5 \u00b7 Spatial Data Structures and Registration",
+    "week": 5,
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "presentation video",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264580/View",
+    "kind": "Video",
+    "group": "Week 5 \u00b7 Spatial Data Structures and Registration",
+    "week": 5,
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "02581_SpaceAndRegistration_24032022",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264581/View",
+    "kind": "Slides",
+    "group": "Week 5 \u00b7 Spatial Data Structures and Registration",
+    "week": 5,
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "02580_SpaceAndRegistration_pluslearned",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1285684/View",
+    "kind": "Slides",
+    "group": "Week 5 \u00b7 Spatial Data Structures and Registration",
+    "week": 5,
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Ex_Registration",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264589/View",
+    "kind": "Notebook / data",
+    "group": "Week 5 \u00b7 Spatial Data Structures and Registration",
+    "week": 5,
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Registration",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264614/View",
+    "kind": "Assignment",
+    "group": "Week 5 \u00b7 Spatial Data Structures and Registration",
+    "week": 5,
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "14 spatial data indexing and point location",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f14-spatial-data-indexing-and-point-location.pdf",
+    "kind": "Reading",
+    "group": "Week 5 \u00b7 Spatial Data Structures and Registration",
+    "week": 5,
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "17 3d surface registration icp",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f17-3d-surface-registration-icp.pdf",
+    "kind": "Reading",
+    "group": "Week 5 \u00b7 Spatial Data Structures and Registration",
+    "week": 5,
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "02581_DelaunayAndMeshCleaning",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264591/View",
+    "kind": "Slides",
+    "group": "Week 3 \u00b7 Delaunay Triangulation",
+    "week": 3,
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Delaunay Triangulation and Outlier Removal",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264574/View",
+    "kind": "Video",
+    "group": "Week 3 \u00b7 Delaunay Triangulation",
+    "week": 3,
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Delaunay Triangulation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264585/View",
+    "kind": "Assignment",
+    "group": "Week 3 \u00b7 Delaunay Triangulation",
+    "week": 3,
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Ex_Delaunay",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264588/View",
+    "kind": "Notebook / data",
+    "group": "Week 3 \u00b7 Delaunay Triangulation",
+    "week": 3,
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "16 triangle mesh generation delaunay triangulation",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f16-triangle-mesh-generation-delaunay-triangulation.pdf",
+    "kind": "Reading",
+    "group": "Week 3 \u00b7 Delaunay Triangulation",
+    "week": 3,
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Dmatrix",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264571/View",
+    "kind": "Notebook / data",
+    "group": "Week 4 \u00b7 Interpolation of Scattered Data",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "RadialBasisPR",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264572/View",
+    "kind": "Slides",
+    "group": "Week 4 \u00b7 Interpolation of Scattered Data",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "RBFdemo",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264573/View",
+    "kind": "Notebook / data",
+    "group": "Week 4 \u00b7 Interpolation of Scattered Data",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Ex_Scattered",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264587/View",
+    "kind": "Notebook / data",
+    "group": "Week 4 \u00b7 Interpolation of Scattered Data",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Interpolation of Scatted Data",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264615/View",
+    "kind": "Assignment",
+    "group": "Week 4 \u00b7 Interpolation of Scattered Data",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "RadialBasisFunctionDemo.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264619/View",
+    "kind": "Slides",
+    "group": "Week 4 \u00b7 Interpolation of Scattered Data",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "18 surface reconstruction using radial basis functions",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f18-surface-reconstruction-using-radial-basis-functions.pdf",
+    "kind": "Reading",
+    "group": "Week 4 \u00b7 Interpolation of Scattered Data",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "02581-DistanceFields",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264592/View",
+    "kind": "Slides",
+    "group": "Week 6 \u00b7 Distance Fields and Isosurfaces",
+    "week": 6,
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "02581-isosurface_polygonization",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264593/View",
+    "kind": "Slides",
+    "group": "Week 6 \u00b7 Distance Fields and Isosurfaces",
+    "week": 6,
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Ex_Isosurface",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264590/View",
+    "kind": "Notebook / data",
+    "group": "Week 6 \u00b7 Distance Fields and Isosurfaces",
+    "week": 6,
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Isosurface Polygonization",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264616/View",
+    "kind": "Assignment",
+    "group": "Week 6 \u00b7 Distance Fields and Isosurfaces",
+    "week": 6,
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "07 implicit and volumetric representation",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f07-implicit-and-volumetric-representation.pdf",
+    "kind": "Reading",
+    "group": "Week 6 \u00b7 Distance Fields and Isosurfaces",
+    "week": 6,
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "20 isosurface polygonization",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f20-isosurface-polygonization.pdf",
+    "kind": "Reading",
+    "group": "Week 6 \u00b7 Distance Fields and Isosurfaces",
+    "week": 6,
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "02581-volumetric_reconstruction.key",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264610/View",
+    "kind": "Slides",
+    "group": "Week 7 \u00b7 Surface Reconstruction from Points",
+    "week": 7,
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Surface Reconstruction from Points",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264595/View",
+    "kind": "Assignment",
+    "group": "Week 7 \u00b7 Surface Reconstruction from Points",
+    "week": 7,
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Ex_Volumetric_Reconstruction",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264596/View",
+    "kind": "Notebook / data",
+    "group": "Week 7 \u00b7 Surface Reconstruction from Points",
+    "week": 7,
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "19 surface reconstruction from point clouds",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f19-surface-reconstruction-from-point-clouds.pdf",
+    "kind": "Reading",
+    "group": "Week 7 \u00b7 Surface Reconstruction from Points",
+    "week": 7,
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Mesh Curvature and Geodesics",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264670/View",
+    "kind": "Assignment",
+    "group": "Week 8 \u00b7 The Euler-Poincare Formula and Curvature",
+    "week": 8,
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "05 polygonal meshes",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f05-polygonal-meshes.pdf",
+    "kind": "Reading",
+    "group": "Week 8 \u00b7 The Euler-Poincare Formula and Curvature",
+    "week": 8,
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "09 curvature in triangle meshes",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f09-curvature-in-triangle-meshes.pdf",
+    "kind": "Reading",
+    "group": "Week 8 \u00b7 The Euler-Poincare Formula and Curvature",
+    "week": 8,
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "02581_curvature",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264613/View",
+    "kind": "Slides",
+    "group": "Week 9 \u00b7 Normal Curvature and Geodesics",
+    "week": 9,
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Ex_Mesh_Curvature_and_Geodesics",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264611/View",
+    "kind": "Notebook / data",
+    "group": "Week 9 \u00b7 Normal Curvature and Geodesics",
+    "week": 9,
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Mesh Curvature and Geodesics",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264612/View",
+    "kind": "Assignment",
+    "group": "Week 9 \u00b7 Normal Curvature and Geodesics",
+    "week": 9,
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "09 curvature in triangle meshes",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f09-curvature-in-triangle-meshes.pdf",
+    "kind": "Reading",
+    "group": "Week 9 \u00b7 Normal Curvature and Geodesics",
+    "week": 9,
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "02581-LBO-Smoothing",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264576/View",
+    "kind": "Slides",
+    "group": "Week 10 & 11 \u00b7 The Laplace Beltrami Operator",
+    "week": 10,
+    "weeks": [
+      10,
+      11
+    ]
+  },
+  {
+    "title": "Corona-recording: Guitar illustration of Laplace eigenfunctions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264577/View",
+    "kind": "Video",
+    "group": "Week 10 & 11 \u00b7 The Laplace Beltrami Operator",
+    "week": 10,
+    "weeks": [
+      10,
+      11
+    ]
+  },
+  {
+    "title": "Corona-recording: Laplace in 1D and eigenfunctions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264578/View",
+    "kind": "Video",
+    "group": "Week 10 & 11 \u00b7 The Laplace Beltrami Operator",
+    "week": 10,
+    "weeks": [
+      10,
+      11
+    ]
+  },
+  {
+    "title": "02581_LaplaceIntroPR_Handout",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264620/View",
+    "kind": "Slides",
+    "group": "Week 10 & 11 \u00b7 The Laplace Beltrami Operator",
+    "week": 10,
+    "weeks": [
+      10,
+      11
+    ]
+  },
+  {
+    "title": "02581-spectral",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264621/View",
+    "kind": "Slides",
+    "group": "Week 10 & 11 \u00b7 The Laplace Beltrami Operator",
+    "week": 10,
+    "weeks": [
+      10,
+      11
+    ]
+  },
+  {
+    "title": "Ex_Spectral",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264623/View",
+    "kind": "Notebook / data",
+    "group": "Week 10 & 11 \u00b7 The Laplace Beltrami Operator",
+    "week": 10,
+    "weeks": [
+      10,
+      11
+    ]
+  },
+  {
+    "title": "LaplaceDemo",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264640/View",
+    "kind": "Notebook / data",
+    "group": "Week 10 & 11 \u00b7 The Laplace Beltrami Operator",
+    "week": 10,
+    "weeks": [
+      10,
+      11
+    ]
+  },
+  {
+    "title": "Laplace Beltrami Operator",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264646/View",
+    "kind": "Assignment",
+    "group": "Week 10 & 11 \u00b7 The Laplace Beltrami Operator",
+    "week": 10,
+    "weeks": [
+      10,
+      11
+    ]
+  },
+  {
+    "title": "10 discrete laplace beltrami operator",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f10-discrete-laplace-beltrami-operator.pdf",
+    "kind": "Reading",
+    "group": "Week 10 & 11 \u00b7 The Laplace Beltrami Operator",
+    "week": 10,
+    "weeks": [
+      10,
+      11
+    ]
+  },
+  {
+    "title": "11 mesh smoothing and variational subdivision",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f11-mesh-smoothing-and-variational-subdivision.pdf",
+    "kind": "Reading",
+    "group": "Week 10 & 11 \u00b7 The Laplace Beltrami Operator",
+    "week": 10,
+    "weeks": [
+      10,
+      11
+    ]
+  },
+  {
+    "title": "02581_skeletonization",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264625/View",
+    "kind": "Slides",
+    "group": "Week 12 \u00b7 The Medial Axis and Curve Skeletons",
+    "week": 12,
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "Medial Surfaces and Curve Skeletons",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264631/View",
+    "kind": "Assignment",
+    "group": "Week 12 \u00b7 The Medial Axis and Curve Skeletons",
+    "week": 12,
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "Ex_Skeletons",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264632/View",
+    "kind": "Notebook / data",
+    "group": "Week 12 \u00b7 The Medial Axis and Curve Skeletons",
+    "week": 12,
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "21 the medial axis and curve skeletons",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f21-the-medial-axis-and-curve-skeletons.pdf",
+    "kind": "Reading",
+    "group": "Week 12 \u00b7 The Medial Axis and Curve Skeletons",
+    "week": 12,
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "Visualization.key",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264628/View",
+    "kind": "Slides",
+    "group": "Week 13 \u00b7 Mesh Optimization and Visualization",
+    "week": 13,
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "02581 Visualization Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264629/View",
+    "kind": "Video",
+    "group": "Week 13 \u00b7 Mesh Optimization and Visualization",
+    "week": 13,
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "02581 Blender Intro",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264630/View",
+    "kind": "Video",
+    "group": "Week 13 \u00b7 Mesh Optimization and Visualization",
+    "week": 13,
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "02581-mesh_optimization",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264639/View",
+    "kind": "Slides",
+    "group": "Week 13 \u00b7 Mesh Optimization and Visualization",
+    "week": 13,
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "meshes",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264643/View",
+    "kind": "Notebook / data",
+    "group": "Week 13 \u00b7 Mesh Optimization and Visualization",
+    "week": 13,
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "mesh_optim",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264644/View",
+    "kind": "Notebook / data",
+    "group": "Week 13 \u00b7 Mesh Optimization and Visualization",
+    "week": 13,
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Mesh Optimization and Visualization",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264645/View",
+    "kind": "Assignment",
+    "group": "Week 13 \u00b7 Mesh Optimization and Visualization",
+    "week": 13,
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "13 simplifying and optimizing triangle meshes",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326365&type=coursefile&fileId=chapters%2f13-simplifying-and-optimizing-triangle-meshes.pdf",
+    "kind": "Reading",
+    "group": "Week 13 \u00b7 Mesh Optimization and Visualization",
+    "week": 13,
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "02581-2025-reading-list-annotated",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326365/viewContent/1264634/View",
+    "kind": "Reading",
+    "group": "Exam",
+    "week": null,
+    "weeks": []
+  }
+]
