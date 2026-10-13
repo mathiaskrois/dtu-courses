@@ -1,0 +1,142 @@
+{
+  "course": {
+    "id": "02616",
+    "title": "Large-scale Modelling",
+    "shortTitle": "Large-scale Modelling",
+    "term": "Fall 2026",
+    "verified": "13 October 2026",
+    "learn": "https://learn.inside.dtu.dk/d2l/home/326362",
+    "website": "https://learn.inside.dtu.dk/d2l/le/calendar/326362",
+    "project": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1266165/View",
+    "breakStart": "2026-10-12",
+    "breakEnd": "2026-10-18",
+    "noExam": false
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2026-08-31",
+      "end": "2026-09-06",
+      "title": "Parallel architectures & MPI basics"
+    },
+    {
+      "number": 2,
+      "start": "2026-09-07",
+      "end": "2026-09-13",
+      "title": "Networks & multi-node MPI"
+    },
+    {
+      "number": 3,
+      "start": "2026-09-14",
+      "end": "2026-09-20",
+      "title": "Python multiprocessing"
+    },
+    {
+      "number": 4,
+      "start": "2026-09-21",
+      "end": "2026-09-27",
+      "title": "mpi4py communication"
+    },
+    {
+      "number": 5,
+      "start": "2026-09-28",
+      "end": "2026-10-04",
+      "title": "Project 1 · design the experiments"
+    },
+    {
+      "number": 6,
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "title": "Project 1 · scaling & report"
+    },
+    {
+      "number": 7,
+      "start": "2026-10-19",
+      "end": "2026-10-25",
+      "title": "Project 1 · recap"
+    },
+    {
+      "number": 8,
+      "start": "2026-10-26",
+      "end": "2026-11-01",
+      "title": "Advanced mpi4py"
+    },
+    {
+      "number": 9,
+      "start": "2026-11-02",
+      "end": "2026-11-08",
+      "title": "Parallel I/O"
+    },
+    {
+      "number": 10,
+      "start": "2026-11-09",
+      "end": "2026-11-15",
+      "title": "Project 2 · kick-off"
+    },
+    {
+      "number": 11,
+      "start": "2026-11-16",
+      "end": "2026-11-22",
+      "title": "Communicators & Project 2"
+    },
+    {
+      "number": 12,
+      "start": "2026-11-23",
+      "end": "2026-11-29",
+      "title": "Project 2 · analyse & draft"
+    },
+    {
+      "number": 13,
+      "start": "2026-11-30",
+      "end": "2026-12-06",
+      "title": "Project 2 · finish & prepare to present"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "project-1",
+      "title": "Submit Project 1 · Mandelbrot",
+      "audience": "Group · 3–4",
+      "due": "2026-10-18T21:59:59.000Z",
+      "date": "18 October",
+      "time": "23:59",
+      "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326362&type=dropbox&rcode=dtu-921821",
+      "source": "https://learn.inside.dtu.dk/d2l/home/326362",
+      "description": "Submit the first group project report. Use MPI for the Mandelbrot calculation and explain the observed scaling behaviour."
+    },
+    {
+      "id": "oral-exam",
+      "title": "Present your work · oral exam",
+      "audience": "Presentation + questions",
+      "due": "2026-12-11T00:00:00+01:00",
+      "dateOnly": "2026-12-11",
+      "date": "11 December",
+      "time": "Individual time to confirm",
+      "url": "https://learn.inside.dtu.dk/d2l/home/326362",
+      "source": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1266165/View",
+      "description": "The course briefing schedules student presentations and questions on Friday 11 December, all day. Confirm your individual appointment."
+    },
+    {
+      "id": "project-2",
+      "title": "Submit Project 2 report",
+      "audience": "Group · 3–4",
+      "due": null,
+      "date": "Not published",
+      "time": "Check Learn",
+      "url": "https://learn.inside.dtu.dk/d2l/home/326362",
+      "source": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1266165/View",
+      "description": "A second project and report are required. Kick-off is 10 November; its brief and submission deadline were not visible in the checked Learn content."
+    },
+    {
+      "id": "group",
+      "title": "Enrol in a group of 3–4",
+      "audience": "Group",
+      "due": null,
+      "date": "As soon as possible",
+      "time": "No dated cutoff published",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/group/group_list.d2l?ou=326362",
+      "source": "https://learn.inside.dtu.dk/d2l/home/326362",
+      "description": "The course requires group work. The 22 and 28 September announcements ask anyone still without a group to enrol promptly."
+    }
+  ]
+}

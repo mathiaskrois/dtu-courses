@@ -3,7 +3,7 @@ const phoneLayout=matchMedia('(max-width:760px)');
 function setPhoneFolds(){document.querySelectorAll('[data-phone-fold]').forEach(el=>el.open=!phoneLayout.matches);}
 setPhoneFolds();phoneLayout.addEventListener('change',setPhoneFolds);
 import './practice.mjs';
-import {civilDate,semesterState,obligationState,nextObligation,calendarWeek} from './course-state.mjs';
+import {civilDate,semesterState,obligationState,nextObligation,calendarWeek} from './course-state.mjs?v=6';
 const all = selector => [...document.querySelectorAll(selector)];
 const set = (selector,text) => all(selector).forEach(el=>el.textContent=text);
 const courseId=document.body.dataset.course||location.pathname.match(/^\/dtu\/(\d{5})\//)?.[1]||'12106';
@@ -41,7 +41,7 @@ function refresh() {
   if(selectedWeek===null)showWeek(week?.number||(state.kind==='break'?7:state.kind==='before'?1:13));
   for(const item of obligations){
     const status=obligationState(item,now,completed[item.id]===true);
-    const text={passed:'Deadline passed',complete:'Marked complete',soon:'Due within 7 days',today:'Exam today · check time',upcoming:'Upcoming'}[status];
+    const text={passed:'Deadline passed',complete:'Marked complete',soon:'Due within 7 days',today:'Exam today · check time',upcoming:'Upcoming',undated:'Date unconfirmed'}[status];
     all(`[data-obligation="${item.id}"]`).forEach(card=>{
       card.classList.toggle('is-complete',status==='complete');
       const badge=card.querySelector('[data-status]');badge.textContent=text;badge.className='status '+status;

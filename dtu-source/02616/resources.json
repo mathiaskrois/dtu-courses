@@ -1,0 +1,298 @@
+[
+  {
+    "title": "DTU HPC main page",
+    "url": "https://www.hpc.dtu.dk/",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "https://www.hpc.dtu.dk/?page_id=2501",
+    "url": "https://www.hpc.dtu.dk/?page_id=2501",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "https://www.hpc.dtu.dk/?page_id=4317",
+    "url": "https://www.hpc.dtu.dk/?page_id=4317",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "https://www.hpc.dtu.dk/?page_id=1416",
+    "url": "https://www.hpc.dtu.dk/?page_id=1416",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "https://www.hpc.dtu.dk/?page_id=1428",
+    "url": "https://www.hpc.dtu.dk/?page_id=1428",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "client from Cendio",
+    "url": "https://www.cendio.com/thinlinc/download/",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "web-access in a browser",
+    "url": "https://thinlinc.gbar.dtu.dk/",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "https://theartofhpc.com/",
+    "url": "https://theartofhpc.com/",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "Memory hierarchy",
+    "url": "https://theartofhpc.com/istc/sequential.html#MemoryHierarchies",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "Multi-core architectures",
+    "url": "https://theartofhpc.com/istc/sequential.html#Multicorearchitectures",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "DTU Library",
+    "url": "https://findit.dtu.dk/en/catalog/5bcf696fd9001d020913c3b5",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "Connecting to an HPC Terminal (02613)",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326362&type=coursefile&fileId=Document+collection%2fConnecting+to+an+HPC+Terminal.html",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "File transfer to/from HPC (02613)",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326362&type=coursefile&fileId=Document+collection%2fFile+transfer+tofrom+HPC.html",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "Code Editors on ThinLinc (02613)",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326362&type=coursefile&fileId=Document+collection%2fCode+Editors+on+ThinLinc.html",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "Remote Development with VS Code (02613)",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326362&type=coursefile&fileId=Document+collection%2fRemote+Development+with+VS+Code.html",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "Memory, caches, etc (02614)",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326362&type=coursefile&fileId=Document+collection%2ftuning2025_part1_short.pdf",
+    "kind": "Guide / reference",
+    "group": "HPC guides & references",
+    "week": null,
+    "weeks": []
+  },
+  {
+    "title": "ai-tools.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1266163/View",
+    "kind": "Course briefing",
+    "group": "Week 1",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "course_info_week01.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1266165/View",
+    "kind": "Course briefing",
+    "group": "Week 1",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "week01.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1266166/View",
+    "kind": "Slides",
+    "group": "Week 1",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Labs",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1258164/View",
+    "kind": "Lab instructions",
+    "group": "Week 1",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Labs_week01.zip",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1258165/View",
+    "kind": "Notebook / code / data",
+    "group": "Week 1",
+    "week": 1,
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Week02_solutions.zip",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1275852/View",
+    "kind": "Notebook / code / data",
+    "group": "Week 2",
+    "week": 2,
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Week03_Solutions.zip",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1283925/View",
+    "kind": "Notebook / code / data",
+    "group": "Week 3",
+    "week": 3,
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "week04.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1279622/View",
+    "kind": "Slides",
+    "group": "Week 4",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "sample.py",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1279623/View",
+    "kind": "Notebook / code / data",
+    "group": "Week 4",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "mpi4py_cheatsheet.py",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1279624/View",
+    "kind": "Notebook / code / data",
+    "group": "Week 4",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "README.md",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1279625/View",
+    "kind": "Lab instructions",
+    "group": "Week 4",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week04_Solutions.zip",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/326362/viewContent/1283927/View",
+    "kind": "Notebook / code / data",
+    "group": "Week 4",
+    "week": 4,
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "mpi4py communicator reference",
+    "url": "https://mpi4py.readthedocs.io/en/stable/reference/mpi4py.MPI.Comm.html",
+    "kind": "Guide / reference",
+    "group": "Week 4",
+    "week": 4,
+    "weeks": [
+      4,
+      8,
+      11
+    ]
+  },
+  {
+    "title": "Open MPI reference",
+    "url": "https://docs.open-mpi.org/en/v5.0.x/man-openmpi/man3/index.html",
+    "kind": "Guide / reference",
+    "group": "Week 4",
+    "week": 4,
+    "weeks": [
+      4,
+      8,
+      11
+    ]
+  },
+  {
+    "title": "MPI self-study material",
+    "url": "https://www.hlrs.de/training/self-study-materials/mpi-course-material",
+    "kind": "Guide / reference",
+    "group": "Week 4",
+    "week": 4,
+    "weeks": [
+      4,
+      8,
+      11
+    ]
+  },
+  {
+    "title": "Project 1 submission \u00b7 Mandelbrot",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=326362&type=dropbox&rcode=dtu-921821",
+    "kind": "Assignment",
+    "group": "Project 1",
+    "week": 5,
+    "weeks": [
+      5,
+      6,
+      7
+    ]
+  }
+]

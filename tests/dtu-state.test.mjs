@@ -32,3 +32,10 @@ test('next obligation skips completed work but keeps deadlines after teaching',(
  const now=new Date('2026-10-08T12:00Z');assert.equal(nextObligation(obligations,now).id,'task2');assert.equal(nextObligation(obligations,now,{task2:true}).id,'peer2');
  assert.equal(nextObligation(obligations,new Date('2026-12-07T12:00Z')).id,'task3');assert.equal(nextObligation(obligations,new Date('2026-12-20T12:00Z')),null);
 });
+test('undated required work stays visible without becoming a fabricated deadline',()=>{
+ const undated={id:'report-2',due:null};const dated={id:'report-1',due:'2026-10-18T23:59:00+02:00'};const now=new Date('2026-10-13T12:00Z');
+ assert.equal(obligationState(undated,now),'undated');
+ assert.equal(obligationState(undated,now,true),'complete');
+ assert.equal(nextObligation([undated,dated],now).id,'report-1');
+ assert.equal(nextObligation([undated,dated],now,{'report-1':true}),null);
+});

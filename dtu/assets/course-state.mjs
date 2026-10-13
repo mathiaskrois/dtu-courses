@@ -16,11 +16,12 @@ export function obligationState(item, now, completed = false) {
     const today = civilDate(now);
     return today > item.dateOnly ? 'passed' : today === item.dateOnly ? 'today' : 'upcoming';
   }
+  if (!item.due) return 'undated';
   const ms = Date.parse(item.due) - now.getTime();
   return ms < 0 ? 'passed' : ms <= 7 * 86400000 ? 'soon' : 'upcoming';
 }
 export function nextObligation(items, now, completed = {}) {
-  return items.find(item=>!completed[item.id] && !['passed','complete'].includes(obligationState(item,now))) || null;
+  return items.find(item=>(item.due||item.dateOnly)&&!completed[item.id] && !['passed','complete'].includes(obligationState(item,now))) || null;
 }
 export function calendarWeek(day) {
   const d = new Date(`${day}T12:00:00Z`);
