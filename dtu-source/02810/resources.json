@@ -1,0 +1,3053 @@
+[
+  {
+    "title": "Course Overview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045765",
+    "group": "Course Overview",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "UX design prototyping",
+    "url": "https://kurser.dtu.dk/course/2025-2026/02810",
+    "group": "Course Overview",
+    "kind": "Course link"
+  },
+  {
+    "title": "Penpot",
+    "url": "https://penpot.app/",
+    "group": "Course Overview",
+    "kind": "Course link"
+  },
+  {
+    "title": "Figma",
+    "url": "https://www.figma.com/",
+    "group": "Course Overview",
+    "kind": "Course link"
+  },
+  {
+    "title": "Lean UX",
+    "url": "https://findit.dtu.dk/en/catalog/5cd6b56f5eee4800231d33ee",
+    "group": "Course Overview",
+    "kind": "Course link"
+  },
+  {
+    "title": "\"The UX Book / Designing a Quality User Experience\" by Rex Hartson og Pardha S. Pyla, 2nd edition (2018/2019)",
+    "url": "https://findit.dtu.dk/en/catalog/5f96c130d9001d01fa3786a1",
+    "group": "Course Overview",
+    "kind": "Reading"
+  },
+  {
+    "title": "The 3rd edition (June 2025) can also be used alongside the 2nd edition",
+    "url": "https://findit.dtu.dk/en/catalog/6886c4475ddcda0181a6eb06",
+    "group": "Course Overview",
+    "kind": "Course link"
+  },
+  {
+    "title": "Rochelle King, Elizabeth F. Churchill & Caitlin Tan's \"Designing with Data\"",
+    "url": "http://shop.oreilly.com/product/0636920026228.do",
+    "group": "Course Overview",
+    "kind": "Course link"
+  },
+  {
+    "title": "findit",
+    "url": "https://findit.dtu.dk/en/catalog?subscription=8374",
+    "group": "Course Overview",
+    "kind": "Course link"
+  },
+  {
+    "title": "via this zoom link",
+    "url": "https://dtudk.zoom.us/j/68153061039?pwd=bjUrRmVkZEllUXJkYlV5U0tlL3lHQT09",
+    "group": "Course Overview",
+    "kind": "Course link"
+  },
+  {
+    "title": "sign up",
+    "url": "https://join.slack.com/t/02810autumn2025/signup",
+    "group": "Course Overview",
+    "kind": "Course link"
+  },
+  {
+    "title": "Figma Tips and Tricks",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045766",
+    "group": "Figma Tips and Tricks",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Figma \"Crash Course\" tips and tricks",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1072333/View",
+    "group": "Figma Tips and Tricks",
+    "kind": "Video"
+  },
+  {
+    "title": "linked here",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-652623",
+    "group": "Figma Tips and Tricks",
+    "kind": "Course link"
+  },
+  {
+    "title": "25.01 Modelling Needs and Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045751",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Learn topic",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Wk1 Modeling Needs and Solutions (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1060797/View",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Official solutions",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Wk1 Modelling Needs and Solutions (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1061659/View",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Official solutions",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Penpot",
+    "url": "https://penpot.app/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Figma",
+    "url": "https://www.figma.com/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "DTU Learn assignment wk1.",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=dropbox&rcode=dtu-603734",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Assignment guidance",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "25.01 Modelling Needs and Solutions · here",
+    "url": "https://www.figma.com/education/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Official solutions",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Axure",
+    "url": "https://www.axure.com/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Marvel/POP",
+    "url": "https://marvelapp.com/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "proto.io",
+    "url": "http://proto.io/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Lunacy",
+    "url": "https://icons8.com/lunacy",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Sketch",
+    "url": "https://www.sketch.com/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Canva",
+    "url": "https://www.canva.com/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "draw.io",
+    "url": "https://www.draw.io/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "lucidchart.com",
+    "url": "http://lucidchart.com/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Michael Kai Petersen: Modeling Needs and Solutions",
+    "url": "https://youtu.be/JvMADwuI5jI",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Official solutions",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "zoom",
+    "url": "https://dtudk.zoom.us/j/68153061039?pwd=bjUrRmVkZEllUXJkYlV5U0tlL3lHQT09",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "25.01 Modelling Needs and Solutions · Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-744575",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Official solutions",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-745741",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Slides",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "25.01 Modelling Needs and Solutions · linked material",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-603959",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Official solutions",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "\"Running Lean\"",
+    "url": "http://shop.oreilly.com/product/0636920020141.do?green=CCAAF7F8-9D2C-5970-9756-E94B11DE3501&intcmp=af-mybuy-0636920020141.IP",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Meta-principles (free sample)",
+    "url": "http://cdn.oreilly.com/oreilly/booksamplers/9781449305178_sampler2.pdf",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "\"UX for lean startups\"",
+    "url": "http://shop.oreilly.com/product/0636920026242.do",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Early validation (free sample)",
+    "url": "http://cdn.oreilly.com/oreilly/booksamplers/9781449334918_sampler.pdf",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "\"The elements of value”",
+    "url": "https://findit.dtu.dk/en/catalog/2346289345",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Abras et al: User-Centered Design",
+    "url": "https://aim.johnkeston.com/wp-content/uploads/2012/01/User-centered_design_encyclopedia_chapter.pdf",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Design Thinking Bootleg",
+    "url": "https://static1.squarespace.com/static/57c6b79629687fde090a0fdd/t/5b19b2f2aa4a99e99b26b6bb/1528410876119/dschool_bootleg_deck_2018_final_sm+%282%29.pdf",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "25.01 Modelling Needs and Solutions · here",
+    "url": "https://dschool.stanford.edu/resources/design-thinking-bootleg",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Official solutions",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Nielsen (1994): Enhancing the explanatory power of usability heuristics",
+    "url": "https://findit.dtu.dk/en/catalog/56edd3623022d48f374fa069",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "10 Usability Heuristics for User Interface Design (online)",
+    "url": "https://www.nngroup.com/articles/ten-usability-heuristics/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Jeff Patton: \"User story mapping\"",
+    "url": "http://shop.oreilly.com/product/0636920033851.do",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "The Big Picture (free sample)",
+    "url": "https://www.safaribooksonline.com/library/view/user-story-mapping/9781491904893/ch01.html",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Dan Saffer: \"Microinteractions\"",
+    "url": "http://shop.oreilly.com/product/0636920032496.do",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Designing Microinteractions (free sample)",
+    "url": "http://microinteractions.com/downloads/microinteractions_sample_CH1.pdf",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Apple: ResearchKit",
+    "url": "http://researchkit.org/",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "add your Name and Student ID (sNNNNNN) to this sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1YQOOOMx7qkXE8BKROwM2im8MM5X7vRuYmLlxMXmi1AM/edit?usp=sharing",
+    "group": "25.01 Modelling Needs and Solutions",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "25.02 Data Driven Design",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045752",
+    "group": "25.02 Data Driven Design",
+    "kind": "Learn topic",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Week 2 Assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045801/View",
+    "group": "25.02 Data Driven Design",
+    "kind": "Assignment guidance",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Wk2 Data Driven Design (E24)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045802/View",
+    "group": "25.02 Data Driven Design",
+    "kind": "Video",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Wk2 Data Driven Design (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1067129/View",
+    "group": "25.02 Data Driven Design",
+    "kind": "Reading",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Wk2 Data Driven Design (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1067762/View",
+    "group": "25.02 Data Driven Design",
+    "kind": "Video",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "https://www.lucidchart.com",
+    "url": "https://www.lucidchart.com/",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "https://www.miro.com",
+    "url": "https://www.miro.com",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "https://app.diagrams.net/",
+    "url": "https://app.diagrams.net/",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "https://www.draw.io/",
+    "url": "https://www.draw.io/",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "https://storiesonboard.com/",
+    "url": "https://storiesonboard.com/",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Feedback Fruits",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-608057",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Prototyping with user Story Maps",
+    "url": "https://youtu.be/kvGrl0wkFT8",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "25.02 Data Driven Design · Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-751728",
+    "group": "25.02 Data Driven Design",
+    "kind": "Slides",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-752411",
+    "group": "25.02 Data Driven Design",
+    "kind": "Slides",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "25.02 Data Driven Design · linked material",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-483524",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "zoom",
+    "url": "https://dtudk.zoom.us/j/68153061039?pwd=bjUrRmVkZEllUXJkYlV5U0tlL3lHQT09",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Last years recorded lecture.",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-608186",
+    "group": "25.02 Data Driven Design",
+    "kind": "Slides",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Jeff Patton: \"User story mapping\" Chapter 1",
+    "url": "http://shop.oreilly.com/product/0636920033851.do",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "free sample chapter 1",
+    "url": "http://cdn.oreillystatic.com/oreilly/booksamplers/9781491904909_sampler.pdf",
+    "group": "25.02 Data Driven Design",
+    "kind": "Reading",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Johansen et al: Rethinking Hearing Aid Fitting by Learning From Behavioral Patterns",
+    "url": "https://findit.dtu.dk/en/catalog/58c689665010df41d953d23c",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "The Surprising Power of Online Experiments",
+    "url": "https://findit.dtu.dk/en/catalog/2447383131",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Choe et al: Semi-Automated Tracking: A Balanced Approach for Self-Monitoring Applications",
+    "url": "https://findit.dtu.dk/en/catalog/589c65645010df6e26035a75",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Rochelle King et al: Designing with Data (Chapters 4 and 6)",
+    "url": "http://shop.oreilly.com/product/0636920026228.do",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Gomez-Uribe, C.A. and Hunt, N., 2016. The netflix recommender system: Algorithms, business value, and innovation.",
+    "url": "https://findit.dtu.dk/en/catalog/2290070447",
+    "group": "25.02 Data Driven Design",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "25.03 Internet of Things",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045753",
+    "group": "25.03 Internet of Things",
+    "kind": "Learn topic",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Wk3 IoT (E24)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045804/View",
+    "group": "25.03 Internet of Things",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "LINC 1.5/2.0 Intro",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045803/View",
+    "group": "25.03 Internet of Things",
+    "kind": "Video",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Wk3: IoT (E24)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045805/View",
+    "group": "25.03 Internet of Things",
+    "kind": "Video",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Wk3 LINC 2.0 (First Version)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045806/View",
+    "group": "25.03 Internet of Things",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Wk3 IoT (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1072323/View",
+    "group": "25.03 Internet of Things",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Wk3 IoT (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1072468/View",
+    "group": "25.03 Internet of Things",
+    "kind": "Video",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Hand in (to DTU Learn Assignments)",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=dropbox&rcode=dtu-612376",
+    "group": "25.03 Internet of Things",
+    "kind": "Assignment guidance",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Micro- (and other) Interactions",
+    "url": "https://youtu.be/rF7vWg6kn7c",
+    "group": "25.03 Internet of Things",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "25.03 Internet of Things · Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-756863",
+    "group": "25.03 Internet of Things",
+    "kind": "Slides",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-757053",
+    "group": "25.03 Internet of Things",
+    "kind": "Slides",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "25.03 Internet of Things · linked material",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-611718",
+    "group": "25.03 Internet of Things",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "zoom",
+    "url": "https://dtudk.zoom.us/j/68153061039?pwd=bjUrRmVkZEllUXJkYlV5U0tlL3lHQT09",
+    "group": "25.03 Internet of Things",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Last year's recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-611844",
+    "group": "25.03 Internet of Things",
+    "kind": "Slides",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Dan Saffer: \"Microinteractions\" Chapter 1",
+    "url": "http://shop.oreilly.com/product/0636920032496.do",
+    "group": "25.03 Internet of Things",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "free sample chapter 1",
+    "url": "http://cdn.oreillystatic.com/oreilly/booksamplers/9781491945926_sampler.pdf",
+    "group": "25.03 Internet of Things",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Original LINC 1.0 Project",
+    "url": "https://lincproject.dk/",
+    "group": "25.03 Internet of Things",
+    "kind": "Assignment guidance",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Self-driving shuttles–well on the way or slightly in the way?",
+    "url": "https://lincproject.dk/wp-content/uploads/2022/05/O-5.1.1-User-perspectives-and-interactions-with-road-users.pdf",
+    "group": "25.03 Internet of Things",
+    "kind": "Assignment guidance",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "The bus stop as a concept - from fixed to flexible bus service",
+    "url": "https://lincproject.dk/wp-content/uploads/2022/05/O-5.2.1-The-bus-stop-as-a-concept_2021.pdf",
+    "group": "25.03 Internet of Things",
+    "kind": "Assignment guidance",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "LARGE SCALE PASSENGER DETECTION WITH SMARTPHONE/BUS IMPLICIT INTERACTION AND MULTISENSORY UNSUPERVISED CAUSE-EFFECT LEARNING",
+    "url": "https://lincproject.dk/wp-content/uploads/2022/05/D-5.4.1-Estimation-of-demand-destination-using-smart-phone.pdf",
+    "group": "25.03 Internet of Things",
+    "kind": "Assignment guidance",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Autonome shuttles langs letbanen - potentialeanalyse og optimeringsperspektiver",
+    "url": "https://lincproject.dk/wp-content/uploads/2022/05/D-6.1.4-Potential-Analysis-for-Greater-CPH-LRT-1.pdf",
+    "group": "25.03 Internet of Things",
+    "kind": "Assignment guidance",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Possible ideas for the LINC 2.0 project",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-611711",
+    "group": "25.03 Internet of Things",
+    "kind": "Assignment guidance",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "IFTTT: If This Then That",
+    "url": "https://ifttt.com/",
+    "group": "25.03 Internet of Things",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Claire Rowland: User Experience Design for the Internet of Things (free download; one chapter)",
+    "url": "http://www.oreilly.com/design/free/user-experience-for-iot.csp",
+    "group": "25.03 Internet of Things",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Various: Design for the Internet of Things (free download; curated chapters)",
+    "url": "http://www.oreilly.com/design/free/designing-for-the-internet-of-things.csp",
+    "group": "25.03 Internet of Things",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Jeff Patton: Story Map Concepts",
+    "url": "https://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf",
+    "group": "25.03 Internet of Things",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Beck et al.: Manifesto for Agile Software Development",
+    "url": "https://athena.ecs.csus.edu/~buckley/CSc191/Manifesto%20for%20Agile%20Software%20Development.pdf",
+    "group": "25.03 Internet of Things",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Cohn, M: Succeeding with Agile: Software Development Using Scrum, vol. 1. Addison-Wesley Professional, Boston (2009)",
+    "url": "https://findit.dtu.dk/en/catalog/5d05468cd9001d394c597caa",
+    "group": "25.03 Internet of Things",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Wautelet Y., Heng S., Hintea D., Kolp M., Poelmans S. (2016) Bridging User Story Sets with the Use Case Model. In: Link S., Trujillo J. (eds) Advances in Conceptual Modeling. ER 2016. Lecture Notes in Computer Science, vol 9975. Springer, Cham",
+    "url": "https://findit.dtu.dk/en/catalog/2349516315",
+    "group": "25.03 Internet of Things",
+    "kind": "Assignment guidance",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045754",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Learn topic",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week 4 Peer Feedback",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045809/View",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Wk4 Quantitative Validation (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1075437/View",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Reading",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Quantitative Validation (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1075586/View",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Video",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Eye-Mind and Gestalt Principles",
+    "url": "https://youtu.be/En7sGqD2p98",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1) · Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-760417",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Slides",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-760664",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Slides",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "zoom",
+    "url": "https://dtudk.zoom.us/j/68153061039?pwd=bjUrRmVkZEllUXJkYlV5U0tlL3lHQT09",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1) · linked material",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-489827",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Material Design Guidelines",
+    "url": "https://material.io/guidelines/",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Material 3",
+    "url": "https://m3.material.io/",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1) · linked material",
+    "url": "https://www.cachet.dk/research/finalized-research-projects/reafel",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Assignment guidance",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Visual Perception and the Principles of Gestalt (booklet)",
+    "url": "https://issuu.com/bethkuebler/docs/bookfinalnobleed",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Reading",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Laws of UX (website)",
+    "url": "https://lawsofux.com/",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Thinking Outside of the Box or Enjoying Your 2 Seconds of Frame",
+    "url": "http://findit.dtu.dk/en/catalog/2289444865",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Eric R. Kandel: The Age of Insight: The Quest to Understand the Unconscious in Art, Mind, and Brain, From Vienna 1900 to the Present. 2012. Random House: New York",
+    "url": "https://findit.dtu.dk/en/catalog/5fedc445d9001d01b12b3ba1",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Prototyping 101: The Difference between Low-Fidelity and High-Fidelity Prototypes and When to Use Each",
+    "url": "https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Linchuan Liu and Peter Khooshabeh. 2003. Paper or interactive?: a study of prototyping techniques for ubiquitous computing environments. In CHI '03 Extended Abstracts on Human Factors in Computing Systems (CHI EA '03). ACM, New York, NY, USA, 1030-1031.",
+    "url": "https://findit.dtu.dk/en/catalog/181119420",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Yngve Dahl, Ole A. Alsos & Dag Svanæs (2010) Fidelity Considerations for Simulation-Based Usability Assessments of Mobile ICT for Hospitals, International Journal of Human–Computer Interaction, 26:5, 445-476",
+    "url": "https://findit.dtu.dk/en/catalog/15527862",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Steven P. Dow and Scott R. Klemmer: The Efficacy of Prototyping Under Time Constraint. In \"Design Thinking. Understand — Improve — Apply\". Edited by H. Plattner et al. Springer 2011.",
+    "url": "https://findit.dtu.dk/en/catalog/56d6f6d9d70ad001760383c0",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Virzi, Robert A., et al. “Usability Problem Identification Using Both Low- and High-Fidelity Prototypes.” Conference on Human Factors in Computing Systems - Proceedings, ACM, 1996, pp. 236–43,",
+    "url": "https://findit.dtu.dk/en/catalog/2292565883",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Gregor Gabrysiak, Holger Giese and Andreas Seibel:",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-642-13757-0_13",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Jenifer Tidwell: Designing Interfaces. Patterns for Effective Interaction Design",
+    "url": "http://shop.oreilly.com/product/0636920000556.do",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Cortrium ECG device",
+    "url": "https://www.cortrium.com/",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Albert, William, and Thomas Tullis. Measuring the user experience: collecting, analyzing, and presenting usability metrics. Newnes, 2013.",
+    "url": "https://findit.dtu.dk/en/catalog/544cf932e44c7a866736e04d",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "K. Dorst. The Core of Design Thinking and its Application. 2011.",
+    "url": "https://findit.dtu.dk/en/catalog/544210c0acc4e2154d462751",
+    "group": "25.04 Gestalt Principles. Lean, Design Thinking and Validation (part 1)",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045755",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Learn topic",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Wk 5 LINC 2.0 (3rd week)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045812/View",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Wk5 Further_Testing_Validation (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1078578/View",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Reading",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Further testing and validation (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1078686/View",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Video",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Multi-Device Experiences",
+    "url": "https://youtu.be/zfc6KuDcDnI",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "25.05 Multidevice Design, Vali​dation (part 2) · linked material",
+    "url": "https://youtu.be/En7sGqD2p98",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "25.05 Multidevice Design, Vali​dation (part 2) · Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-763902",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Slides",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Recorded lecture.",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-764049",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Slides",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "zoom",
+    "url": "https://dtudk.zoom.us/j/68153061039?pwd=bjUrRmVkZEllUXJkYlV5U0tlL3lHQT09",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "25.05 Multidevice Design, Vali​dation (part 2) · linked material",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-492298",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Michal Levin: Multi-Device Experiences. (Chapter 1 An Ecosystem of Connected Devices)",
+    "url": "http://cdn.oreillystatic.com/oreilly/booksamplers/9781449340384_sampler.pdf",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Reading",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Michal Levin: Multi-Device Experiences",
+    "url": "http://shop.oreilly.com/product/0636920027089.do",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Hertzum, M. et al. (2015): What Do Thinking-Aloud Participants Say? A Comparison of Moderated and Unmoderated Usability Session",
+    "url": "https://findit.dtu.dk/en/catalog/5630db9ec24ee52b1703b2da",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Albert, W. and Tullis, T.: Measuring the user experience: collecting, analyzing, and presenting usability metrics. Newnes, 2013.",
+    "url": "https://findit.dtu.dk/en/catalog/544cf932e44c7a866736e04d",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Lewis, C., Polson, P. G., Wharton, C., & Rieman, J. (1990). Testing a walkthrough meth- odology for theory-based design of walk-up-and-use interfaces. In: Proceedings of the CHI conference on human factors in computing systems, Seattle, WA",
+    "url": "https://findit.dtu.dk/en/catalog/56d6f51ad70ad0017602cf64",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Bardram 2018: Usability Testing (slides from 02266)",
+    "url": "https://www.dropbox.com/s/1l9qni1q2td32a1/UX.Engineering.DTU.usability.testing.pdf?dl=0",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Slides",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Designing for Future Hardware",
+    "url": "https://developer.apple.com/videos/play/wwdc2015/801/",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Video",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Apple Interface Guidelines, Apple Inc",
+    "url": "https://developer.apple.com/design/",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "\"The elements of value”",
+    "url": "https://findit.dtu.dk/en/catalog/57f0ee0b673037ff0700469c",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Harley, A 2018: UX Expert Reviews",
+    "url": "https://www.nngroup.com/articles/ux-expert-reviews/",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Current ECG Annotation System for Clinicians",
+    "url": "https://www.dropbox.com/sh/l5vayexd8ele00c/AAAwty9FZ5sW_sw-nPTGjUDMa?dl=0",
+    "group": "25.05 Multidevice Design, Vali​dation (part 2)",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "25.06 UX and Visualisations",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045756",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Learn topic",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "REAFEL User Story Map (drawio format)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045813/View",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Reafel Lean Canvas (Excalidraw format)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045814/View",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Reafel Lean Canvas (svg format)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045817/View",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "REAFEL User Story Map (svg format)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045857/View",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Wk 6 REAFEL HCP Interface",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045858/View",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Wk6 Viz and UX (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1081299/View",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Reading",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Wk6 Viz and UX (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1081475/View",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Video",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Lean Canvas",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-621139",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "User Story Map",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-621138",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "excalidraw.com",
+    "url": "https://excalidraw.com/",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "drawio/app.diagrams.net",
+    "url": "https://app.diagrams.net/",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "DTU Learn",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-622934",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "25.06 UX and Visualisations · Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-767061",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Slides",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-767260",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Slides",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "zoom",
+    "url": "https://dtudk.zoom.us/j/68153061039?pwd=bjUrRmVkZEllUXJkYlV5U0tlL3lHQT09",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Visualising and showing data",
+    "url": "https://youtu.be/2aObqjK12Xw",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "User Experience Over Time: An Initial Framework",
+    "url": "https://findit.dtu.dk/en/catalog/2151490337",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "\"The elements of value”",
+    "url": "https://findit.dtu.dk/en/catalog/2346289345",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "REAFEL project overview",
+    "url": "https://www.bardram.net/reafel/",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Assignment guidance",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Leveraging multi-modal user-labeled data for improved accuracy in interpretation of ECG recordings",
+    "url": "https://findit.dtu.dk/en/catalog/5f156b35d9001d014110b116",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "25.06 UX and Visualisations · linked material",
+    "url": "https://drive.google.com/file/d/1i9YZcmA2RWfFLlZStaCBpA-ZdYlgZdJy/view?usp=sharing",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Designing with Data",
+    "url": "http://shop.oreilly.com/product/0636920026228.do",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Gecko Boards",
+    "url": "https://www.geckoboard.com/",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Klipfolio",
+    "url": "https://www.klipfolio.com/",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "d3js",
+    "url": "http://d3js.org/",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Hassenzahl M and Tractinsky N (2006): User experience - a research agenda",
+    "url": "https://findit.dtu.dk/en/catalog/8653799",
+    "group": "25.06 UX and Visualisations",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "25.07 Button-less interfaces",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045758",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Learn topic",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Voice Interaction / Chatbots (E24)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045860/View",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Video",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Wk7 Button-less Interfaces (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1084735/View",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Reading",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Wk7 Button-less Interfaces (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1084862/View",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Video",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "via this form",
+    "url": "https://forms.gle/Koy9h3BzSFEAq8a79",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "feedback timetable",
+    "url": "https://docs.google.com/spreadsheets/d/1lTi2XSF0bRWnubMgzvl3R1u0eMVihYAUt5J5Z9NNXMg/edit?usp=sharing",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Laura Klein: Design for Voice Interfaces",
+    "url": "http://www.oreilly.com/design/free/design-for-voice-interfaces.csp",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Sunday at 16.00 to DTU Learn.",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=dropbox&rcode=dtu-626857",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "25.07 Button-less interfaces · Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-770918",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Slides",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-771059",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Slides",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "25.07 Button-less interfaces · linked material",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-625311",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "zoom",
+    "url": "https://dtudk.zoom.us/j/68153061039?pwd=bjUrRmVkZEllUXJkYlV5U0tlL3lHQT09",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "25.07 Button-less interfaces · linked material",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-252193",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "UX design prototyping chatbots",
+    "url": "https://youtu.be/qWCDJiEdN-8",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "What every designer can learn from Alexa",
+    "url": "https://www.invisionapp.com/blog/every-designer-learn-alexa/?mkt_tok=eyJpIjoiWW1WbE5EWmtPRFZtWldJMCIsInQiOiJiOWRDQmdBSW5KOWRFdTJnXC9oZGFESmZoVTc4SmdicXBXUTNZeFJobFd5dENyYVY0Ykl4QjJocDBpYXR5VDdNWkVwWTl3RDFGeXVRVE5sY3dyTUNoSlRsM0F2VVpPV01MU2ttc1JMOFIySFI4dExXelBjWWhOeGp4VFhkYXRmQVkifQ%3D%3D",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Pividori: Chatbots in science: What can ChatGPT do for you?",
+    "url": "https://www.nature.com/articles/d41586-024-02630-z",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "The Perfect Prompt: A Prompt Engineering Cheat Sheet",
+    "url": "https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Schulhoff: The Prompt Report: A Systematic Survey of Prompting Techniques (2023)",
+    "url": "https://arxiv.org/html/2406.06608v1",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Assignment guidance",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Shah: From Prompt Engineering to Prompt Science With Human in the Loop",
+    "url": "https://arxiv.org/abs/2401.04122",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Sahoh: A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications (2024)",
+    "url": "https://arxiv.org/abs/2402.07927",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Example: Creating and improving a chatbot with prompt engineering",
+    "url": "https://medium.com/@flaviovitoriano/creating-and-improving-a-chatbot-with-prompt-engineering-b39d2a0c6116",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Example: Developing a chatbot with LLMs (mostly on fine tuning)",
+    "url": "https://en.innovatiana.com/post/chatbot-with-llm",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "OpenAI: Prompt Engineering",
+    "url": "https://platform.openai.com/docs/guides/prompt-engineering",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Sabit Ekin: Prompt Engineering For ChatGPT: A Quick Guide To Techniques, Tips, And Best Practices (2023)",
+    "url": "https://www.techrxiv.org/doi/full/10.36227/techrxiv.22683919.v2",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Prompting Guide",
+    "url": "https://www.promptingguide.ai/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Lynggaard: Application of generative Artificial Intelligence in Design Processes (2024)",
+    "url": "https://findit.dtu.dk/en/catalog/661b1ecbb980881afdbfe032",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Zhibin et al: Exploring the application of LLM-based AI in UX design: an empirical case study of ChatGPT (2024)",
+    "url": "https://findit.dtu.dk/en/catalog/674d0d9be2a93e7744b18de8",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Assignment guidance",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Shethiya: Architecting Intelligent Systems: Opportunities and Challenges of Generative AI and LLM Integration (2024)",
+    "url": "https://academianexusjournal.com/index.php/anj/article/view/25/26",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Bozkurt et al: Trust, credibility and transparency in human-AI interaction: Why we need explainable and trustworthy AI and why we need it now. Asian Journal of Distance Education 19.2 (2024).",
+    "url": "https://www.researchgate.net/profile/Aras-Bozkurt/publication/387737803_Trust_Credibility_and_Transparency_in_Human-AI_Interaction_Why_We_Need_Explainable_and_Trustworthy_AI_and_Why_We_Need_It_Now/links/677a7f34e74ca64e1f4d8a2c/Trust-Credibility-and-Transparency-in-Human-AI-Interaction-Why-We-Need-Explainable-and-Trustworthy-AI-and-Why-We-Need-It-Now.pdf",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Reading",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Claire Rowland: User Experience Design for the Internet of Things (free download; one chapter)",
+    "url": "http://www.oreilly.com/design/free/user-experience-for-iot.csp",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Cathy Pearl: Designing for voice interactions (webcast)",
+    "url": "http://www.oreilly.com/pub/e/3814",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Various: Design for the Internet of Things (free download; curated chapters)",
+    "url": "https://www.oreilly.com/library/view/designing-for-the/9781491971468/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "McTear, M. (2018). Conversational Modelling for ChatBots: Current Approaches and Future Directions. Technical report, Ulster University, Ireland.",
+    "url": "http://www.spokenlanguagetechnology.com/docs/McTear_ESSV_2018.pdf",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Assignment guidance",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "McTear, Michael: \"Conversation modelling for chatbots: current approaches and future directions.\"",
+    "url": "http://www.essv.de/pdf/2018_175_185.pdf",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Reading",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Abdul-Kader, S. A., & Woods, J. C. (2015). Survey on chatbot design techniques in speech conversation systems. International Journal of Advanced Computer Science and Applications, 6(7).",
+    "url": "https://findit.dtu.dk/en/catalog/59a0035b5010df3d094611b1",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "7 Chatbot Prototyping Tools",
+    "url": "https://botcore.ai/blog/7-tools-to-build-chatbots-without-coding/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "8 Chatbot Platform Tools",
+    "url": "https://www.99signals.com/best-chatbot-platform-tools/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Wit.AI",
+    "url": "https://wit.ai/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Dialogflow",
+    "url": "https://dialogflow.com/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "start here",
+    "url": "https://www.youtube.com/watch?v=9aHusGxntPw&list=PListM28kf0CNiMdmz-Ta5UcLR-ePCOW__",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "25.07 Button-less interfaces · here",
+    "url": "https://medium.com/@MissAmaraKay/first-chatbot-experience-with-dialogflow-61c5786c11e4",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "25.07 Button-less interfaces · here",
+    "url": "https://cloud.google.com/dialogflow/docs/tutorials/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "flowxo.com",
+    "url": "http://flowxo.com/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "ChatGPT",
+    "url": "https://chat.openai.com/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Apple SiriKit",
+    "url": "https://developer.apple.com/sirikit/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Google Actions",
+    "url": "https://developers.google.com/actions/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Google Voice Actions",
+    "url": "https://developers.google.com/voice-actions/",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Google Assistant",
+    "url": "https://developers.google.com/assistant/sdk/overview",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Amazon Alexa",
+    "url": "https://developer.amazon.com/alexa",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "SNL \"advertisement\" on Alexa for elderly",
+    "url": "https://youtu.be/YvT_gqs5ETk",
+    "group": "25.07 Button-less interfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "25.08 Wearable and Ethics",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045757",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Learn topic",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Lecture (E24)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045862/View",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Slides",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Week 8 Peer Feedback",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045863/View",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Wk8 Watch, Dark and Ethics (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1087532/View",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Reading",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Wk8: Watch, Dark and Ethics (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1087701/View",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Video",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Expert Checklist",
+    "url": "https://docs.google.com/forms/d/1zcvNDGkLQ63ykw6nm5BQr2N_jnMygvq6orc-zdU8dm8/edit?usp=sharing",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "User/Peer Testing",
+    "url": "https://docs.google.com/forms/d/11jJWwkH12Cg_9RHLny04ILNaqlR5_yJ9zPnOpkQyxRk/edit?usp=sharing",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "use this form to submit your nomination",
+    "url": "https://forms.gle/8DfGDnAUbS8TTpB57",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Feedback Fruits",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-628856",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "25.08 Wearable and Ethics · Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-774341",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Slides",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-774612",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Slides",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Last year's slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-627779",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Slides",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Last year's recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-627911",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Slides",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Zoom",
+    "url": "https://dtudk.zoom.us/j/68153061039?pwd=bjUrRmVkZEllUXJkYlV5U0tlL3lHQT09",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "The dark (patterns) side of UX design",
+    "url": "https://findit.dtu.dk/en/catalog/5cfc6183d9001d013d0deb9d",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "https://universaldesignguide.com/",
+    "url": "https://universaldesignguide.com/",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "25.08 Wearable and Ethics · linked material",
+    "url": "https://universaldesign.ie/What-is-Universal-Design/The-7-Principles/",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Designing with Data",
+    "url": "http://shop.oreilly.com/product/0636920026228.do",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Michal Levin: Multi-Device Experiences",
+    "url": "http://shop.oreilly.com/product/0636920027089.do",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "25.08 Wearable and Ethics · linked material",
+    "url": "https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "\"Understanding user experience journeys for a smart watch device\"",
+    "url": "https://findit.dtu.dk/en/catalog/57a09cc3dd18f7b07002ecf7",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "WatchOS Human Interface Guidelines",
+    "url": "https://developer.apple.com/design/human-interface-guidelines",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "WatchKit",
+    "url": "https://developer.apple.com/documentation/watchkit",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "WatchKit Programming (archived documentation)",
+    "url": "https://developer.apple.com/library/archive/documentation/General/Conceptual/WatchKitProgrammingGuide/index.html#//apple_ref/doc/uid/TP40014969",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Watch faces and their features",
+    "url": "https://support.apple.com/guide/watch/faces-and-features-apde9218b440/watchos",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Overview of complications",
+    "url": "https://developer.apple.com/design/human-interface-guidelines/complications",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Some complications that may serve as inspiration",
+    "url": "https://www.makeuseof.com/tag/best-apple-watch-complications/",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Why it's called \"complications\"",
+    "url": "https://www.vox.com/2015/4/10/8382865/apple-watch-complications",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "WearOS",
+    "url": "https://wearos.google.com/#hands-free-help",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "WeakOS SDK",
+    "url": "https://developer.android.com/wear/",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "How artifacts afford: The power and politics of everyday things.",
+    "url": "https://findit.dtu.dk/en/catalog/6278ff4ed8a127159e891593",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "The Social Dilemma",
+    "url": "https://www.netflix.com/dk-en/title/81254224",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "The Great Hack",
+    "url": "https://www.netflix.com/dk-en/title/80117542",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "The Machine Ethics",
+    "url": "https://www.machine-ethics.net/",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Ethics in AI",
+    "url": "https://podcasts.ox.ac.uk/series/ethics-ai",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "A Game of Dark Patterns - Designing Healthy, Highly-Engaging Mobile Games",
+    "url": "https://findit.dtu.dk/en/catalog/62fd10953b125f131d409324",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Teaching User Experience Design Ethics to Engineering Students: Lessons Learned",
+    "url": "https://findit.dtu.dk/en/catalog/628d011336c66217f1c238ca",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "\"Universal Design of Gaze Interactive Applications for People with Special Needs",
+    "url": "https://findit.dtu.dk/en/catalog/64768f7f0977c1bb50ec7960",
+    "group": "25.08 Wearable and Ethics",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "25.09 Project Kick-Off",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045759",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Learn topic",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Micro-interventions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045824/View",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Video",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Go'Thentic",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045825/View",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "BeGreen",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045826/View",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Persson 2023 Episodic Future Thinking as Digital Micro-interventions (preprint)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045853/View",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Reading",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Wk9 Project KickOff (E24)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045865/View",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Assignment guidance",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "GenAI Tutor.mov",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1089791/View",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Video",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Wk9 Project KickOff (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1090110/View",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Assignment guidance",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Wk9 Project Kick-Off (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1090260/View",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Assignment guidance",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "in this sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1YQOOOMx7qkXE8BKROwM2im8MM5X7vRuYmLlxMXmi1AM/edit?usp=sharing",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "to this sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1hF_j_dlby-Xy3aXPJLWG8Rr9kcqQGoxmY58VLaaznHk/edit?usp=sharing",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "25.09 Project Kick-Off · Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-777440",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Assignment guidance",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-777554",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Slides",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Last year's slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-630544",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Slides",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Last year's recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-630692",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Slides",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Zoom",
+    "url": "https://dtudk.zoom.us/j/68153061039?pwd=bjUrRmVkZEllUXJkYlV5U0tlL3lHQT09",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Micro-interventions",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-257995",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "25.09 Project Kick-Off · linked material",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-257994",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Assignment guidance",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Go'thentic",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-258025",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "BeGreen",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-258026",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "GenAI Tutor",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-777163",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Digital micro interventions for behavioral and mental health gains: core components and conceptualization of digital micro intervention care",
+    "url": "https://www.jmir.org/2020/10/e20631/",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Episodic future thinking as digital micro-interventions",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-031-48038-6_14",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Exploring patient needs and designing concepts for digitally supported health solutions in managing type 2 diabetes: Cocreation study",
+    "url": "https://formative.jmir.org/2023/1/e49738/",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Official solutions",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Perceptions and effectiveness of episodic future thinking as digital micro-interventions based on mobile health technology",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/20552076241245583",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "A Design Framework for Microintervention Software Technology in Digital Health: Critical Interpretive Synthesis",
+    "url": "https://www.jmir.org/2025/1/e72658",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "AI chatbots are sycophants — researchers say it’s harming science",
+    "url": "https://www.nature.com/articles/d41586-025-03390-0",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Reflective Friction in Generative AI: Designing for Slow Thinking in Fast Systems",
+    "url": "https://www.dropbox.com/scl/fi/nerr6lafkv04l9eoik0w0/Dalsgaard-2025-Reflective-Friction.pdf?rlkey=u94ynd0zd3gbzotuj654tfdfy&dl=0&ref=viden.ai",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Reading",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "May Be Eroding Critical Thinking Skills, According to a New MIT Study",
+    "url": "https://time.com/7295195/ai-chatgpt-google-learning-school/",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Increased AI use linked to eroding critical thinking skills",
+    "url": "https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Overleaf template",
+    "url": "https://www.overleaf.com/read/whpdbxffszjv",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "25.09 Project Kick-Off · here",
+    "url": "https://www.acm.org/publications/proceedings-template",
+    "group": "25.09 Project Kick-Off",
+    "kind": "Assignment guidance",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "25.10 Project Idea Presentations",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045760",
+    "group": "25.10 Project Idea Presentations",
+    "kind": "Learn topic",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Li, I., Dey, A., & Forlizzi, J. (2010, April). A stage-based model of personal informatics systems. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 557-566).",
+    "url": "https://findit.dtu.dk/en/catalog/56d6f517d70ad0017602cde6",
+    "group": "25.10 Project Idea Presentations",
+    "kind": "Course link",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "25.11 Final Lecture and Peer-group Review",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045761",
+    "group": "25.11 Final Lecture and Peer-group Review",
+    "kind": "Learn topic",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Wk11 Overview and QA (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1097273/View",
+    "group": "25.11 Final Lecture and Peer-group Review",
+    "kind": "Reading",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Wk11 Final Lecture and Q&A (E25)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1097441/View",
+    "group": "25.11 Final Lecture and Peer-group Review",
+    "kind": "Slides",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "25.11 Final Lecture and Peer-group Review · Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-784100",
+    "group": "25.11 Final Lecture and Peer-group Review",
+    "kind": "Slides",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Recorded lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-784294",
+    "group": "25.11 Final Lecture and Peer-group Review",
+    "kind": "Slides",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "25.12 Final Presentation A / Continued Group-Work",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045762",
+    "group": "25.12 Final Presentation A / Continued Group-Work",
+    "kind": "Learn topic",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "DINK (Digital Innovation Canon)",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-395769",
+    "group": "25.12 Final Presentation A / Continued Group-Work",
+    "kind": "Course link",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "quiz",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=quiz&rcode=dtu-394667",
+    "group": "25.12 Final Presentation A / Continued Group-Work",
+    "kind": "Quiz questions",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "need to use this link for giving feedback",
+    "url": "https://forms.gle/PgYHyDjgon2rhKc29",
+    "group": "25.12 Final Presentation A / Continued Group-Work",
+    "kind": "Course link",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "25.12 Final Presentation A / Continued Group-Work · here",
+    "url": "https://people.compute.dtu.dk/pgba/02810/",
+    "group": "25.12 Final Presentation A / Continued Group-Work",
+    "kind": "Course link",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "25.13 Final Presentation B / Continued Group-Work",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045763",
+    "group": "25.13 Final Presentation B / Continued Group-Work",
+    "kind": "Learn topic",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "DINK (Digital Innovation Canon)",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-395769",
+    "group": "25.13 Final Presentation B / Continued Group-Work",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "quiz",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=quiz&rcode=dtu-394667",
+    "group": "25.13 Final Presentation B / Continued Group-Work",
+    "kind": "Quiz questions",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "need to use this link for giving feedback",
+    "url": "https://forms.gle/PgYHyDjgon2rhKc29",
+    "group": "25.13 Final Presentation B / Continued Group-Work",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "25.13 Final Presentation B / Continued Group-Work · here",
+    "url": "https://people.compute.dtu.dk/pgba/02810/",
+    "group": "25.13 Final Presentation B / Continued Group-Work",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "ACM Master Article Template",
+    "url": "https://www.acm.org/publications/proceedings-template",
+    "group": "25.13 Final Presentation B / Continued Group-Work",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Overleaf template",
+    "url": "https://www.overleaf.com/read/whpdbxffszjv",
+    "group": "25.13 Final Presentation B / Continued Group-Work",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "the learning outcomes",
+    "url": "https://kurser.dtu.dk/course/2023-2024/02809",
+    "group": "25.13 Final Presentation B / Continued Group-Work",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "DINK (Digital Innovation Canon)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045764",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "DINK1.1 Intro (Original)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045854/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "DINK1.2 Clarification of Concepts",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045868/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Video"
+  },
+  {
+    "title": "DINK1.5 Digital Transformation Models",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045871/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Video"
+  },
+  {
+    "title": "DINK1.6 The Landscape of Innovation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045872/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "DINK2.1 Introduction",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045873/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Video"
+  },
+  {
+    "title": "DINK2.2 Clarification of Concepts",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045874/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "DINK2.3 Case MobilePay",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045875/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "DINK2.4 Case Veo",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045876/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "DINK2.5 Case Corti",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045877/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "DINK2.6 Resource Management",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045878/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "DINK2.7 Scalability and Security",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045879/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "DINK2.8 Unfolding Scalability",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/270849/viewContent/1045880/View",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "quiz",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=quiz&rcode=dtu-394667",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Quiz questions"
+  },
+  {
+    "title": "Introduction",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506769",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "Clarification of Concepts",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506744",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "Digital Transformation Models",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506753",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "The Landscape of Innovation",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506754",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "Introduction",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506758",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "Clarification of Concepts",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506759",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "Case: MobilePay",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506760",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Case: Veo",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506761",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Case: Corti",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506762",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Resource Management",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506763",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "Scalability and Security",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506764",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "Unfolding Scalability",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-506765",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "24.08 Wearable and Ethics",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-362923",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "24.11 Final Lecture and Peer-group Review",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-362927",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Slides"
+  },
+  {
+    "title": "Digital Innovation Kanon",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-395769",
+    "group": "DINK (Digital Innovation Canon)",
+    "kind": "Course link"
+  },
+  {
+    "title": "Exam information",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270849/units/1045767",
+    "group": "Exam information",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "ACM Master Article Template",
+    "url": "https://www.acm.org/publications/proceedings-template",
+    "group": "Exam information",
+    "kind": "Course link"
+  },
+  {
+    "title": "Overleaf template",
+    "url": "https://www.overleaf.com/read/whpdbxffszjv",
+    "group": "Exam information",
+    "kind": "Course link"
+  },
+  {
+    "title": "Group 1",
+    "url": "https://www.dropbox.com/s/qjg5j9u01gg1vbc/Group01-report.pdf?dl=0",
+    "group": "Exam information",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Group 13",
+    "url": "https://www.dropbox.com/s/xhv35swp5z36xkz/Group13%20-%20Go%20Dogo%20final%20report%20-%20UX%20Design%20Prototyping.pdf?dl=0",
+    "group": "Exam information",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Group 14",
+    "url": "https://www.dropbox.com/s/d92vidl31mnrbg8/Group14_Oticon_ConversAid.pdf?dl=0",
+    "group": "Exam information",
+    "kind": "Reading"
+  },
+  {
+    "title": "Group 4",
+    "url": "https://www.dropbox.com/s/qjdcuezragcent6/Group04_AdaptiveReading.pdf?dl=0",
+    "group": "Exam information",
+    "kind": "Reading"
+  },
+  {
+    "title": "the learning outcomes",
+    "url": "https://kurser.dtu.dk/course/2023-2024/02809",
+    "group": "Exam information",
+    "kind": "Course link"
+  },
+  {
+    "title": "DINK (Digital Innovation Canon)",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-395769",
+    "group": "Exam information",
+    "kind": "Course link"
+  },
+  {
+    "title": "quiz",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=quiz&rcode=dtu-394667",
+    "group": "Exam information",
+    "kind": "Quiz questions"
+  },
+  {
+    "title": "DTU Learn course",
+    "url": "https://learn.inside.dtu.dk/d2l/home/270849",
+    "group": "Course information",
+    "kind": "Learn course"
+  }
+]

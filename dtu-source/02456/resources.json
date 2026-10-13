@@ -1,0 +1,482 @@
+[
+  {
+    "title": "Course plan and information",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1058699",
+    "group": "Course plan and information",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Lecture Overview",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=content&rcode=dtu-743143",
+    "group": "Course plan and information",
+    "kind": "Slides"
+  },
+  {
+    "title": "Zoom",
+    "url": "https://dtudk.zoom.us/j/68976359420?pwd=THNwMG43cFhqVy8yVHNZMHRhSnkwQT09",
+    "group": "Course plan and information",
+    "kind": "Course link"
+  },
+  {
+    "title": "Zoom Lecture Channel",
+    "url": "https://dtudk.zoom.us/j/61498938366?pwd=veDuaSjp5UayC6vhud1rJ0LAozUW8s.1",
+    "group": "Course plan and information",
+    "kind": "Slides"
+  },
+  {
+    "title": "project",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=content&rcode=dtu-743144",
+    "group": "Course plan and information",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "examination timetable",
+    "url": "https://www.dtu.dk/english/education/examination-timetable",
+    "group": "Course plan and information",
+    "kind": "Course link"
+  },
+  {
+    "title": "Literature and notebooks",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1058719",
+    "group": "Literature and notebooks",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "https://udlbook.github.io/udlbook",
+    "url": "https://udlbook.github.io/udlbook/",
+    "group": "Literature and notebooks",
+    "kind": "Reading"
+  },
+  {
+    "title": "https://www.deeplearningbook.org",
+    "url": "https://www.deeplearningbook.org/",
+    "group": "Literature and notebooks",
+    "kind": "Reading"
+  },
+  {
+    "title": "https://github.com/DeepLearningDTU/02456-2025",
+    "url": "https://github.com/DeepLearningDTU/02456-2025",
+    "group": "Literature and notebooks",
+    "kind": "Course link"
+  },
+  {
+    "title": "Google Colab",
+    "url": "https://colab.research.google.com/",
+    "group": "Literature and notebooks",
+    "kind": "Course link"
+  },
+  {
+    "title": "Anaconda",
+    "url": "https://www.anaconda.com/download",
+    "group": "Literature and notebooks",
+    "kind": "Course link"
+  },
+  {
+    "title": "DTU HPC",
+    "url": "https://www.hpc.dtu.dk/",
+    "group": "Literature and notebooks",
+    "kind": "Course link"
+  },
+  {
+    "title": "DTU HPC guide",
+    "url": "https://www.hpc.dtu.dk/?page_id=2534",
+    "group": "Literature and notebooks",
+    "kind": "Course link"
+  },
+  {
+    "title": "guide for this course",
+    "url": "https://docs.google.com/document/d/1bRtX87ZD7faG1b5CayN5LKUPcn75xmrWt6jFcuwoGMU/edit?tab=t.0",
+    "group": "Literature and notebooks",
+    "kind": "Course link"
+  },
+  {
+    "title": "Teaching (Week 1-8)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1058712",
+    "group": "Teaching (Week 1-8)",
+    "kind": "Learn topic",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Week 1: Shallow and deep neural networks",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1059509",
+    "group": "Teaching (Week 1-8) / Week 1: Shallow and deep neural networks",
+    "kind": "Learn topic",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Prince book",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=content&rcode=dtu-743150",
+    "group": "Teaching (Week 1-8) / Week 1: Shallow and deep neural networks",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "1.1 FNN Pen and Paper.ipynb",
+    "url": "https://github.com/DeepLearningDTU/02456-2025/blob/master/Week1%20Feedforward%20Pen%20and%20Paper/1.1%20FNN%20Pen%20and%20Paper.ipynb",
+    "group": "Teaching (Week 1-8) / Week 1: Shallow and deep neural networks",
+    "kind": "Notebook",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "02456 Week 1.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Slides%2f02456+Week+1.pdf",
+    "group": "Teaching (Week 1-8) / Week 1: Shallow and deep neural networks",
+    "kind": "Slides",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Week 2: Loss functions, back propagation and initialisation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1059512",
+    "group": "Teaching (Week 1-8) / Week 2: Loss functions, back propagation and initialisation",
+    "kind": "Learn topic",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Prince book",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=content&rcode=dtu-743150",
+    "group": "Teaching (Week 1-8) / Week 2: Loss functions, back propagation and initialisation",
+    "kind": "Reading",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "2.1 FNN AutoDif Nanograd.ipynb",
+    "url": "https://github.com/DeepLearningDTU/02456-2025/blob/master/Week2%20Feedforward%20Python/2.1%20FNN%20AutoDif%20Nanograd.ipynb",
+    "group": "Teaching (Week 1-8) / Week 2: Loss functions, back propagation and initialisation",
+    "kind": "Notebook",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "02456 Week 2.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Slides%2f02456+Week+2.pdf",
+    "group": "Teaching (Week 1-8) / Week 2: Loss functions, back propagation and initialisation",
+    "kind": "Slides",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Week 3: Tricks of The Trade",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1067080",
+    "group": "Teaching (Week 1-8) / Week 3: Tricks of The Trade",
+    "kind": "Learn topic",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Prince book",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=content&rcode=dtu-743150",
+    "group": "Teaching (Week 1-8) / Week 3: Tricks of The Trade",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Week3 Feedforward PyTorch",
+    "url": "https://github.com/DeepLearningDTU/02456-2025/tree/master/Week3%20Feedforward%20PyTorch",
+    "group": "Teaching (Week 1-8) / Week 3: Tricks of The Trade",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "02456 Week 3.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Slides%2f02456+Week+3.pdf",
+    "group": "Teaching (Week 1-8) / Week 3: Tricks of The Trade",
+    "kind": "Slides",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Week 4: Convolutional networks",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1071401",
+    "group": "Teaching (Week 1-8) / Week 4: Convolutional networks",
+    "kind": "Learn topic",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Prince book",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=content&rcode=dtu-743150",
+    "group": "Teaching (Week 1-8) / Week 4: Convolutional networks",
+    "kind": "Reading",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week4 Convolutional",
+    "url": "https://github.com/DeepLearningDTU/02456-2025/tree/master/Week4%20Convolutional",
+    "group": "Teaching (Week 1-8) / Week 4: Convolutional networks",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "02456 Week 4.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Slides%2f02456+Week+4.pdf",
+    "group": "Teaching (Week 1-8) / Week 4: Convolutional networks",
+    "kind": "Slides",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week 5: Recurrent neural network",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1075497",
+    "group": "Teaching (Week 1-8) / Week 5: Recurrent neural network",
+    "kind": "Learn topic",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Goodfellow book",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=content&rcode=dtu-743150",
+    "group": "Teaching (Week 1-8) / Week 5: Recurrent neural network",
+    "kind": "Reading",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "5.1 Recurrent Neural Networks.ipynb",
+    "url": "https://github.com/DeepLearningDTU/02456-2025/blob/master/Week5%20Recurrent/5.1%20Recurrent%20Neural%20Networks.ipynb",
+    "group": "Teaching (Week 1-8) / Week 5: Recurrent neural network",
+    "kind": "Notebook",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "02456 Week 5.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Slides%2f02456+Week+5.pdf",
+    "group": "Teaching (Week 1-8) / Week 5: Recurrent neural network",
+    "kind": "Slides",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Week 6: Transformers",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1078215",
+    "group": "Teaching (Week 1-8) / Week 6: Transformers",
+    "kind": "Learn topic",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Prince book",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=content&rcode=dtu-743150",
+    "group": "Teaching (Week 1-8) / Week 6: Transformers",
+    "kind": "Reading",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "6.1 Deep Learning with Transformers.ipynb",
+    "url": "https://github.com/DeepLearningDTU/02456-2025/tree/master/Week6%20Transformers",
+    "group": "Teaching (Week 1-8) / Week 6: Transformers",
+    "kind": "Notebook",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "02456 Week 6.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Slides%2f02456+Week+6.pdf",
+    "group": "Teaching (Week 1-8) / Week 6: Transformers",
+    "kind": "Slides",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Week 7: Unsupervised",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1081377",
+    "group": "Teaching (Week 1-8) / Week 7: Unsupervised",
+    "kind": "Learn topic",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Prince book",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=content&rcode=dtu-743150",
+    "group": "Teaching (Week 1-8) / Week 7: Unsupervised",
+    "kind": "Reading",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Week7 Unsupervised",
+    "url": "https://github.com/DeepLearningDTU/02456-2025/tree/master/Week7%20Unsupervised",
+    "group": "Teaching (Week 1-8) / Week 7: Unsupervised",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "02456 Week 7.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Slides%2f02456+Week+7.pdf",
+    "group": "Teaching (Week 1-8) / Week 7: Unsupervised",
+    "kind": "Slides",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Week 8: Mini project",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1087332",
+    "group": "Teaching (Week 1-8) / Week 8: Mini project",
+    "kind": "Learn topic",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "8.1 Kaggle Leaf Challenge.ipynb",
+    "url": "https://github.com/DeepLearningDTU/02456-2025/blob/master/Week8%20Mini%20Project/8.1%20Kaggle%20Leaf%20Challenge.ipynb",
+    "group": "Teaching (Week 1-8) / Week 8: Mini project",
+    "kind": "Assignment guidance",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "images.zip",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=images.zip",
+    "group": "Teaching (Week 1-8) / Week 8: Mini project",
+    "kind": "Code & data",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Project (weeks 9-13)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1058713",
+    "group": "Project (weeks 9-13)",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Project (weeks 9-13) · here",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vQowI1bWsLVksH9VQ4kZufLwW2j6dF9jGZNHCDCHDV-fIbzvz-lx53P9LRG5t8nqaSUp1N6_26U0zNp/pub",
+    "group": "Project (weeks 9-13)",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "using this sheet",
+    "url": "https://docs.google.com/spreadsheets/d/1M14HUwmK1NVp2IN_mWNfWMCRS67O1E90lw-F3xKptsg/edit?usp=sharing",
+    "group": "Project (weeks 9-13)",
+    "kind": "Course link"
+  },
+  {
+    "title": "handed in as an assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=dropbox&rcode=dtu-603362",
+    "group": "Project (weeks 9-13)",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "handed in as an assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=dropbox&rcode=dtu-515484",
+    "group": "Project (weeks 9-13)",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "provided template",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=02456_report_template.zip",
+    "group": "Project (weeks 9-13)",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "last years' list of projects here",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vTFSpHnf74Sm_cQllQj50WiCX6uI7ip4LzPbefy4l9r9gYvl9TFbfKz7GTea3dX21a4L5bXOuTZ2N2Q/pub",
+    "group": "Project (weeks 9-13)",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Multiple Choice Exam",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1103869",
+    "group": "Multiple Choice Exam",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "eksamensplan.dtu.dk",
+    "url": "https://eksamensplan.dtu.dk/",
+    "group": "Multiple Choice Exam",
+    "kind": "Course link"
+  },
+  {
+    "title": "02456_mcq_answer_sheet.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Exams%2f02456_mcq_answer_sheet.pdf",
+    "group": "Multiple Choice Exam",
+    "kind": "Reading"
+  },
+  {
+    "title": "02456_mockexam_2025.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Exams%2f02456_mockexam_2025.pdf",
+    "group": "Multiple Choice Exam",
+    "kind": "Reading"
+  },
+  {
+    "title": "solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Exams%2f02456_mockexam_2025_solutions.pdf",
+    "group": "Multiple Choice Exam",
+    "kind": "Official solutions"
+  },
+  {
+    "title": "02456_exam_2025.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Exams%2f02456_exam_2025.pdf",
+    "group": "Multiple Choice Exam",
+    "kind": "Reading"
+  },
+  {
+    "title": "solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=coursefile&fileId=Exams%2f02456_exam_2025_solutions.pdf",
+    "group": "Multiple Choice Exam",
+    "kind": "Official solutions"
+  },
+  {
+    "title": "FAQ",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1059185",
+    "group": "FAQ",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "final report",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270871&type=dropbox&rcode=dtu-515484",
+    "group": "FAQ",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "DTU Learn course",
+    "url": "https://learn.inside.dtu.dk/d2l/home/270871",
+    "group": "Course information",
+    "kind": "Learn course"
+  }
+]

@@ -1,0 +1,660 @@
+[
+  {
+    "title": "General information",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137382",
+    "group": "General information",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "course public page",
+    "url": "https://www2.imm.dtu.dk/courses/02506/",
+    "group": "General information",
+    "kind": "Course link"
+  },
+  {
+    "title": "DTU course base",
+    "url": "https://kurser.dtu.dk/course/02506",
+    "group": "General information",
+    "kind": "Course link"
+  },
+  {
+    "title": "Prerequisites and resources",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137369",
+    "group": "Prerequisites and resources",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "book link",
+    "url": "http://szeliski.org/Book/",
+    "group": "Prerequisites and resources",
+    "kind": "Reading"
+  },
+  {
+    "title": "Findit link",
+    "url": "https://findit.dtu.dk/en/catalog/5cd68d935eee4800231c9d83",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Prerequisites and resources · here",
+    "url": "https://imagingbook.com/",
+    "group": "Prerequisites and resources",
+    "kind": "Reading"
+  },
+  {
+    "title": "Findit link",
+    "url": "https://findit.dtu.dk/en/catalog/2699716889",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "02502 Image analysis",
+    "url": "https://kurser.dtu.dk/course/02502",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "book link",
+    "url": "https://books.google.dk/books?id=gf2LxrmMzXAC&lpg=PP1&pg=PP1#v=onepage&q&f=false",
+    "group": "Prerequisites and resources",
+    "kind": "Reading"
+  },
+  {
+    "title": "Python support",
+    "url": "https://pythonsupport.dtu.dk/",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Programming",
+    "url": "https://programmering.compute.dtu.dk/",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Python Tutorial",
+    "url": "https://www.w3schools.com/python/",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Software Carpentry",
+    "url": "https://swcarpentry.github.io/python-novice-inflammation/",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Data Carpentry",
+    "url": "https://datacarpentry.org/image-processing/",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://numpy.org/",
+    "url": "https://numpy.org/",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://scipy.org/",
+    "url": "https://scipy.org/",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://scikit-image.org/",
+    "url": "https://scikit-image.org/",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://pillow.readthedocs.io/en/latest/index.html",
+    "url": "https://pillow.readthedocs.io/en/latest/index.html",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://opencv.org/",
+    "url": "https://opencv.org/",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://matplotlib.org/",
+    "url": "https://matplotlib.org/",
+    "group": "Prerequisites and resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Week 1: Introduction",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137365",
+    "group": "Week 1: Introduction",
+    "kind": "Learn topic",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Week 1 quiz questions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1137396/View",
+    "group": "Week 1: Introduction",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Week 2: Scale-space",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137366",
+    "group": "Week 2: Scale-space",
+    "kind": "Learn topic",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Week 2 quiz questions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1137397/View",
+    "group": "Week 2: Scale-space",
+    "kind": "Reading",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Lindeberg (1996)",
+    "url": "https://people.kth.se/~tony/papers/lin-cern-summ-school-96.pdf",
+    "group": "Week 2: Scale-space",
+    "kind": "Reading",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Week 3: Feature-based registration",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137368",
+    "group": "Week 3: Feature-based registration",
+    "kind": "Learn topic",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Week 3 quiz questions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1137398/View",
+    "group": "Week 3: Feature-based registration",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Lowe 2004:",
+    "url": "https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf",
+    "group": "Week 3: Feature-based registration",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Week 4: Feature-based segmentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137367",
+    "group": "Week 4: Feature-based segmentation",
+    "kind": "Learn topic",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week 4 quiz questions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1137399/View",
+    "group": "Week 4: Feature-based segmentation",
+    "kind": "Reading",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week 5: Markov random fields",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137370",
+    "group": "Week 5: Markov random fields",
+    "kind": "Learn topic",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Week 5 quiz questions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1137400/View",
+    "group": "Week 5: Markov random fields",
+    "kind": "Reading",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Li (2009) Markov random field modeling in image analysis",
+    "url": "http://findit.dtu.dk/en/catalog/2305119611",
+    "group": "Week 5: Markov random fields",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Boykov et al. PAMI 2001",
+    "url": "http://findit.dtu.dk/en/catalog/11748315",
+    "group": "Week 5: Markov random fields",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Boykov and Kolmogorov PAMI 2004",
+    "url": "http://findit.dtu.dk/en/catalog/9834929",
+    "group": "Week 5: Markov random fields",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Kolmogorov and Zabith PAMI 2004",
+    "url": "http://findit.dtu.dk/en/catalog/2221573441",
+    "group": "Week 5: Markov random fields",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Week 6: Deformable models",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137371",
+    "group": "Week 6: Deformable models",
+    "kind": "Learn topic",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Week 6 quiz questions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1137401/View",
+    "group": "Week 6: Deformable models",
+    "kind": "Reading",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Chan and Vese (2001) Active contours without edges TIP 2001",
+    "url": "http://findit.dtu.dk/en/catalog/12090333",
+    "group": "Week 6: Deformable models",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Xu, Pham, Prince (2009) Image Segmentation Using Deformable Models",
+    "url": "https://www.researchgate.net/publication/2819905_Image_Segmentation_Using_Deformable_Models",
+    "group": "Week 6: Deformable models",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Week 7: Layered surfaces",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137372",
+    "group": "Week 7: Layered surfaces",
+    "kind": "Learn topic",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Week 7 quiz questions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1137402/View",
+    "group": "Week 7: Layered surfaces",
+    "kind": "Reading",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Li et al Optimal surface segmentation in volumetric images - A graph-theoretic approach (PAMI 2006)",
+    "url": "https://findit.dtu.dk/en/catalog/2494192589",
+    "group": "Week 7: Layered surfaces",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Week 8: Feed forward neural networks",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137373",
+    "group": "Week 8: Feed forward neural networks",
+    "kind": "Learn topic",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Week 8 quiz questions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1137403/View",
+    "group": "Week 8: Feed forward neural networks",
+    "kind": "Reading",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Deep Learning by Goodfellow et al.",
+    "url": "https://www.deeplearningbook.org/",
+    "group": "Week 8: Feed forward neural networks",
+    "kind": "Reading",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "book by Bishop",
+    "url": "https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
+    "group": "Week 8: Feed forward neural networks",
+    "kind": "Reading",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Week 9: Image classification",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137374",
+    "group": "Week 9: Image classification",
+    "kind": "Learn topic",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Group enrollment week 9",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1137394/View",
+    "group": "Week 9: Image classification",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "https://www.deeplearningbook.org/",
+    "url": "https://www.deeplearningbook.org/",
+    "group": "Week 9: Image classification",
+    "kind": "Reading",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Week 10: Convolutional neural networks",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137375",
+    "group": "Week 10: Convolutional neural networks",
+    "kind": "Learn topic",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Week 10 quiz questions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1137404/View",
+    "group": "Week 10: Convolutional neural networks",
+    "kind": "Reading",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Week 10: Convolutional neural networks · here",
+    "url": "https://www.deeplearningbook.org/contents/convnets.html",
+    "group": "Week 10: Convolutional neural networks",
+    "kind": "Reading",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Week 10: Convolutional neural networks · here",
+    "url": "http://www2.imm.dtu.dk/courses/02506/data.html",
+    "group": "Week 10: Convolutional neural networks",
+    "kind": "Course link",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "MiniUnet",
+    "url": "https://colab.research.google.com/drive/1xAvjeuNKJ6rhZHOwlDq9KkY5H4lJxp6d?usp=sharing",
+    "group": "Week 10: Convolutional neural networks",
+    "kind": "Course link",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "this intro",
+    "url": "https://colab.research.google.com/?utm_source=scs-index",
+    "group": "Week 10: Convolutional neural networks",
+    "kind": "Course link",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Week 11 and 12: Mini projects",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137376",
+    "group": "Week 11 and 12: Mini projects",
+    "kind": "Learn topic",
+    "weeks": [
+      11,
+      12
+    ]
+  },
+  {
+    "title": "Week 11 and 12: Mini projects · linked material",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296294&type=discuss&rcode=dtu-700271",
+    "group": "Week 11 and 12: Mini projects",
+    "kind": "Assignment guidance",
+    "weeks": [
+      11,
+      12
+    ]
+  },
+  {
+    "title": "Mini project group formation",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296294&type=discuss&rcode=dtu-840987",
+    "group": "Week 11 and 12: Mini projects",
+    "kind": "Assignment guidance",
+    "weeks": [
+      11,
+      12
+    ]
+  },
+  {
+    "title": "google sheets document.",
+    "url": "https://docs.google.com/spreadsheets/d/1A7QzVmo3zAZ-5-c2-PTcOpJBeLNgD0CxkTWOYv4dYvQ/edit#gid=0",
+    "group": "Week 11 and 12: Mini projects",
+    "kind": "Course link",
+    "weeks": [
+      11,
+      12
+    ]
+  },
+  {
+    "title": "Week 13: Poster session",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137378",
+    "group": "Week 13: Poster session",
+    "kind": "Learn topic",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Group enrollment week 13",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1137395/View",
+    "group": "Week 13: Poster session",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Google Sheets document",
+    "url": "https://docs.google.com/spreadsheets/d/1A7QzVmo3zAZ-5-c2-PTcOpJBeLNgD0CxkTWOYv4dYvQ/edit#gid=0",
+    "group": "Week 13: Poster session",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "https://databar.dtu.dk/print",
+    "url": "https://databar.dtu.dk/print",
+    "group": "Week 13: Poster session",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "2022",
+    "url": "http://www2.imm.dtu.dk/courses/02506/posters2022.html",
+    "group": "Week 13: Poster session",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "2023",
+    "url": "http://www2.imm.dtu.dk/courses/02506/posters2023.html",
+    "group": "Week 13: Poster session",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "2024",
+    "url": "https://www2.imm.dtu.dk/courses/02506/posters2024.html",
+    "group": "Week 13: Poster session",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "2025",
+    "url": "https://www2.imm.dtu.dk/courses/02506/posters2025.html",
+    "group": "Week 13: Poster session",
+    "kind": "Course link",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Exam",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137377",
+    "group": "Exam",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "dates of exams",
+    "url": "https://student.dtu.dk/en/exam/exam-dates",
+    "group": "Exam",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://eksamensplan.dtu.dk/",
+    "url": "https://eksamensplan.dtu.dk/",
+    "group": "Exam",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://eksamen.dtu.dk",
+    "url": "https://eksamen.dtu.dk",
+    "group": "Exam",
+    "kind": "Course link"
+  },
+  {
+    "title": "http://www2.imm.dtu.dk/courses/02506/LECTURE_NOTES_2024.pdf",
+    "url": "http://www2.imm.dtu.dk/courses/02506/LECTURE_NOTES_2024.pdf",
+    "group": "Exam",
+    "kind": "Slides"
+  },
+  {
+    "title": "https://people.kth.se/~tony/papers/lin-cern-summ-school-96.pdf",
+    "url": "https://people.kth.se/~tony/papers/lin-cern-summ-school-96.pdf",
+    "group": "Exam",
+    "kind": "Reading"
+  },
+  {
+    "title": "https://findit.dtu.dk/en/catalog/2494192589",
+    "url": "https://findit.dtu.dk/en/catalog/2494192589",
+    "group": "Exam",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://www.deeplearningbook.org/",
+    "url": "https://www.deeplearningbook.org/",
+    "group": "Exam",
+    "kind": "Reading"
+  },
+  {
+    "title": "https://www2.imm.dtu.dk/courses/02506/",
+    "url": "https://www2.imm.dtu.dk/courses/02506/",
+    "group": "Exam",
+    "kind": "Course link"
+  },
+  {
+    "title": "Exam · linked material",
+    "url": "https://dtudk.zoom.us/j/67495698575?pwd=WThtOXo2MXJmQTlaU1BBM05sMmFHZz09",
+    "group": "Exam",
+    "kind": "Course link"
+  },
+  {
+    "title": "Exam · here",
+    "url": "https://kurser.dtu.dk/course/02506/info",
+    "group": "Exam",
+    "kind": "Course link"
+  },
+  {
+    "title": "Grading",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137408",
+    "group": "Grading",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "solutions_2026",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296294/viewContent/1209559/View",
+    "group": "Grading",
+    "kind": "Official solutions"
+  },
+  {
+    "title": "Re-exam",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137380",
+    "group": "Re-exam",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "re-eksam.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296294&type=coursefile&fileId=re-eksam_2023.pdf",
+    "group": "Re-exam",
+    "kind": "Reading"
+  },
+  {
+    "title": "DTU Learn course",
+    "url": "https://learn.inside.dtu.dk/d2l/home/296294",
+    "group": "Course information",
+    "kind": "Learn course"
+  }
+]

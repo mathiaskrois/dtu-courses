@@ -1,0 +1,119 @@
+[
+  {
+    "title": "DTU Learn course",
+    "url": "https://learn.inside.dtu.dk/d2l/home/293879",
+    "group": "Course information",
+    "kind": "Learn course"
+  },
+  {
+    "title": "Official course site",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/tree/3b1992997d89cf23bb85c74be0425798b2d0d4bd",
+    "group": "Course information",
+    "kind": "Official website"
+  },
+  {
+    "title": "Development Environment",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/s1_development_environment/README.md",
+    "group": "Week 1",
+    "kind": "Official exercises",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Organisation And Version Control",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/s2_organisation_and_version_control/README.md",
+    "group": "Week 1",
+    "kind": "Official exercises",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Reproducibility",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/s3_reproducibility/README.md",
+    "group": "Week 1",
+    "kind": "Official exercises",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Debugging And Logging",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/s4_debugging_and_logging/README.md",
+    "group": "Week 1",
+    "kind": "Official exercises",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Continuous Integration",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/s5_continuous_integration/README.md",
+    "group": "Week 2",
+    "kind": "Official exercises",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "The Cloud",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/s6_the_cloud/README.md",
+    "group": "Week 2",
+    "kind": "Official exercises",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Deployment",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/s7_deployment/README.md",
+    "group": "Week 2",
+    "kind": "Official exercises",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Monitoring",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/s8_monitoring/README.md",
+    "group": "Week 3",
+    "kind": "Official exercises",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Scalable Applications",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/s9_scalable_applications/README.md",
+    "group": "Week 3",
+    "kind": "Official exercises",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Timeplan",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/pages/timeplan.md",
+    "group": "Course information",
+    "kind": "Course guidance"
+  },
+  {
+    "title": "Projects",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/pages/projects.md",
+    "group": "Course information",
+    "kind": "Course guidance"
+  },
+  {
+    "title": "Faq",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/pages/faq.md",
+    "group": "Course information",
+    "kind": "Course guidance"
+  },
+  {
+    "title": "Readme",
+    "url": "https://github.com/SkafteNicki/dtu_mlops/blob/3b1992997d89cf23bb85c74be0425798b2d0d4bd/reports/README.md",
+    "group": "Course information",
+    "kind": "Course guidance"
+  }
+]

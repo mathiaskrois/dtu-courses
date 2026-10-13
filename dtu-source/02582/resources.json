@@ -1,0 +1,899 @@
+[
+  {
+    "title": "Week_1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1160404",
+    "group": "Week_1",
+    "kind": "Learn topic",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1160405",
+    "group": "Week_1 / Slides",
+    "kind": "Learn topic",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "02582_2026_LEC_week1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1160496/View",
+    "group": "Week_1 / Slides",
+    "kind": "Slides",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "EPEderivation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1160544/View",
+    "group": "Week_1 / Slides",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "matrix_cookbook",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1160545/View",
+    "group": "Week_1 / Slides",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "02582_2026_Introduction_week1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1160567/View",
+    "group": "Week_1 / Slides",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Exercise",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1160497",
+    "group": "Week_1 / Exercise",
+    "kind": "Learn topic",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "exercise_sheet_week1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1160549/View",
+    "group": "Week_1 / Exercise",
+    "kind": "Exercises",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "question_scripts",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1160550/View",
+    "group": "Week_1 / Exercise",
+    "kind": "Code & data",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1160551/View",
+    "group": "Week_1 / Exercise",
+    "kind": "Official solutions",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Course_overview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1160572",
+    "group": "Course_overview",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "course_overview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1174431/View",
+    "group": "Course_overview",
+    "kind": "Reading"
+  },
+  {
+    "title": "Week_2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1163565",
+    "group": "Week_2",
+    "kind": "Learn topic",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "lecture_demos",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1164262/View",
+    "group": "Week_2",
+    "kind": "Slides",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1163566",
+    "group": "Week_2 / Slides",
+    "kind": "Learn topic",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "02582_2026_week2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1163655/View",
+    "group": "Week_2 / Slides",
+    "kind": "Reading",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1163568",
+    "group": "Week_2 / Exercises",
+    "kind": "Learn topic",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "exercise_sheet_week2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1163569/View",
+    "group": "Week_2 / Exercises",
+    "kind": "Exercises",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "question_scripts",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1163570/View",
+    "group": "Week_2 / Exercises",
+    "kind": "Code & data",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1163571/View",
+    "group": "Week_2 / Exercises",
+    "kind": "Official solutions",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Previous_exams",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1163572",
+    "group": "Previous_exams",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "2022",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1163574",
+    "group": "Previous_exams / 2022",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "CDA Exam Questions 2022_handout2023",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1163575/View",
+    "group": "Previous_exams / 2022",
+    "kind": "Reading"
+  },
+  {
+    "title": "Exam Answer Sheet_solution",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1163576/View",
+    "group": "Previous_exams / 2022",
+    "kind": "Official solutions"
+  },
+  {
+    "title": "2024",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1163577",
+    "group": "Previous_exams / 2024",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "CDA Exam Questions 2024",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1163578/View",
+    "group": "Previous_exams / 2024",
+    "kind": "Reading"
+  },
+  {
+    "title": "Exam Answer Sheet_solution_2024",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1163579/View",
+    "group": "Previous_exams / 2024",
+    "kind": "Official solutions"
+  },
+  {
+    "title": "2025",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1163580",
+    "group": "Previous_exams / 2025",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "exam_vFinal_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1163581/View",
+    "group": "Previous_exams / 2025",
+    "kind": "Reading"
+  },
+  {
+    "title": "exam_vFinal",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1163741/View",
+    "group": "Previous_exams / 2025",
+    "kind": "Reading"
+  },
+  {
+    "title": "02582 Computational data analysis S25_McqAnswers",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1199197/View",
+    "group": "Previous_exams / 2025",
+    "kind": "Reading"
+  },
+  {
+    "title": "Case_I",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1166723",
+    "group": "Case_I",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "02582_2026_caseI",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1166726/View",
+    "group": "Case_I",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "case1Data",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1166727/View",
+    "group": "Case_I",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "case1Data_Xnew",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1166728/View",
+    "group": "Case_I",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "case1reportTemplate",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1166729/View",
+    "group": "Case_I",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "case1reportTemplate",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1166730/View",
+    "group": "Case_I",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "sample_estimatedRMSE_YourStudentNo",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1166731/View",
+    "group": "Case_I",
+    "kind": "Code & data"
+  },
+  {
+    "title": "sample_predictions_YourStudentNo",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1166732/View",
+    "group": "Case_I",
+    "kind": "Code & data"
+  },
+  {
+    "title": "Case_IResults_2026",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1189343/View",
+    "group": "Case_I",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Week_3",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1166904",
+    "group": "Week_3",
+    "kind": "Learn topic",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1166907",
+    "group": "Week_3 / Slides",
+    "kind": "Learn topic",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "demos",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1166910/View",
+    "group": "Week_3 / Slides",
+    "kind": "Code & data",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "02582_2026_week3",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1166917/View",
+    "group": "Week_3 / Slides",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1166911",
+    "group": "Week_3 / Exercises",
+    "kind": "Learn topic",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1166912/View",
+    "group": "Week_3 / Exercises",
+    "kind": "Exercises",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Week_4",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1170295",
+    "group": "Week_4",
+    "kind": "Learn topic",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1170296",
+    "group": "Week_4 / Slides",
+    "kind": "Learn topic",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "02582_2026_week4",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1170298/View",
+    "group": "Week_4 / Slides",
+    "kind": "Reading",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "extrapolation_disaster",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1170299/View",
+    "group": "Week_4 / Slides",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "lda_vs_lr_animated",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1170300/View",
+    "group": "Week_4 / Slides",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "rda_morph",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1170301/View",
+    "group": "Week_4 / Slides",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1170297",
+    "group": "Week_4 / Exercises",
+    "kind": "Learn topic",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1170359/View",
+    "group": "Week_4 / Exercises",
+    "kind": "Exercises",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week_5",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1174290",
+    "group": "Week_5",
+    "kind": "Learn topic",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1174291",
+    "group": "Week_5 / Exercises",
+    "kind": "Learn topic",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "02582_2026_week5",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1174292/View",
+    "group": "Week_5 / Exercises",
+    "kind": "Reading",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "exercises_week5",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1174293/View",
+    "group": "Week_5 / Exercises",
+    "kind": "Exercises",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1174294",
+    "group": "Week_5 / Slides",
+    "kind": "Learn topic",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "02582_2026_week5",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1174295/View",
+    "group": "Week_5 / Slides",
+    "kind": "Reading",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Week_6",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1177869",
+    "group": "Week_6",
+    "kind": "Learn topic",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "02582_2026_week6",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1177871/View",
+    "group": "Week_6",
+    "kind": "Reading",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1177870",
+    "group": "Week_6 / Exercises",
+    "kind": "Learn topic",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "exercises_upload",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1177872/View",
+    "group": "Week_6 / Exercises",
+    "kind": "Exercises",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "week_7",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1180703",
+    "group": "week_7",
+    "kind": "Learn topic",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1180704",
+    "group": "week_7 / slides",
+    "kind": "Learn topic",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "theory_SVM_vapnik1996",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1180706/View",
+    "group": "week_7 / slides",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "codes",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1180707/View",
+    "group": "week_7 / slides",
+    "kind": "Code & data",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "02582_2026_week7",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1180793/View",
+    "group": "week_7 / slides",
+    "kind": "Reading",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1180708",
+    "group": "week_7 / exercises",
+    "kind": "Learn topic",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "week7_exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1180709/View",
+    "group": "week_7 / exercises",
+    "kind": "Exercises",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "week_8",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1183032",
+    "group": "week_8",
+    "kind": "Learn topic",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1183033",
+    "group": "week_8 / exercises",
+    "kind": "Learn topic",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "exercise_week8",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1183172/View",
+    "group": "week_8 / exercises",
+    "kind": "Exercises",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1183034",
+    "group": "week_8 / slides",
+    "kind": "Learn topic",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "02582_2026_week8",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1183119/View",
+    "group": "week_8 / slides",
+    "kind": "Reading",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "week_9",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1186040",
+    "group": "week_9",
+    "kind": "Learn topic",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1186043",
+    "group": "week_9 / slides",
+    "kind": "Learn topic",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "02582_2026_week9",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1186054/View",
+    "group": "week_9 / slides",
+    "kind": "Reading",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1186367",
+    "group": "week_9 / Exercises",
+    "kind": "Learn topic",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1186368/View",
+    "group": "week_9 / Exercises",
+    "kind": "Exercises",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Case_II",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1186507",
+    "group": "Case_II",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "02582_2026_caseII_data_description",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1186508/View",
+    "group": "Case_II",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "02582_2026_caseII_description",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1186509/View",
+    "group": "Case_II",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "02582_2026_caseII_evaluation_guide",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1186510/View",
+    "group": "Case_II",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "02582_2026_caseII_FAQs",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1186511/View",
+    "group": "Case_II",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "case2reportTemplate",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1186512/View",
+    "group": "Case_II",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "caseII_report_template",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1186513/View",
+    "group": "Case_II",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "data",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1186515/View",
+    "group": "Case_II",
+    "kind": "Code & data"
+  },
+  {
+    "title": "HR_data_2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1189557/View",
+    "group": "Case_II",
+    "kind": "Code & data"
+  },
+  {
+    "title": "week_10",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1189334",
+    "group": "week_10",
+    "kind": "Learn topic",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1189335",
+    "group": "week_10 / Slides",
+    "kind": "Learn topic",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "02582_2026_week10",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1189338/View",
+    "group": "week_10 / Slides",
+    "kind": "Reading",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1189336",
+    "group": "week_10 / Exercises",
+    "kind": "Learn topic",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1189337/View",
+    "group": "week_10 / Exercises",
+    "kind": "Exercises",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "week_11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1192392",
+    "group": "week_11",
+    "kind": "Learn topic",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1192393",
+    "group": "week_11 / slides",
+    "kind": "Learn topic",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "codes",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1192396/View",
+    "group": "week_11 / slides",
+    "kind": "Code & data",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "sparse_coding",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1192397/View",
+    "group": "week_11 / slides",
+    "kind": "Reading",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "02582_2026_week11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1192495/View",
+    "group": "week_11 / slides",
+    "kind": "Reading",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1192394",
+    "group": "week_11 / exercises",
+    "kind": "Learn topic",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "ex_week_11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1192398/View",
+    "group": "week_11 / exercises",
+    "kind": "Code & data",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Week 12",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1194388",
+    "group": "Week 12",
+    "kind": "Learn topic",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1194390",
+    "group": "Week 12 / slides",
+    "kind": "Learn topic",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "Lecture_12_Multiway_models (1)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1194397/View",
+    "group": "Week 12 / slides",
+    "kind": "Slides",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "Morup-2011-ApplicationOfTensorFActorizationsAndDecompositionsInDataMining",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1194680/View",
+    "group": "Week 12 / slides",
+    "kind": "Reading",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1194391",
+    "group": "Week 12 / exercises",
+    "kind": "Learn topic",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1194457/View",
+    "group": "Week 12 / exercises",
+    "kind": "Exercises",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "Peer-feedback",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296275/units/1195324",
+    "group": "Peer-feedback",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Peer-feedback for project synopsis",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1196431/View",
+    "group": "Peer-feedback",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "DTU Learn course",
+    "url": "https://learn.inside.dtu.dk/d2l/home/296275",
+    "group": "Course information",
+    "kind": "Learn course"
+  }
+]

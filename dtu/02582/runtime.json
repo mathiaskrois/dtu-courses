@@ -1,0 +1,163 @@
+{
+  "course": {
+    "id": "02582",
+    "title": "Computational Data Analysis",
+    "shortTitle": "Computational Data Analysis",
+    "term": "Spring 2026",
+    "verified": "14 October 2026",
+    "learn": "https://learn.inside.dtu.dk/d2l/home/296275",
+    "website": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1174431/View",
+    "breakStart": "2026-03-30",
+    "breakEnd": "2026-04-05",
+    "periodStart": "2026-02-02",
+    "archived": true
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2026-02-02",
+      "end": "2026-02-08",
+      "title": "Regression, bias and variance"
+    },
+    {
+      "number": 2,
+      "start": "2026-02-09",
+      "end": "2026-02-15",
+      "title": "Model selection and resampling"
+    },
+    {
+      "number": 3,
+      "start": "2026-02-16",
+      "end": "2026-02-22",
+      "title": "Sparse regression and multiple testing"
+    },
+    {
+      "number": 4,
+      "start": "2026-02-23",
+      "end": "2026-03-01",
+      "title": "Linear classification and flexible boundaries"
+    },
+    {
+      "number": 5,
+      "start": "2026-03-02",
+      "end": "2026-03-08",
+      "title": "Trees and bagging"
+    },
+    {
+      "number": 6,
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "title": "Boosting and random forests"
+    },
+    {
+      "number": 7,
+      "start": "2026-03-16",
+      "end": "2026-03-22",
+      "title": "Support vector machines"
+    },
+    {
+      "number": 8,
+      "start": "2026-03-23",
+      "end": "2026-03-29",
+      "title": "Subspace methods"
+    },
+    {
+      "number": 9,
+      "start": "2026-04-06",
+      "end": "2026-04-12",
+      "title": "Unsupervised clustering"
+    },
+    {
+      "number": 10,
+      "start": "2026-04-13",
+      "end": "2026-04-19",
+      "title": "Artificial neural networks"
+    },
+    {
+      "number": 11,
+      "start": "2026-04-20",
+      "end": "2026-04-26",
+      "title": "Unsupervised decompositions"
+    },
+    {
+      "number": 12,
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "title": "Multiway models"
+    },
+    {
+      "number": 13,
+      "start": "2026-05-04",
+      "end": "2026-05-10",
+      "title": "Case 2 poster peer review"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "learn-71102",
+      "title": "case 1 handin",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=296275&db=71102",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=296275&db=71102",
+      "due": "2026-03-28T23:59:59+01:00",
+      "date": "28 March",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-72422",
+      "title": "Case 2 report (only!) handin",
+      "audience": "Group",
+      "description": "Submit the Case 2 report as a PDF through the report-only Learn assignment.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=296275&db=72422",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=296275&db=72422",
+      "due": "2026-05-05T23:59:59+02:00",
+      "date": "5 May",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-72423",
+      "title": "Case 2 video poster (only!) handin",
+      "audience": "Group",
+      "description": "Submit the Case 2 video poster through its separate Learn space; this component is evaluated pass/fail.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=296275&db=72423",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=296275&db=72423",
+      "due": "2026-05-05T23:59:59+02:00",
+      "date": "5 May",
+      "time": "23:59"
+    },
+    {
+      "id": "calendar-380944",
+      "title": "Hand in as group - Peer-feedback for project synopsis",
+      "audience": "Peer review",
+      "description": "A course-specific peer-review task recorded in the current edition’s Learn calendar. Read the linked activity for the audience, number of reviews and detailed criteria.",
+      "url": "https://learn.inside.dtu.dk/d2l/le/calendar/296275/event/421393/detailsview",
+      "source": "https://learn.inside.dtu.dk/d2l/le/calendar/296275/event/421393/detailsview",
+      "due": "2026-05-06T23:59:00+02:00",
+      "date": "6 May",
+      "time": "23:59"
+    },
+    {
+      "id": "calendar-380943",
+      "title": "Give feedback - Peer-feedback for project synopsis",
+      "audience": "Peer review",
+      "description": "A course-specific peer-review task recorded in the current edition’s Learn calendar. Read the linked activity for the audience, number of reviews and detailed criteria.",
+      "url": "https://learn.inside.dtu.dk/d2l/le/calendar/296275/event/421392/detailsview",
+      "source": "https://learn.inside.dtu.dk/d2l/le/calendar/296275/event/421392/detailsview",
+      "due": "2026-05-14T23:59:00+02:00",
+      "date": "14 May",
+      "time": "23:59"
+    },
+    {
+      "id": "exam",
+      "title": "Written exam",
+      "audience": "Individual",
+      "description": "The Spring 2026 course overview specifies 20 May. Confirm the archived time, room and aids in the official exam system.",
+      "url": "https://learn.inside.dtu.dk/d2l/home/296275",
+      "source": "https://learn.inside.dtu.dk/d2l/le/content/296275/viewContent/1174431/View",
+      "dateOnly": "2026-05-20",
+      "date": "20 May",
+      "time": "Time to confirm"
+    }
+  ]
+}

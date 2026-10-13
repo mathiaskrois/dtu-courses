@@ -2,12 +2,14 @@
   "name": "dtu-courses",
   "private": true,
   "scripts": {
-    "build": "node scripts/build-dtu.mjs && node scripts/build-02807.mjs && node scripts/build-02581.mjs && node scripts/build-02616.mjs && node scripts/build-site.mjs",
+    "build": "node scripts/build-all.mjs",
     "preview": "python3 -m http.server 8080 --bind 127.0.0.1",
     "test": "playwright test",
     "build:dtu": "node scripts/build-dtu.mjs",
-    "test:dates": "node --test tests/dtu-state.test.mjs",
-    "test:dtu:dates": "node --test tests/dtu-state.test.mjs"
+    "test:dates": "node --test tests/dtu-state.test.mjs tests/period-state.test.mjs",
+    "test:dtu:dates": "node --test tests/dtu-state.test.mjs",
+    "course:new": "node scripts/new-course.mjs",
+    "test:build": "node --test tests/course-build.test.mjs"
   },
   "devDependencies": {
     "@axe-core/playwright": "4.13.0",

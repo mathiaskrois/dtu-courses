@@ -1,0 +1,854 @@
+[
+  {
+    "title": "Course structure",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148813",
+    "group": "Course structure",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "lectures and exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-822940",
+    "group": "Course structure",
+    "kind": "Exercises"
+  },
+  {
+    "title": "textbook",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-814800",
+    "group": "Course structure",
+    "kind": "Reading"
+  },
+  {
+    "title": "student.dtu.dk/en/exam/exam-dates",
+    "url": "https://student.dtu.dk/en/exam/exam-dates",
+    "group": "Course structure",
+    "kind": "Course link"
+  },
+  {
+    "title": "02460_Mock_Exam_spring_2024.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Exams%2f02460_Mock_Exam_spring_2024.pdf",
+    "group": "Course structure",
+    "kind": "Reading"
+  },
+  {
+    "title": "02460_Final_Exam_spring_2024.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Exams%2f02460_Final_Exam_spring_2024.pdf",
+    "group": "Course structure",
+    "kind": "Reading"
+  },
+  {
+    "title": "02460_Final_Exam_spring_2025.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Exams%2f02460_Final_Exam_spring_2025.pdf",
+    "group": "Course structure",
+    "kind": "Reading"
+  },
+  {
+    "title": "Literature",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148812",
+    "group": "Literature",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "FindIt",
+    "url": "https://findit.dtu.dk/en/catalog/671f6701adaec09cc7230dd9",
+    "group": "Literature",
+    "kind": "Course link"
+  },
+  {
+    "title": "is available here",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2flmlg.pdf",
+    "group": "Literature",
+    "kind": "Reading"
+  },
+  {
+    "title": "Findit",
+    "url": "https://findit.dtu.dk/en/catalog/626d3d2395bc8411460749d3",
+    "group": "Literature",
+    "kind": "Course link"
+  },
+  {
+    "title": "Lectures",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148814",
+    "group": "Lectures",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Week 1: Deep latent variable models",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-816390",
+    "group": "Lectures",
+    "kind": "Course link"
+  },
+  {
+    "title": "Week 2: Flows",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-816391",
+    "group": "Lectures",
+    "kind": "Course link"
+  },
+  {
+    "title": "Week 3: Diffusion models",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-816417",
+    "group": "Lectures",
+    "kind": "Course link"
+  },
+  {
+    "title": "Week 4: Mini project 1",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-816419",
+    "group": "Lectures",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Week 5: Representation invariance",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-816420",
+    "group": "Lectures",
+    "kind": "Course link"
+  },
+  {
+    "title": "Week 6: Geodesics",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-816487",
+    "group": "Lectures",
+    "kind": "Course link"
+  },
+  {
+    "title": "Week 7: Information geometry & parameter manifolds",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-816490",
+    "group": "Lectures",
+    "kind": "Course link"
+  },
+  {
+    "title": "Week 8: Mini project 2",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-816491",
+    "group": "Lectures",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Week 9: Graphs & node embeddings",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-816398",
+    "group": "Lectures",
+    "kind": "Course link"
+  },
+  {
+    "title": "Week 10: Graph neural networks",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-816399",
+    "group": "Lectures",
+    "kind": "Course link"
+  },
+  {
+    "title": "Week 11: Theory & generative models",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-823511",
+    "group": "Lectures",
+    "kind": "Course link"
+  },
+  {
+    "title": "Week 12: Mini project 3",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-823513",
+    "group": "Lectures",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "1. Deep latent variable models",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148815",
+    "group": "Lectures / 1. Deep latent variable models",
+    "kind": "Learn topic",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "the Deep Generative Modeling book",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-814800",
+    "group": "Lectures / 1. Deep latent variable models",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "02460 Week 1 (DLVM).pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2f02460+Week+1+(DLVM).pdf",
+    "group": "Lectures / 1. Deep latent variable models",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "02460 Week 1 (DLVM, no quiz).pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2f02460+Week+1+(DLVM%2c+no+quiz).pdf",
+    "group": "Lectures / 1. Deep latent variable models",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "02460_week1_exercises.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2f02460_week1_exercises.pdf",
+    "group": "Lectures / 1. Deep latent variable models",
+    "kind": "Exercises",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "vae_bernoulli.py",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2fvae_bernoulli.py",
+    "group": "Lectures / 1. Deep latent variable models",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "02460_week1_exercises_solutions.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2f02460_week1_exercises_solutions.pdf",
+    "group": "Lectures / 1. Deep latent variable models",
+    "kind": "Official solutions",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "2. Flows",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148816",
+    "group": "Lectures / 2. Flows",
+    "kind": "Learn topic",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "the Deep Generative Modeling book",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-814800",
+    "group": "Lectures / 2. Flows",
+    "kind": "Reading",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "02460 Week 2 (flows).pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2f02460+Week+2+(flows).pdf",
+    "group": "Lectures / 2. Flows",
+    "kind": "Reading",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "02460_week2_exercises.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2f02460_week2_exercises.pdf",
+    "group": "Lectures / 2. Flows",
+    "kind": "Exercises",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "flow.py",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2fflow.py",
+    "group": "Lectures / 2. Flows",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "ToyData.py",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2fToyData.py",
+    "group": "Lectures / 2. Flows",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "02460_week2_exercises_solutions.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2f02460_week2_exercises_solutions.pdf",
+    "group": "Lectures / 2. Flows",
+    "kind": "Official solutions",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "3. Diffusion models",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148817",
+    "group": "Lectures / 3. Diffusion models",
+    "kind": "Learn topic",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "The DDPM paper",
+    "url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
+    "group": "Lectures / 3. Diffusion models",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "the Deep Generative Modeling book",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-814800",
+    "group": "Lectures / 3. Diffusion models",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "02460 Week 3 (diffusion).pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2f02460+Week+3+(diffusion).pdf",
+    "group": "Lectures / 3. Diffusion models",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "02460_week3_exercises.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2f02460_week3_exercises.pdf",
+    "group": "Lectures / 3. Diffusion models",
+    "kind": "Exercises",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "3. Diffusion models · linked material",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2fddpm.py",
+    "group": "Lectures / 3. Diffusion models",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "3. Diffusion models · linked material",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2funet.py",
+    "group": "Lectures / 3. Diffusion models",
+    "kind": "Course link",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "02460_week3_exercises_solutions.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2f02460_week3_exercises_solutions.pdf",
+    "group": "Lectures / 3. Diffusion models",
+    "kind": "Official solutions",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "4. Mini project 1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148818",
+    "group": "Lectures / 4. Mini project 1",
+    "kind": "Learn topic",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "02460_project1.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2f02460_project1.pdf",
+    "group": "Lectures / 4. Mini project 1",
+    "kind": "Assignment guidance",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "fid.py",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2ffid.py",
+    "group": "Lectures / 4. Mini project 1",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "mnist_classifier.pth",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2fmnist_classifier.pth",
+    "group": "Lectures / 4. Mini project 1",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "template.tex",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2ftemplate.tex",
+    "group": "Lectures / 4. Mini project 1",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "template.bib",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2ftemplate.bib",
+    "group": "Lectures / 4. Mini project 1",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "template.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+1%2ftemplate.pdf",
+    "group": "Lectures / 4. Mini project 1",
+    "kind": "Reading",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "5. Representation invariance",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148819",
+    "group": "Lectures / 5. Representation invariance",
+    "kind": "Learn topic",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "the LMLG book",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2flmlg.pdf",
+    "group": "Lectures / 5. Representation invariance",
+    "kind": "Reading",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "02460_week5_exercises.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2f02460_week5_exercises.pdf",
+    "group": "Lectures / 5. Representation invariance",
+    "kind": "Exercises",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "02460_week5_exercises_with_solutions.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2f02460_week5_exercises_with_solutions.pdf",
+    "group": "Lectures / 5. Representation invariance",
+    "kind": "Official solutions",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "dggm_ex56.py",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2fdggm_ex56.py",
+    "group": "Lectures / 5. Representation invariance",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "HTML (preferred)",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2fweek5_rep_inv-presenter.sozi.html",
+    "group": "Lectures / 5. Representation invariance",
+    "kind": "Course link",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "PDF (no animations)",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2fweek5_rep_inv.sozi.pdf",
+    "group": "Lectures / 5. Representation invariance",
+    "kind": "Reading",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "6. Geodesics",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148820",
+    "group": "Lectures / 6. Geodesics",
+    "kind": "Learn topic",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "the LMLG book.",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2flmlg.pdf",
+    "group": "Lectures / 6. Geodesics",
+    "kind": "Reading",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "these exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2f02460_week6_exercises.pdf",
+    "group": "Lectures / 6. Geodesics",
+    "kind": "Exercises",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "are here",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2f02460_week6_exercises_with_solutions.pdf",
+    "group": "Lectures / 6. Geodesics",
+    "kind": "Official solutions",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "HTML",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2fweek6_metrics.sozi.html",
+    "group": "Lectures / 6. Geodesics",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "6. Geodesics · PDF",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2fweek6_metrics.pdf",
+    "group": "Lectures / 6. Geodesics",
+    "kind": "Reading",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "is available here",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=lti&rcode=dtu-838907&srcou=296284",
+    "group": "Lectures / 6. Geodesics",
+    "kind": "Course link",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "7. Information geometry & parameter manifolds",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148821",
+    "group": "Lectures / 7. Information geometry & parameter manifolds",
+    "kind": "Learn topic",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "the LMLG book.",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=content&rcode=dtu-530545",
+    "group": "Lectures / 7. Information geometry & parameter manifolds",
+    "kind": "Reading",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "these exercises.",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2f02460_week7_exercises.pdf",
+    "group": "Lectures / 7. Information geometry & parameter manifolds",
+    "kind": "Exercises",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "7. Information geometry & parameter manifolds · here",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2f02460_week7_exercises_with_solutions.pdf",
+    "group": "Lectures / 7. Information geometry & parameter manifolds",
+    "kind": "Official solutions",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "in HTML",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2fweek7_ops_inf.sozi.html",
+    "group": "Lectures / 7. Information geometry & parameter manifolds",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "7. Information geometry & parameter manifolds · PDF",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2fweek7_slides.pdf",
+    "group": "Lectures / 7. Information geometry & parameter manifolds",
+    "kind": "Slides",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "7. Information geometry & parameter manifolds · here",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=lti&rcode=dtu-841904&srcou=296284",
+    "group": "Lectures / 7. Information geometry & parameter manifolds",
+    "kind": "Course link",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "8. Mini project 2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148822",
+    "group": "Lectures / 8. Mini project 2",
+    "kind": "Learn topic",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "02460_project2_v11.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2f02460_project2_v11.pdf",
+    "group": "Lectures / 8. Mini project 2",
+    "kind": "Assignment guidance",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "ensemble_vae.py",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2fensemble_vae.py",
+    "group": "Lectures / 8. Mini project 2",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "template2.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2ftemplate2.pdf",
+    "group": "Lectures / 8. Mini project 2",
+    "kind": "Reading",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "template2.tex",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=296284&type=coursefile&fileId=Module+2%2ftemplate2.tex",
+    "group": "Lectures / 8. Mini project 2",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "9. Graphs & node embeddings",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148824",
+    "group": "Lectures / 9. Graphs & node embeddings",
+    "kind": "Learn topic",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Lecture slides: 01-GraphsAndNodeEmbeddings.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148836/View",
+    "group": "Lectures / 9. Graphs & node embeddings",
+    "kind": "Slides",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Exercise_1.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148831/View",
+    "group": "Lectures / 9. Graphs & node embeddings",
+    "kind": "Exercises",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Exercise_1_solution.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148832/View",
+    "group": "Lectures / 9. Graphs & node embeddings",
+    "kind": "Official solutions",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "data.pt",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148833/View",
+    "group": "Lectures / 9. Graphs & node embeddings",
+    "kind": "Code & data",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "shallow_embedding.py",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148834/View",
+    "group": "Lectures / 9. Graphs & node embeddings",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "shallow_embedding_solution.py",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148835/View",
+    "group": "Lectures / 9. Graphs & node embeddings",
+    "kind": "Official solutions",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Shallow embedding",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148837/View",
+    "group": "Lectures / 9. Graphs & node embeddings",
+    "kind": "Course link",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "10. Graph neural networks",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148825",
+    "group": "Lectures / 10. Graph neural networks",
+    "kind": "Learn topic",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Lecture slides: 02-GraphNeuralNetworks.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148839/View",
+    "group": "Lectures / 10. Graph neural networks",
+    "kind": "Slides",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Exercise_2.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148840/View",
+    "group": "Lectures / 10. Graph neural networks",
+    "kind": "Exercises",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Exercise_2_solution.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148841/View",
+    "group": "Lectures / 10. Graph neural networks",
+    "kind": "Official solutions",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "gnn_graph_classification.py",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148842/View",
+    "group": "Lectures / 10. Graph neural networks",
+    "kind": "Course link",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Graph classification",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148838/View",
+    "group": "Lectures / 10. Graph neural networks",
+    "kind": "Course link",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "11. Theory & generative models",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148826",
+    "group": "Lectures / 11. Theory & generative models",
+    "kind": "Learn topic",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Lecture slides: 03-TheoryAndGenerativeModels.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148843/View",
+    "group": "Lectures / 11. Theory & generative models",
+    "kind": "Slides",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Exercise_3.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148844/View",
+    "group": "Lectures / 11. Theory & generative models",
+    "kind": "Exercises",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Exercise_3_solution.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148845/View",
+    "group": "Lectures / 11. Theory & generative models",
+    "kind": "Official solutions",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "graph_convolution.py",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148846/View",
+    "group": "Lectures / 11. Theory & generative models",
+    "kind": "Course link",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "graph_convolution_solution.py",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148847/View",
+    "group": "Lectures / 11. Theory & generative models",
+    "kind": "Official solutions",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "12. Mini project 3",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148827",
+    "group": "Lectures / 12. Mini project 3",
+    "kind": "Learn topic",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "Project_GNN.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/296284/viewContent/1148848/View",
+    "group": "Lectures / 12. Mini project 3",
+    "kind": "Assignment guidance",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "13. Recap",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296284/units/1148823",
+    "group": "Lectures / 13. Recap",
+    "kind": "Learn topic",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "DTU Learn course",
+    "url": "https://learn.inside.dtu.dk/d2l/home/296284",
+    "group": "Course information",
+    "kind": "Learn course"
+  }
+]

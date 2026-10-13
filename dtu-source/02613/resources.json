@@ -1,0 +1,1088 @@
+[
+  {
+    "title": "Overview and Resources",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920695",
+    "group": "Overview and Resources",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Connecting to an HPC Terminal",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920712/View",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "File Transfer to/from HPC",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920710/View",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Linux Terminal Cheat Sheet",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920711/View",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Initializing the 02613 Conda Environment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920713/View",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "LSF Guides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920714/View",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Remote Development with VS Code",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920731/View",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Code Editors on ThinLinc",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920735/View",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Streaming and Video",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=242101&type=lti&rcode=dtu-394603&srcou=6606&launchFramed=1&framedName=Video+%26+Streaming",
+    "group": "Overview and Resources",
+    "kind": "Video"
+  },
+  {
+    "title": "Autolab",
+    "url": "https://autolab.compute.dtu.dk/courses/02613-F25",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://autolab.compute.dtu.dk/auth/users/password/new",
+    "url": "https://autolab.compute.dtu.dk/auth/users/password/new",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Content -> Mini-Project",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=242101&type=content&rcode=dtu-680160",
+    "group": "Overview and Resources",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Piazza",
+    "url": "https://piazza.com/dtu.dk/spring2025/dtu_f25_02613",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Polyteknisk Boghandel - 10% off",
+    "url": "https://polyteknisk.dk/home/dtu/soege_resultat?utf8=%E2%9C%93&q=02613&b=20&st=c&code=&exact_match=false",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Free DTU Download from Findit",
+    "url": "https://findit.dtu.dk/en/catalog/65bb2199a74b923e815954a7",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Connecting to an HPC Terminal",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=242101&type=content&rcode=dtu-523691",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "File Transfer to/from HPC",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=242101&type=content&rcode=dtu-523611",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Linux Terminal Cheat Sheet",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=242101&type=content&rcode=dtu-523657",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Initializing the 02613 Conda Environment",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=242101&type=content&rcode=dtu-523793",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "LSF Guides",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=242101&type=content&rcode=dtu-524289",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Remote Development with VS Code",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=242101&type=content&rcode=dtu-537736",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://www.hpc.dtu.dk/",
+    "url": "https://www.hpc.dtu.dk/",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "DTU Inside > Study Rules > Exam > Use of aids and materials at written exams",
+    "url": "https://www.inside.dtu.dk/en/undervisning/regler/regler-for-eksamen/brug-af-hjaelpemidler-ved-skriftlig-eksamen",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "DTU Inside > Studieregler > Eksamen > Brug af hjælpemidler ved skriftlig eksamen",
+    "url": "https://www.inside.dtu.dk/da/undervisning/regler/regler-for-eksamen/brug-af-hjaelpemidler-ved-skriftlig-eksamen",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "https://kurser.dtu.dk/course/02613",
+    "url": "https://kurser.dtu.dk/course/02613",
+    "group": "Overview and Resources",
+    "kind": "Course link"
+  },
+  {
+    "title": "Exam",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/1011800",
+    "group": "Exam",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Exam_02613_F25",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/1011801/View",
+    "group": "Exam",
+    "kind": "Reading"
+  },
+  {
+    "title": "Mini-Project",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/962296",
+    "group": "Mini-Project",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Project",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/964500/View",
+    "group": "Mini-Project",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Project (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/964501/View",
+    "group": "Mini-Project",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Mini-project",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/967736/View",
+    "group": "Mini-Project",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Week 1: Introdction to PyHPC",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920696",
+    "group": "Week 1: Introdction to PyHPC",
+    "kind": "Learn topic",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Lecture_week01",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920729/View",
+    "group": "Week 1: Introdction to PyHPC",
+    "kind": "Slides",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Week 1 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/931050/View",
+    "group": "Week 1: Introdction to PyHPC",
+    "kind": "Exercises",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Week 1 Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/927674/View",
+    "group": "Week 1: Introdction to PyHPC",
+    "kind": "Official solutions",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Week 1 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/931057/View",
+    "group": "Week 1: Introdction to PyHPC",
+    "kind": "Exercises",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Week 1 Solutions (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/931058/View",
+    "group": "Week 1: Introdction to PyHPC",
+    "kind": "Official solutions",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Quiz Week 1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/956452/View",
+    "group": "Week 1: Introdction to PyHPC",
+    "kind": "Reading",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "https://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec19",
+    "url": "https://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec19",
+    "group": "Week 1: Introdction to PyHPC",
+    "kind": "Course link",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Week 2: Python Bootcamp",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920697",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Learn topic",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Lecture_week02",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920736/View",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Slides",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Week 2 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/931063/View",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Exercises",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Week 2 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/931065/View",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Exercises",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Quiz Week 2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/961897/View",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Reading",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "02002/02003 Computer Programming",
+    "url": "https://cp.compute.dtu.dk/index.html",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Python Command Line Arguments: Complete Guide",
+    "url": "https://ioflood.com/blog/python-command-line-arguments/",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "The Python Tutorial: Command Line Arguments",
+    "url": "https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "The Python Tutorial: sets",
+    "url": "https://docs.python.org/3/tutorial/datastructures.html#sets",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "The Python Tutorial: lambda expressions",
+    "url": "https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "The counter-intuitive rise of Python in scientific computing",
+    "url": "https://cerfacs.fr/coop/fortran-vs-python",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Course link",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Inside the Python GIL",
+    "url": "http://www.dabeaz.com/python/GIL.pdf",
+    "group": "Week 2: Python Bootcamp",
+    "kind": "Reading",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Week 3: The Memory Hierarchy",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920698",
+    "group": "Week 3: The Memory Hierarchy",
+    "kind": "Learn topic",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Lecture_week03",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920737/View",
+    "group": "Week 3: The Memory Hierarchy",
+    "kind": "Slides",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Week 3 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/946495/View",
+    "group": "Week 3: The Memory Hierarchy",
+    "kind": "Exercises",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Week 3 Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/946496/View",
+    "group": "Week 3: The Memory Hierarchy",
+    "kind": "Official solutions",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Week 3 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/946503/View",
+    "group": "Week 3: The Memory Hierarchy",
+    "kind": "Exercises",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Week 3 Solutions (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/946504/View",
+    "group": "Week 3: The Memory Hierarchy",
+    "kind": "Official solutions",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Quiz Week 3",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/964499/View",
+    "group": "Week 3: The Memory Hierarchy",
+    "kind": "Reading",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Week 4: Profiling and High-Performance NumPy",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920699",
+    "group": "Week 4: Profiling and High-Performance NumPy",
+    "kind": "Learn topic",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Fast Python pp. 83-84 (section 4.1.2) Corrections",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920738/View",
+    "group": "Week 4: Profiling and High-Performance NumPy",
+    "kind": "Course link",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Lecture_week04",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920739/View",
+    "group": "Week 4: Profiling and High-Performance NumPy",
+    "kind": "Slides",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week 4 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/948602/View",
+    "group": "Week 4: Profiling and High-Performance NumPy",
+    "kind": "Exercises",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week 4 Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/948605/View",
+    "group": "Week 4: Profiling and High-Performance NumPy",
+    "kind": "Official solutions",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week 4 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/948607/View",
+    "group": "Week 4: Profiling and High-Performance NumPy",
+    "kind": "Exercises",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week 4 Solutions (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/948609/View",
+    "group": "Week 4: Profiling and High-Performance NumPy",
+    "kind": "Official solutions",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Quiz Week 4",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/970678/View",
+    "group": "Week 4: Profiling and High-Performance NumPy",
+    "kind": "Reading",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week 5: Parallelism Part 1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920700",
+    "group": "Week 5: Parallelism Part 1",
+    "kind": "Learn topic",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Lecture_week05",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920747/View",
+    "group": "Week 5: Parallelism Part 1",
+    "kind": "Slides",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Week 5 & 6 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/928694/View",
+    "group": "Week 5: Parallelism Part 1",
+    "kind": "Exercises",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Week 5 & 6 Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/928783/View",
+    "group": "Week 5: Parallelism Part 1",
+    "kind": "Official solutions",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Week 5 & 6 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/952158/View",
+    "group": "Week 5: Parallelism Part 1",
+    "kind": "Exercises",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Week 5 & 6 Solutions (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/952160/View",
+    "group": "Week 5: Parallelism Part 1",
+    "kind": "Official solutions",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Quiz Week 5",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/971041/View",
+    "group": "Week 5: Parallelism Part 1",
+    "kind": "Reading",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Week 6: Parallelism Part 2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920701",
+    "group": "Week 6: Parallelism Part 2",
+    "kind": "Learn topic",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Lecture_week06",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920752/View",
+    "group": "Week 6: Parallelism Part 2",
+    "kind": "Slides",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Week 6 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/952344/View",
+    "group": "Week 6: Parallelism Part 2",
+    "kind": "Exercises",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Week 6 Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/952345/View",
+    "group": "Week 6: Parallelism Part 2",
+    "kind": "Official solutions",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Week 6 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/952348/View",
+    "group": "Week 6: Parallelism Part 2",
+    "kind": "Exercises",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Week 6 Solutions (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/952350/View",
+    "group": "Week 6: Parallelism Part 2",
+    "kind": "Official solutions",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Quiz Week 6",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/975387/View",
+    "group": "Week 6: Parallelism Part 2",
+    "kind": "Reading",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Week 7: High-Performance Pandas and Apache Arrow",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920702",
+    "group": "Week 7: High-Performance Pandas and Apache Arrow",
+    "kind": "Learn topic",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Lecture_week07",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920757/View",
+    "group": "Week 7: High-Performance Pandas and Apache Arrow",
+    "kind": "Slides",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Week 7 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/952883/View",
+    "group": "Week 7: High-Performance Pandas and Apache Arrow",
+    "kind": "Exercises",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Week 7 Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/952886/View",
+    "group": "Week 7: High-Performance Pandas and Apache Arrow",
+    "kind": "Official solutions",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Week 7 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/952889/View",
+    "group": "Week 7: High-Performance Pandas and Apache Arrow",
+    "kind": "Exercises",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Week 7 Solutions (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/952890/View",
+    "group": "Week 7: High-Performance Pandas and Apache Arrow",
+    "kind": "Official solutions",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Quiz Week 7",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977500/View",
+    "group": "Week 7: High-Performance Pandas and Apache Arrow",
+    "kind": "Reading",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Week 8: Storing Big Data",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920703",
+    "group": "Week 8: Storing Big Data",
+    "kind": "Learn topic",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Lecture_week08",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920761/View",
+    "group": "Week 8: Storing Big Data",
+    "kind": "Slides",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Week 8 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/968620/View",
+    "group": "Week 8: Storing Big Data",
+    "kind": "Exercises",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Week 8 Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/968622/View",
+    "group": "Week 8: Storing Big Data",
+    "kind": "Official solutions",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Week 8 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/968627/View",
+    "group": "Week 8: Storing Big Data",
+    "kind": "Exercises",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Week 8 Solutions (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/968629/View",
+    "group": "Week 8: Storing Big Data",
+    "kind": "Official solutions",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "mandelbrotref",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920763/View",
+    "group": "Week 8: Storing Big Data",
+    "kind": "Course link",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Quiz Week 8",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/981247/View",
+    "group": "Week 8: Storing Big Data",
+    "kind": "Reading",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Week 9: Numba and GPU computing",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920704",
+    "group": "Week 9: Numba and GPU computing",
+    "kind": "Learn topic",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Lecture_week09",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920770/View",
+    "group": "Week 9: Numba and GPU computing",
+    "kind": "Slides",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Week 9 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977085/View",
+    "group": "Week 9: Numba and GPU computing",
+    "kind": "Exercises",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Week 9 Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977091/View",
+    "group": "Week 9: Numba and GPU computing",
+    "kind": "Official solutions",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Week 9 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977092/View",
+    "group": "Week 9: Numba and GPU computing",
+    "kind": "Exercises",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Week 9 Solutions (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977093/View",
+    "group": "Week 9: Numba and GPU computing",
+    "kind": "Official solutions",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Quiz Week 9",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/984728/View",
+    "group": "Week 9: Numba and GPU computing",
+    "kind": "Reading",
+    "weeks": [
+      9
+    ]
+  },
+  {
+    "title": "Week 10: CuPy and GPU profiling",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920705",
+    "group": "Week 10: CuPy and GPU profiling",
+    "kind": "Learn topic",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Lecture_week10",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920778/View",
+    "group": "Week 10: CuPy and GPU profiling",
+    "kind": "Slides",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Week 10 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977119/View",
+    "group": "Week 10: CuPy and GPU profiling",
+    "kind": "Exercises",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Week 10 Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977120/View",
+    "group": "Week 10: CuPy and GPU profiling",
+    "kind": "Official solutions",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Week 10 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977122/View",
+    "group": "Week 10: CuPy and GPU profiling",
+    "kind": "Exercises",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Week 10 Solutions (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977123/View",
+    "group": "Week 10: CuPy and GPU profiling",
+    "kind": "Official solutions",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Quiz Week 10",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/987434/View",
+    "group": "Week 10: CuPy and GPU profiling",
+    "kind": "Reading",
+    "weeks": [
+      10
+    ]
+  },
+  {
+    "title": "Week 11: HPC Workflows",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920706",
+    "group": "Week 11: HPC Workflows",
+    "kind": "Learn topic",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Lecture_week11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920786/View",
+    "group": "Week 11: HPC Workflows",
+    "kind": "Slides",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Week 11 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977802/View",
+    "group": "Week 11: HPC Workflows",
+    "kind": "Exercises",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Week 11 Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977803/View",
+    "group": "Week 11: HPC Workflows",
+    "kind": "Official solutions",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Week 11 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977805/View",
+    "group": "Week 11: HPC Workflows",
+    "kind": "Exercises",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Week 11 Solutions (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/977806/View",
+    "group": "Week 11: HPC Workflows",
+    "kind": "Official solutions",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Quiz Week 11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/996150/View",
+    "group": "Week 11: HPC Workflows",
+    "kind": "Reading",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "LSF Job Arrays",
+    "url": "https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=administration-job-arrays",
+    "group": "Week 11: HPC Workflows",
+    "kind": "Course link",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "LSF Job dependency scheduling",
+    "url": "https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=priority-job-dependency-scheduling",
+    "group": "Week 11: HPC Workflows",
+    "kind": "Course link",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "LSF -w option",
+    "url": "https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=o-w-2",
+    "group": "Week 11: HPC Workflows",
+    "kind": "Course link",
+    "weeks": [
+      11
+    ]
+  },
+  {
+    "title": "Week 12: Project Work",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920707",
+    "group": "Week 12: Project Work",
+    "kind": "Learn topic",
+    "weeks": [
+      12
+    ]
+  },
+  {
+    "title": "Week 13: Common HPC Pitfalls and Q&A",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920708",
+    "group": "Week 13: Common HPC Pitfalls and Q&A",
+    "kind": "Learn topic",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Lecture_week13",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/920797/View",
+    "group": "Week 13: Common HPC Pitfalls and Q&A",
+    "kind": "Slides",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Week 13 Exercises",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/980392/View",
+    "group": "Week 13: Common HPC Pitfalls and Q&A",
+    "kind": "Exercises",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Week 13 Solutions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/980393/View",
+    "group": "Week 13: Common HPC Pitfalls and Q&A",
+    "kind": "Official solutions",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Week 13 Exercises (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/980395/View",
+    "group": "Week 13: Common HPC Pitfalls and Q&A",
+    "kind": "Exercises",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Week 13 Solutions (PDF)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/980396/View",
+    "group": "Week 13: Common HPC Pitfalls and Q&A",
+    "kind": "Official solutions",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Quiz Week 13",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/996148/View",
+    "group": "Week 13: Common HPC Pitfalls and Q&A",
+    "kind": "Reading",
+    "weeks": [
+      13
+    ]
+  },
+  {
+    "title": "Previous Exams",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920709",
+    "group": "Previous Exams",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "02613_exam_2024",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/955618/View",
+    "group": "Previous Exams",
+    "kind": "Reading"
+  },
+  {
+    "title": "02613_exam_2024_answers",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/955619/View",
+    "group": "Previous Exams",
+    "kind": "Reading"
+  },
+  {
+    "title": "02613_reexam_2024",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/955624/View",
+    "group": "Previous Exams",
+    "kind": "Reading"
+  },
+  {
+    "title": "02613_reexam_2024_answers",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242101/viewContent/955625/View",
+    "group": "Previous Exams",
+    "kind": "Reading"
+  },
+  {
+    "title": "DTU Learn course",
+    "url": "https://learn.inside.dtu.dk/d2l/home/242101",
+    "group": "Course information",
+    "kind": "Learn course"
+  }
+]

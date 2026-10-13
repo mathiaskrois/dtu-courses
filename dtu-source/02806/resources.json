@@ -1,0 +1,111 @@
+[
+  {
+    "title": "DTU Learn course",
+    "url": "https://learn.inside.dtu.dk/d2l/home/242129",
+    "group": "Course information",
+    "kind": "Learn course"
+  },
+  {
+    "title": "Official course site",
+    "url": "https://github.com/suneman/socialdata2025/wiki",
+    "group": "Course information",
+    "kind": "Official website"
+  },
+  {
+    "title": "PythonBootcamp",
+    "url": "https://github.com/suneman/socialdata2025/blob/main/lectures/PythonBootcamp.ipynb",
+    "group": "Course information",
+    "kind": "Official notebook"
+  },
+  {
+    "title": "Week1",
+    "url": "https://github.com/suneman/socialdata2025/blob/main/lectures/Week1.ipynb",
+    "group": "Week 1",
+    "kind": "Official notebook",
+    "weeks": [
+      1
+    ]
+  },
+  {
+    "title": "Week2",
+    "url": "https://github.com/suneman/socialdata2025/blob/main/lectures/Week2.ipynb",
+    "group": "Week 2",
+    "kind": "Official notebook",
+    "weeks": [
+      2
+    ]
+  },
+  {
+    "title": "Week3",
+    "url": "https://github.com/suneman/socialdata2025/blob/main/lectures/Week3.ipynb",
+    "group": "Week 3",
+    "kind": "Official notebook",
+    "weeks": [
+      3
+    ]
+  },
+  {
+    "title": "Week4",
+    "url": "https://github.com/suneman/socialdata2025/blob/main/lectures/Week4.ipynb",
+    "group": "Week 4",
+    "kind": "Official notebook",
+    "weeks": [
+      4
+    ]
+  },
+  {
+    "title": "Week5",
+    "url": "https://github.com/suneman/socialdata2025/blob/main/lectures/Week5.ipynb",
+    "group": "Week 5",
+    "kind": "Official notebook",
+    "weeks": [
+      5
+    ]
+  },
+  {
+    "title": "Week6",
+    "url": "https://github.com/suneman/socialdata2025/blob/main/lectures/Week6.ipynb",
+    "group": "Week 6",
+    "kind": "Official notebook",
+    "weeks": [
+      6
+    ]
+  },
+  {
+    "title": "Week7",
+    "url": "https://github.com/suneman/socialdata2025/blob/main/lectures/Week7.ipynb",
+    "group": "Week 7",
+    "kind": "Official notebook",
+    "weeks": [
+      7
+    ]
+  },
+  {
+    "title": "Week8",
+    "url": "https://github.com/suneman/socialdata2025/blob/main/lectures/Week8.ipynb",
+    "group": "Week 8",
+    "kind": "Official notebook",
+    "weeks": [
+      8
+    ]
+  },
+  {
+    "title": "Assignment requirements",
+    "url": "https://github.com/suneman/socialdata2025/wiki/Assignments",
+    "group": "Assessment",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Final project requirements",
+    "url": "https://github.com/suneman/socialdata2025/wiki/Final-Project",
+    "group": "Assessment",
+    "kind": "Assignment guidance",
+    "weeks": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  }
+]

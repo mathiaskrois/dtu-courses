@@ -5,6 +5,7 @@ export function civilDate(now = new Date()) {
   return `${value('year')}-${value('month')}-${value('day')}`;
 }
 export function semesterState(day, weeks, breakStart, breakEnd) {
+  if (!weeks.length) return {kind:'empty'};
   if (day < weeks[0].start) return {kind:'before'};
   if (day >= breakStart && day <= breakEnd) return {kind:'break'};
   const week = weeks.find(w=>day >= w.start && day <= w.end);

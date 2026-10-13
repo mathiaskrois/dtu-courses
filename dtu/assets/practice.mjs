@@ -1,5 +1,7 @@
 const courseId=document.body.dataset.course||location.pathname.match(/^\/dtu\/(\d{5})\//)?.[1]||'12106';
-const prefix=`krois.dtu.${courseId}.fall2026.practice.`;
+const storageTerm=document.body.dataset.storageTerm||'fall2026';
+const courseTerm=document.body.dataset.courseTerm||'Fall 2026';
+const prefix=`krois.dtu.${courseId}.${storageTerm}.practice.`;
 const format=(n,d=2)=>new Intl.NumberFormat('en-GB',{maximumFractionDigits:d}).format(n);
 function readDraft(week){try{const value=JSON.parse(localStorage.getItem(prefix+week)||'null');return value&&typeof value==='object'&&!Array.isArray(value)?value:null;}catch{return null;}}
 function refreshPracticeMarks(){
@@ -65,7 +67,7 @@ for(const workspace of document.querySelectorAll('[data-exercise-week]')){
  workspace.addEventListener('input',event=>{if(event.target.matches('[data-answer]')){calculate();save();}});
  completion.addEventListener('change',save);
  workspace.querySelector('[data-download-answers]').addEventListener('click',()=>{
-  const lines=[`DTU ${courseId} · Fall 2026 · Week ${week}`,document.querySelector('h1').textContent,'Personal practice answers — not a DTU submission','',...fields.flatMap(f=>{const label=workspace.querySelector(`label[for="${f.id}"]`).textContent;const unit=f.type==='number'?f.parentElement.querySelector('span').textContent:'';return [label,f.value+(unit?' '+unit:''),''];}),...(result?['Current calculation results',result.innerText,'']:[]),`Practice marked complete: ${completion.checked?'Yes':'No'}`];
+  const lines=[`DTU ${courseId} · ${courseTerm} · Week ${week}`,document.querySelector('h1').textContent,'Personal practice answers — not a DTU submission','',...fields.flatMap(f=>{const label=workspace.querySelector(`label[for="${f.id}"]`).textContent;const unit=f.type==='number'?f.parentElement.querySelector('span').textContent:'';return [label,f.value+(unit?' '+unit:''),''];}),...(result?['Current calculation results',result.innerText,'']:[]),`Practice marked complete: ${completion.checked?'Yes':'No'}`];
   const url=URL.createObjectURL(new Blob([lines.join('\n')],{type:'text/plain;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download=`${courseId}-week-${week}-practice.txt`;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
  });
  calculate();

@@ -1,0 +1,151 @@
+{
+  "course": {
+    "id": "02450",
+    "title": "Introduction to Machine Learning and Data Mining",
+    "shortTitle": "Introduction to Machine Learning and Data Mining",
+    "term": "Spring 2025",
+    "verified": "14 October 2026",
+    "learn": "https://learn.inside.dtu.dk/d2l/home/242056",
+    "website": "https://learn.inside.dtu.dk/d2l/home/242056",
+    "breakStart": "2025-04-14",
+    "breakEnd": "2025-04-20",
+    "periodStart": "2025-02-03",
+    "archived": true
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2025-02-03",
+      "end": "2025-02-09",
+      "title": "Introduction and feature extraction"
+    },
+    {
+      "number": 2,
+      "start": "2025-02-10",
+      "end": "2025-02-16",
+      "title": "Summary statistics and similarity"
+    },
+    {
+      "number": 3,
+      "start": "2025-02-17",
+      "end": "2025-02-23",
+      "title": "Linear algebra and PCA"
+    },
+    {
+      "number": 4,
+      "start": "2025-02-24",
+      "end": "2025-03-02",
+      "title": "Probability and densities"
+    },
+    {
+      "number": 5,
+      "start": "2025-03-03",
+      "end": "2025-03-09",
+      "title": "Decision trees and linear regression"
+    },
+    {
+      "number": 6,
+      "start": "2025-03-10",
+      "end": "2025-03-16",
+      "title": "Overfitting, cross-validation and neighbors"
+    },
+    {
+      "number": 7,
+      "start": "2025-03-17",
+      "end": "2025-03-23",
+      "title": "Evaluation and Naive Bayes"
+    },
+    {
+      "number": 8,
+      "start": "2025-03-24",
+      "end": "2025-03-30",
+      "title": "Neural networks and bias/variance"
+    },
+    {
+      "number": 9,
+      "start": "2025-03-31",
+      "end": "2025-04-06",
+      "title": "AUC and ensemble methods"
+    },
+    {
+      "number": 10,
+      "start": "2025-04-07",
+      "end": "2025-04-13",
+      "title": "K-means and hierarchical clustering"
+    },
+    {
+      "number": 11,
+      "start": "2025-04-21",
+      "end": "2025-04-27",
+      "title": "Mixture models and density estimation"
+    },
+    {
+      "number": 12,
+      "start": "2025-04-28",
+      "end": "2025-05-04",
+      "title": "Association mining and wrap-up"
+    },
+    {
+      "number": 13,
+      "start": "2025-05-05",
+      "end": "2025-05-11",
+      "title": "Recap and exam discussion"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "learn-61809",
+      "title": "Project 1 (main)",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242056&db=61809",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242056&db=61809",
+      "due": "2025-03-06T17:00:00+01:00",
+      "date": "6 March",
+      "time": "17:00"
+    },
+    {
+      "id": "learn-61810",
+      "title": "Project 1 (resubmissions) [IGNORE if your report 1 was approved]",
+      "audience": "Conditional · only if not approved",
+      "description": "This resubmission applies only if the main report was not approved. Students with an approved report should not resubmit.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242056&db=61810",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242056&db=61810",
+      "due": "2025-03-27T17:00:00+01:00",
+      "date": "27 March",
+      "time": "17:00"
+    },
+    {
+      "id": "learn-61811",
+      "title": "Project 2 (main)",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242056&db=61811",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242056&db=61811",
+      "due": "2025-04-10T17:00:00+02:00",
+      "date": "10 April",
+      "time": "17:00"
+    },
+    {
+      "id": "learn-61812",
+      "title": "Project 2 (resubmissions) [IGNORE if your report 2 was approved]",
+      "audience": "Conditional · only if not approved",
+      "description": "This resubmission applies only if the main report was not approved. Students with an approved report should not resubmit.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242056&db=61812",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242056&db=61812",
+      "due": "2025-05-01T17:00:00+02:00",
+      "date": "1 May",
+      "time": "17:00"
+    },
+    {
+      "id": "exam",
+      "title": "Written exam",
+      "audience": "Individual",
+      "description": "Two group reports must be approved to pass the course. Approval is not a prerequisite for attending the exam. Groups normally contain three students. The Spring 2025 handbook describes a four-hour paper multiple-choice exam with negative marking, two A4 sheets of handwritten notes on both sides, and a calculator. Reports and exam contribute approximately 10 and 90 percent to the overall assessment.",
+      "url": "https://learn.inside.dtu.dk/d2l/home/242056",
+      "source": "https://learn.inside.dtu.dk/d2l/home/242056",
+      "date": "Date unconfirmed",
+      "time": "Check official instructions"
+    }
+  ]
+}

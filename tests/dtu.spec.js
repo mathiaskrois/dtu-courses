@@ -34,7 +34,7 @@ test('weekly pages provide essential analysis, practice, mandatory tasks and sou
 });
 test('tracker changes at Copenhagen midnight and shows autumn break without incrementing teaching week',async({page})=>{
  await page.clock.setFixedTime(new Date('2026-10-11T21:59:59Z'));await page.goto('/dtu/12106/');await expect(page.locator('[data-semester]')).toHaveText('Week 06 of 13');
- await page.clock.setFixedTime(new Date('2026-10-11T22:00:01Z'));await page.evaluate(()=>document.dispatchEvent(new Event('visibilitychange')));await expect(page.locator('[data-semester]')).toHaveText('Autumn break');await expect(page.locator('[data-current-week]')).toHaveAttribute('href','/dtu/12106/weeks/7/');
+ await page.clock.setFixedTime(new Date('2026-10-11T22:00:01Z'));await page.evaluate(()=>document.dispatchEvent(new Event('visibilitychange')));await expect(page.locator('[data-semester]')).toHaveText('Autumn break');await expect(page.locator('[data-week-panel="7"]')).toBeVisible();
  await page.clock.setFixedTime(new Date('2026-10-18T22:00:01Z'));await page.evaluate(()=>document.dispatchEvent(new Event('visibilitychange')));await expect(page.locator('[data-semester]')).toHaveText('Week 07 of 13');
 });
 test('content remains readable without JavaScript or usable storage',async({browser})=>{

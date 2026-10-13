@@ -2,13 +2,14 @@
 const phoneLayout=matchMedia('(max-width:760px)');
 function setPhoneFolds(){document.querySelectorAll('[data-phone-fold]').forEach(el=>el.open=!phoneLayout.matches);}
 setPhoneFolds();phoneLayout.addEventListener('change',setPhoneFolds);
-import './practice.mjs';
-import {civilDate,semesterState,obligationState,nextObligation,calendarWeek} from './course-state.mjs?v=6';
+import './practice.mjs?v=7';
+import {civilDate,semesterState,obligationState,nextObligation,calendarWeek} from './course-state.mjs?v=7';
 const all = selector => [...document.querySelectorAll(selector)];
 const set = (selector,text) => all(selector).forEach(el=>el.textContent=text);
 const courseId=document.body.dataset.course||location.pathname.match(/^\/dtu\/(\d{5})\//)?.[1]||'12106';
 const courseBase=`/dtu/${courseId}/`;
-const storageKey=`krois.dtu.${courseId}.fall2026.completed`;
+const storageTerm=document.body.dataset.storageTerm||'fall2026';
+const storageKey=`krois.dtu.${courseId}.${storageTerm}.completed`;
 let completed={};
 try {const saved=JSON.parse(localStorage.getItem(storageKey)||'{}');if(saved&&typeof saved==='object'&&!Array.isArray(saved))completed=saved;}catch {}
 const dateFormat=new Intl.DateTimeFormat('en-GB',{timeZone:'Europe/Copenhagen',day:'numeric',month:'long',year:'numeric'});
@@ -26,22 +27,27 @@ function refresh() {
   const {course,weeks,obligations}=data;
   const state=semesterState(day,weeks,course.breakStart,course.breakEnd);
   const week=state.kind==='week'?state.week:null;
-  const label=week?`Week ${String(week.number).padStart(2,'0')} of 13`:state.kind==='break'?'Autumn break':state.kind==='before'?'Semester ahead':'Teaching complete';
+  const breakLabel=course.breakLabel||(/^Fall/.test(course.term)?'Autumn break':'Teaching break');
+  const first=weeks[0],last=weeks.at(-1),afterBreak=weeks.find(w=>w.start>course.breakEnd);
+  const shortDate=value=>new Intl.DateTimeFormat('en-GB',{day:'numeric',month:'long',timeZone:'Europe/Copenhagen'}).format(new Date(value+'T12:00:00Z'));
+  const currentNumber=week?.number||(state.kind==='break'?afterBreak?.number:state.kind==='before'?first?.number:last?.number);
+  const label=week?`Week ${String(week.number).padStart(2,'0')} of ${weeks.length}`:state.kind==='break'?breakLabel:state.kind==='before'?'Semester ahead':state.kind==='empty'?'Weekly plans to confirm':'Teaching complete';
   set('[data-semester]',label);
-  set('[data-semester-phone]',week?`Week ${week.number} / 13`:label);
-  set('[data-week-dates]',week?`${dateFormat.format(new Date(week.start+'T12:00:00+01:00'))} – ${dateFormat.format(new Date(week.end+'T12:00:00+01:00'))}`:state.kind==='break'?'12–18 October · No teaching week':state.kind==='before'?'Week 1 starts 31 August 2026':'Week 13 ended 6 December 2026');
-  set('[data-calendar]',`Calendar week ${calendarWeek(day)} · ${state.kind==='break'?'Week 7 starts 19 October':week?.number===6?'Autumn break next week':week?.number===7?'Back after the autumn break':state.kind==='after'?(course.noExam?'Project dates remain below':'Submission and exam dates remain below'):'13 teaching weeks, with a break in week 42'}`);
+  set('[data-semester-phone]',week?`Week ${week.number} / ${weeks.length}`:label);
+  set('[data-week-dates]',week?`${dateFormat.format(new Date(week.start+'T12:00:00Z'))} – ${dateFormat.format(new Date(week.end+'T12:00:00Z'))}`:state.kind==='break'?`${shortDate(course.breakStart)} – ${shortDate(course.breakEnd)} · No teaching week`:state.kind==='before'?`Week ${first.number} starts ${dateFormat.format(new Date(first.start+'T12:00:00Z'))}`:last?`Week ${last.number} ended ${dateFormat.format(new Date(last.end+'T12:00:00Z'))}`:'Weekly dates to confirm');
+  const calendarNote=state.kind==='break'?`Week ${afterBreak?.number||''} starts ${afterBreak?shortDate(afterBreak.start):'after the break'}`:week&&weeks[weeks.indexOf(week)+1]?.start>course.breakEnd&&week.end<course.breakStart?`${breakLabel} next week`:week&&afterBreak&&week.number===afterBreak.number?'Back after the teaching break':state.kind==='after'?(course.noExam?'Project dates remain below':obligations.some(o=>o.id==='exam')?'Submission and exam dates remain below':'Submission dates remain below'):`${weeks.length} teaching weeks${course.breakStart?`, with a break in week ${calendarWeek(course.breakStart)}`:''}`;
+  set('[data-calendar]',`Calendar week ${calendarWeek(day)} · ${calendarNote}`);
   const currentLink=document.querySelector('[data-current-week]');
-  if(currentLink){const target=week?.number||(state.kind==='before'?1:state.kind==='break'?7:13);currentLink.href=`${courseBase}weeks/${target}/`;currentLink.textContent=state.kind==='break'?'Preview week 7 →':state.kind==='after'?'Review week 13 →':'Open the weekly plan →';}
+  if(currentLink&&currentNumber){currentLink.href=`${courseBase}weeks/${currentNumber}/`;currentLink.textContent=state.kind==='break'?`Preview week ${currentNumber} →`:state.kind==='after'?`Review week ${currentNumber} →`:'Open the weekly plan →';}
   all('[data-track]').forEach(el=>{const w=weeks.find(w=>w.number===Number(el.dataset.track));el.classList.toggle('elapsed',day>w.end);el.classList.toggle('current',week?.number===w.number);});
   if(!weeklyNavPositioned&&matchMedia('(max-width:760px)').matches){const nav=document.querySelector('.rail-weeks nav');const active=nav?.querySelector('[aria-current="page"]')||nav?.querySelector(`[data-week-nav="${week?.number}"]`);if(nav&&active){nav.scrollLeft+=active.getBoundingClientRect().left-nav.getBoundingClientRect().left-nav.clientWidth/2+active.offsetWidth/2;weeklyNavPositioned=true;}}
   all('[data-week-nav]').forEach(el=>el.classList.toggle('is-current-week',Number(el.dataset.weekNav)===week?.number));
   all('[data-current-marker]').forEach(el=>{el.classList.toggle('is-now',Number(el.dataset.currentMarker)===week?.number);el.parentElement.classList.toggle('is-now',Number(el.dataset.currentMarker)===week?.number);});
   all('[data-tile]').forEach(el=>el.classList.toggle('is-current',Number(el.dataset.tile)===week?.number));
-  if(selectedWeek===null)showWeek(week?.number||(state.kind==='break'?7:state.kind==='before'?1:13));
+  if(selectedWeek===null&&currentNumber)showWeek(currentNumber);
   for(const item of obligations){
     const status=obligationState(item,now,completed[item.id]===true);
-    const text={passed:'Deadline passed',complete:'Marked complete',soon:'Due within 7 days',today:'Exam today · check time',upcoming:'Upcoming',undated:'Date unconfirmed'}[status];
+    const text={passed:'Deadline passed',complete:'Marked complete',soon:'Due within 7 days',today:item.id==='exam'?'Exam today · check time':'Due today · check time',upcoming:'Upcoming',undated:'Date unconfirmed'}[status];
     all(`[data-obligation="${item.id}"]`).forEach(card=>{
       card.classList.toggle('is-complete',status==='complete');
       const badge=card.querySelector('[data-status]');badge.textContent=text;badge.className='status '+status;
@@ -65,7 +71,7 @@ function refresh() {
   }else{
     set('[data-next-title]',count===obligations.length?'All obligations marked complete':'No future deadline listed');
     set('[data-next-description]',passed?'Review the past dates and confirm your submission status in DTU Learn.':'Keep an eye on official course announcements for any changes.');
-    set('[data-next-date]','Fall 2026');set('[data-countdown]','Review your checklist');
+    set('[data-next-date]',course.term);set('[data-countdown]','Review your checklist');
     if(link){link.href=courseBase+'deadlines/';link.textContent='Review checklist →';}
   }
 }
@@ -103,4 +109,4 @@ try{
   refresh();setInterval(refresh,30000);
   document.addEventListener('visibilitychange',()=>{if(!document.hidden)refresh();});
   window.addEventListener('storage',event=>{if(event.key!==storageKey)return;try{const value=JSON.parse(event.newValue||'{}');completed=value&&typeof value==='object'&&!Array.isArray(value)?value:{};}catch{completed={};}refresh();});
-}catch{set('[data-semester]','Browse all 13 weeks');set('[data-countdown]','All dates below');set('[data-next-description]','The live tracker could not load. All official dates and weekly plans remain available below.');}
+}catch{set('[data-semester]','Browse all weekly plans');set('[data-countdown]','All dates below');set('[data-next-description]','The live tracker could not load. All official dates and weekly plans remain available below.');}

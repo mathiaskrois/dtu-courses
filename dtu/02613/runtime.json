@@ -1,0 +1,129 @@
+{
+  "course": {
+    "id": "02613",
+    "title": "Python and high-performance computing",
+    "shortTitle": "Python and high-performance computing",
+    "term": "Spring 2025",
+    "verified": "14 October 2026",
+    "learn": "https://learn.inside.dtu.dk/d2l/home/242101",
+    "website": "https://learn.inside.dtu.dk/d2l/home/242101",
+    "breakStart": "2025-04-14",
+    "breakEnd": "2025-04-20",
+    "periodStart": "2025-02-03",
+    "archived": true
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2025-02-03",
+      "end": "2025-02-09",
+      "title": "Introduction to Python and HPC"
+    },
+    {
+      "number": 2,
+      "start": "2025-02-10",
+      "end": "2025-02-16",
+      "title": "Python bootcamp"
+    },
+    {
+      "number": 3,
+      "start": "2025-02-17",
+      "end": "2025-02-23",
+      "title": "The memory hierarchy"
+    },
+    {
+      "number": 4,
+      "start": "2025-02-24",
+      "end": "2025-03-02",
+      "title": "Profiling and high-performance NumPy"
+    },
+    {
+      "number": 5,
+      "start": "2025-03-03",
+      "end": "2025-03-09",
+      "title": "Parallelism: decomposition"
+    },
+    {
+      "number": 6,
+      "start": "2025-03-10",
+      "end": "2025-03-16",
+      "title": "Parallelism: coordination"
+    },
+    {
+      "number": 7,
+      "start": "2025-03-17",
+      "end": "2025-03-23",
+      "title": "Pandas and Apache Arrow"
+    },
+    {
+      "number": 8,
+      "start": "2025-03-24",
+      "end": "2025-03-30",
+      "title": "Storing big data"
+    },
+    {
+      "number": 9,
+      "start": "2025-03-31",
+      "end": "2025-04-06",
+      "title": "Numba and GPU computing"
+    },
+    {
+      "number": 10,
+      "start": "2025-04-07",
+      "end": "2025-04-13",
+      "title": "CuPy and GPU profiling"
+    },
+    {
+      "number": 11,
+      "start": "2025-04-21",
+      "end": "2025-04-27",
+      "title": "HPC workflows"
+    },
+    {
+      "number": 12,
+      "start": "2025-04-28",
+      "end": "2025-05-04",
+      "title": "Project work"
+    },
+    {
+      "number": 13,
+      "start": "2025-05-05",
+      "end": "2025-05-11",
+      "title": "Common pitfalls and exam preparation"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "learn-62650",
+      "title": "Mini-project",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242101&db=62650",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242101&db=62650",
+      "due": "2025-05-04T23:55:00+02:00",
+      "date": "4 May",
+      "time": "23:55"
+    },
+    {
+      "id": "autolab",
+      "title": "Complete the Autolab eligibility requirement",
+      "audience": "Individual",
+      "description": "Complete at least 20 exercises with 100 correctness and at least one exercise from every exercise week except Week 2. This and approval of the group mini-project are exam-eligibility requirements.",
+      "url": "https://autolab.compute.dtu.dk/",
+      "source": "https://learn.inside.dtu.dk/d2l/le/lessons/242101/units/920695",
+      "dateOnly": "2025-05-12",
+      "date": "12 May",
+      "time": "Time to confirm"
+    },
+    {
+      "id": "exam",
+      "title": "Written exam",
+      "audience": "Individual",
+      "description": "Exam eligibility requires an approved mini-project in a group of 3–4 and at least 20 Autolab exercises scored at 100 correctness, including at least one from every exercise week except Week 2. The mini-project is due 4 May at 23:55; the Autolab requirement is due 12 May. The archived exam format is multiple choice with aids but no internet.",
+      "url": "https://learn.inside.dtu.dk/d2l/home/242101",
+      "source": "https://learn.inside.dtu.dk/d2l/home/242101",
+      "date": "Date unconfirmed",
+      "time": "Check official instructions"
+    }
+  ]
+}

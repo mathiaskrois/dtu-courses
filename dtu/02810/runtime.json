@@ -1,0 +1,296 @@
+{
+  "course": {
+    "id": "02810",
+    "title": "UX design prototyping",
+    "shortTitle": "UX design prototyping",
+    "term": "Fall 2025",
+    "verified": "14 October 2026",
+    "learn": "https://learn.inside.dtu.dk/d2l/home/270849",
+    "website": "https://learn.inside.dtu.dk/d2l/home/270849",
+    "breakStart": "2025-10-13",
+    "breakEnd": "2025-10-19",
+    "periodStart": "2025-09-01",
+    "archived": true,
+    "noExam": true
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2025-09-01",
+      "end": "2025-09-07",
+      "title": "Modeling needs and solutions"
+    },
+    {
+      "number": 2,
+      "start": "2025-09-08",
+      "end": "2025-09-14",
+      "title": "Data-driven design"
+    },
+    {
+      "number": 3,
+      "start": "2025-09-15",
+      "end": "2025-09-21",
+      "title": "Internet of Things"
+    },
+    {
+      "number": 4,
+      "start": "2025-09-22",
+      "end": "2025-09-28",
+      "title": "Gestalt principles and validation"
+    },
+    {
+      "number": 5,
+      "start": "2025-09-29",
+      "end": "2025-10-05",
+      "title": "Multidevice design"
+    },
+    {
+      "number": 6,
+      "start": "2025-10-06",
+      "end": "2025-10-12",
+      "title": "UX and visualizations"
+    },
+    {
+      "number": 7,
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "title": "Button-less interfaces"
+    },
+    {
+      "number": 8,
+      "start": "2025-10-27",
+      "end": "2025-11-02",
+      "title": "Wearables and ethics"
+    },
+    {
+      "number": 9,
+      "start": "2025-11-03",
+      "end": "2025-11-09",
+      "title": "Project kick-off"
+    },
+    {
+      "number": 10,
+      "start": "2025-11-10",
+      "end": "2025-11-16",
+      "title": "Project idea presentations"
+    },
+    {
+      "number": 11,
+      "start": "2025-11-17",
+      "end": "2025-11-23",
+      "title": "Final lecture and peer review"
+    },
+    {
+      "number": 12,
+      "start": "2025-11-24",
+      "end": "2025-11-30",
+      "title": "Final presentation and group work"
+    },
+    {
+      "number": 13,
+      "start": "2025-12-01",
+      "end": "2025-12-07",
+      "title": "Final delivery and individual reflection"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "learn-65724",
+      "title": "Wk1 EV Charging",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65724",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65724",
+      "due": "2025-09-07T16:00:00+02:00",
+      "date": "7 September",
+      "time": "16:00"
+    },
+    {
+      "id": "calendar-343645",
+      "title": "Hand in as group - Week 2 Peer Feedback",
+      "audience": "Peer review",
+      "description": "A course-specific peer-review task recorded in the current edition’s Learn calendar. Read the linked activity for the audience, number of reviews and detailed criteria.",
+      "url": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/381824/detailsview",
+      "source": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/381824/detailsview",
+      "due": "2025-09-11T23:59:00+02:00",
+      "date": "11 September",
+      "time": "23:59"
+    },
+    {
+      "id": "calendar-343646",
+      "title": "Give feedback - Week 2 Peer Feedback",
+      "audience": "Peer review",
+      "description": "A course-specific peer-review task recorded in the current edition’s Learn calendar. Read the linked activity for the audience, number of reviews and detailed criteria.",
+      "url": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/381825/detailsview",
+      "source": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/381825/detailsview",
+      "due": "2025-09-14T23:59:00+02:00",
+      "date": "14 September",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-65725",
+      "title": "Wk3 LINC 2.0 (First Version)",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65725",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65725",
+      "due": "2025-09-21T16:00:00+02:00",
+      "date": "21 September",
+      "time": "16:00"
+    },
+    {
+      "id": "calendar-345199",
+      "title": "Hand in as group - Week 4 Peer Feedback",
+      "audience": "Peer review",
+      "description": "A course-specific peer-review task recorded in the current edition’s Learn calendar. Read the linked activity for the audience, number of reviews and detailed criteria.",
+      "url": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/383728/detailsview",
+      "source": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/383728/detailsview",
+      "due": "2025-09-25T23:59:00+02:00",
+      "date": "25 September",
+      "time": "23:59"
+    },
+    {
+      "id": "calendar-345198",
+      "title": "Give feedback - Week 4 Peer Feedback",
+      "audience": "Peer review",
+      "description": "A course-specific peer-review task recorded in the current edition’s Learn calendar. Read the linked activity for the audience, number of reviews and detailed criteria.",
+      "url": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/383727/detailsview",
+      "source": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/383727/detailsview",
+      "due": "2025-09-28T16:00:00+02:00",
+      "date": "28 September",
+      "time": "16:00"
+    },
+    {
+      "id": "learn-65726",
+      "title": "Wk 5 LINC 2.0 (3rd week)",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65726",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65726",
+      "due": "2025-10-05T16:00:00+02:00",
+      "date": "5 October",
+      "time": "16:00"
+    },
+    {
+      "id": "learn-65727",
+      "title": "Wk 6 REAFEL HCP Interface",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65727",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65727",
+      "due": "2025-10-12T23:59:59+02:00",
+      "date": "12 October",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-65728",
+      "title": "Wk7 REAFEL HCP Interface and initial Patient Interface ideas",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65728",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65728",
+      "due": "2025-10-26T16:00:00+01:00",
+      "date": "26 October",
+      "time": "16:00"
+    },
+    {
+      "id": "calendar-347005",
+      "title": "Hand in as group - Week 8 Peer Feedback",
+      "audience": "Peer review",
+      "description": "A course-specific peer-review task recorded in the current edition’s Learn calendar. Read the linked activity for the audience, number of reviews and detailed criteria.",
+      "url": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/385408/detailsview",
+      "source": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/385408/detailsview",
+      "due": "2025-11-02T16:00:00+01:00",
+      "date": "2 November",
+      "time": "16:00"
+    },
+    {
+      "id": "calendar-347006",
+      "title": "Give feedback - Week 8 Peer Feedback",
+      "audience": "Peer review",
+      "description": "A course-specific peer-review task recorded in the current edition’s Learn calendar. Read the linked activity for the audience, number of reviews and detailed criteria.",
+      "url": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/385409/detailsview",
+      "source": "https://learn.inside.dtu.dk/d2l/le/calendar/270849/event/385409/detailsview",
+      "due": "2025-11-06T23:59:00+01:00",
+      "date": "6 November",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-65718",
+      "title": "Wk9 Poster",
+      "audience": "Individual",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65718",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65718",
+      "due": "2025-11-09T16:00:00+01:00",
+      "date": "9 November",
+      "time": "16:00"
+    },
+    {
+      "id": "learn-65719",
+      "title": "Wk10 Update",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65719",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65719",
+      "due": "2025-11-16T19:00:00+01:00",
+      "date": "16 November",
+      "time": "19:00"
+    },
+    {
+      "id": "learn-65723",
+      "title": "Wk11 Hand-In (Presentations for Wk12) (Group Hand-In)",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65723",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65723",
+      "due": "2025-11-23T16:00:00+01:00",
+      "date": "23 November",
+      "time": "16:00"
+    },
+    {
+      "id": "learn-65720",
+      "title": "Wk12 Hand-In (Presentations for Wk13) (Group Hand-In)",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65720",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65720",
+      "due": "2025-11-30T19:00:00+01:00",
+      "date": "30 November",
+      "time": "19:00"
+    },
+    {
+      "id": "dink",
+      "title": "Pass the DINK quiz",
+      "audience": "Individual",
+      "description": "Pass the Digital Innovation Canon quiz by 8 December. It has a one-hour limit, with one additional attempt if failed. No exact deadline time is inferred.",
+      "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-395769",
+      "source": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=270849&type=content&rcode=dtu-395769",
+      "dateOnly": "2025-12-08",
+      "date": "8 December",
+      "time": "Time to confirm"
+    },
+    {
+      "id": "learn-65721",
+      "title": "Final Group Report",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65721",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65721",
+      "due": "2025-12-08T23:59:59+01:00",
+      "date": "8 December",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-65722",
+      "title": "Final Individual Reflection Report",
+      "audience": "Individual",
+      "description": "Individual reflection: choose a permitted topic that no other group member uses, connect its concepts to the project and reflect on your contribution.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65722",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270849&db=65722",
+      "due": "2025-12-08T23:59:59+01:00",
+      "date": "8 December",
+      "time": "23:59"
+    }
+  ]
+}

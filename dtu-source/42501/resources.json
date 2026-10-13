@@ -1,0 +1,2654 @@
+[
+  {
+    "title": "Overview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985458",
+    "group": "Overview",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Pre-Module",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985457",
+    "group": "Pre-Module",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Welcome",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985461",
+    "group": "Pre-Module / Welcome",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Before We Begin",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985460",
+    "group": "Pre-Module / Before We Begin",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Introduction",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985597",
+    "group": "Pre-Module / Before We Begin / 1. Introduction",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Kick-off video - 'Innovation is for everybody'",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985925/View",
+    "group": "Pre-Module / Before We Begin / 1. Introduction",
+    "kind": "Video"
+  },
+  {
+    "title": "Main intro Innovation in Engineering",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985926/View",
+    "group": "Pre-Module / Before We Begin / 1. Introduction",
+    "kind": "Course link"
+  },
+  {
+    "title": "2. Personality Test",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985574",
+    "group": "Pre-Module / Before We Begin / 2. Personality Test",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Indtroduction to personality test",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985927/View",
+    "group": "Pre-Module / Before We Begin / 2. Personality Test",
+    "kind": "Course link"
+  },
+  {
+    "title": "Link to personality test",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985916/View",
+    "group": "Pre-Module / Before We Begin / 2. Personality Test",
+    "kind": "Course link"
+  },
+  {
+    "title": "3. Additional Information on Personality Categories",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985578",
+    "group": "Pre-Module / Before We Begin / 3. Additional Information on Personality Categories",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Mind introverted vs extraverted",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985918/View",
+    "group": "Pre-Module / Before We Begin / 3. Additional Information on Personality Categories",
+    "kind": "Course link"
+  },
+  {
+    "title": "Energy intuitive vs observant",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985919/View",
+    "group": "Pre-Module / Before We Begin / 3. Additional Information on Personality Categories",
+    "kind": "Course link"
+  },
+  {
+    "title": "Nature thinking vs feeling",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985920/View",
+    "group": "Pre-Module / Before We Begin / 3. Additional Information on Personality Categories",
+    "kind": "Course link"
+  },
+  {
+    "title": "Tactics judging vs prospecting",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985921/View",
+    "group": "Pre-Module / Before We Begin / 3. Additional Information on Personality Categories",
+    "kind": "Course link"
+  },
+  {
+    "title": "Identity assertive vs turbulent",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985922/View",
+    "group": "Pre-Module / Before We Begin / 3. Additional Information on Personality Categories",
+    "kind": "Course link"
+  },
+  {
+    "title": "4. Protocol for Absence",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985573",
+    "group": "Pre-Module / Before We Begin / 4. Protocol for Absence",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "5. Photography During the Course",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985611",
+    "group": "Pre-Module / Before We Begin / 5. Photography During the Course",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "6. Checklist",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985577",
+    "group": "Pre-Module / Before We Begin / 6. Checklist",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Before course start: Checklist of tasks",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985917/View",
+    "group": "Pre-Module / Before We Begin / 6. Checklist",
+    "kind": "Course link"
+  },
+  {
+    "title": "General Information",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985459",
+    "group": "Pre-Module / General Information",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Course Information",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985575",
+    "group": "Pre-Module / General Information / 1. Course Information",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Theory Introduction to Innovation in Engineering",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985923/View",
+    "group": "Pre-Module / General Information / 1. Course Information",
+    "kind": "Course link"
+  },
+  {
+    "title": "Innovator - Link to the course description and learning objectives",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985915/View",
+    "group": "Pre-Module / General Information / 1. Course Information",
+    "kind": "Course link"
+  },
+  {
+    "title": "2. Communication Methods",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985582",
+    "group": "Pre-Module / General Information / 2. Communication Methods",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "3. About DTU Learn",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985580",
+    "group": "Pre-Module / General Information / 3. About DTU Learn",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "The general structure of the content",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985928/View",
+    "group": "Pre-Module / General Information / 3. About DTU Learn",
+    "kind": "Course link"
+  },
+  {
+    "title": "Primary method to submit an assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985930/View",
+    "group": "Pre-Module / General Information / 3. About DTU Learn",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Secondary method to submit an assignment via. content",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985934/View",
+    "group": "Pre-Module / General Information / 3. About DTU Learn",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "How to submit a survey",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985929/View",
+    "group": "Pre-Module / General Information / 3. About DTU Learn",
+    "kind": "Course link"
+  },
+  {
+    "title": "How to use FeedbackFruits for peer review",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985935/View",
+    "group": "Pre-Module / General Information / 3. About DTU Learn",
+    "kind": "Course link"
+  },
+  {
+    "title": "4. About MS Teams",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985581",
+    "group": "Pre-Module / General Information / 4. About MS Teams",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "5. About Miro",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985579",
+    "group": "Pre-Module / General Information / 5. About Miro",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Link to training module.",
+    "url": "https://miro.com/app/board/uXjVOQ73Mcg=/?share_link_id=656878360874",
+    "group": "Pre-Module / General Information / 5. About Miro",
+    "kind": "Course link"
+  },
+  {
+    "title": "6. Team Communication and Roles",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985576",
+    "group": "Pre-Module / General Information / 6. Team Communication and Roles",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "https://www.youtube.com/watch?v=AnU8IKjwuzg.",
+    "url": "https://www.youtube.com/watch?v=AnU8IKjwuzg",
+    "group": "Pre-Module / General Information / 6. Team Communication and Roles",
+    "kind": "Course link"
+  },
+  {
+    "title": "7. Core Theory Readings",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985612",
+    "group": "Pre-Module / General Information / 7. Core Theory Readings",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Fostering Team Creativity - Perspective Taking as Key to Unlocking Diversitys Potential (2012)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985932/View",
+    "group": "Pre-Module / General Information / 7. Core Theory Readings",
+    "kind": "Reading"
+  },
+  {
+    "title": "The core of design thinking and it's application (2011)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985933/View",
+    "group": "Pre-Module / General Information / 7. Core Theory Readings",
+    "kind": "Reading"
+  },
+  {
+    "title": "Day 01 - Kick-off & Challenge Selection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985446",
+    "group": "Day 01 - Kick-off & Challenge Selection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Course Introduction",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985470",
+    "group": "Day 01 - Kick-off & Challenge Selection / 1. Course Introduction",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Welcome and Agenda",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985613/View",
+    "group": "Day 01 - Kick-off & Challenge Selection / 1. Course Introduction",
+    "kind": "Reading"
+  },
+  {
+    "title": "Keynote",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985614/View",
+    "group": "Day 01 - Kick-off & Challenge Selection / 1. Course Introduction",
+    "kind": "Reading"
+  },
+  {
+    "title": "Course introduction",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985615/View",
+    "group": "Day 01 - Kick-off & Challenge Selection / 1. Course Introduction",
+    "kind": "Reading"
+  },
+  {
+    "title": "2. Challenge Introduction",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985471",
+    "group": "Day 01 - Kick-off & Challenge Selection / 2. Challenge Introduction",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Challenge Canvas A-D",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985598/View",
+    "group": "Day 01 - Kick-off & Challenge Selection / 2. Challenge Introduction",
+    "kind": "Reading"
+  },
+  {
+    "title": "3. Challenge Enrolment Guide",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985469",
+    "group": "Day 01 - Kick-off & Challenge Selection / 3. Challenge Enrolment Guide",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 1 - Challenge Selection",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=265608&type=groupTypeSelfEnrollment&rcode=dtu-480228",
+    "group": "Day 01 - Kick-off & Challenge Selection / 3. Challenge Enrolment Guide",
+    "kind": "Course link"
+  },
+  {
+    "title": "4. Challenge Presentations",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985507",
+    "group": "Day 01 - Kick-off & Challenge Selection / 4. Challenge Presentations",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Challenge A",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985616/View",
+    "group": "Day 01 - Kick-off & Challenge Selection / 4. Challenge Presentations",
+    "kind": "Reading"
+  },
+  {
+    "title": "Challenge B",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985617/View",
+    "group": "Day 01 - Kick-off & Challenge Selection / 4. Challenge Presentations",
+    "kind": "Reading"
+  },
+  {
+    "title": "Challenge C",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985618/View",
+    "group": "Day 01 - Kick-off & Challenge Selection / 4. Challenge Presentations",
+    "kind": "Reading"
+  },
+  {
+    "title": "Challenge D",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985619/View",
+    "group": "Day 01 - Kick-off & Challenge Selection / 4. Challenge Presentations",
+    "kind": "Reading"
+  },
+  {
+    "title": "ShippingLab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/1005496/View",
+    "group": "Day 01 - Kick-off & Challenge Selection / 4. Challenge Presentations",
+    "kind": "Reading"
+  },
+  {
+    "title": "Day 02 - Team Formation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985444",
+    "group": "Day 02 - Team Formation",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Team Allocation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985483",
+    "group": "Day 02 - Team Formation / 1. Team Allocation",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Team Allocation List",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985600/View",
+    "group": "Day 02 - Team Formation / 1. Team Allocation",
+    "kind": "Reading"
+  },
+  {
+    "title": "Building Map",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985610/View",
+    "group": "Day 02 - Team Formation / 1. Team Allocation",
+    "kind": "Reading"
+  },
+  {
+    "title": "2. Team Formation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985472",
+    "group": "Day 02 - Team Formation / 2. Team Formation",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Day 2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985620/View",
+    "group": "Day 02 - Team Formation / 2. Team Formation",
+    "kind": "Reading"
+  },
+  {
+    "title": "IDA Why professional skills alone won’t get you far",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985621/View",
+    "group": "Day 02 - Team Formation / 2. Team Formation",
+    "kind": "Reading"
+  },
+  {
+    "title": "Miro boards - Where to find them",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985602/View",
+    "group": "Day 02 - Team Formation / 2. Team Formation",
+    "kind": "Course link"
+  },
+  {
+    "title": "Introduction to Team Building Exercise 1 (Step 1)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985601/View",
+    "group": "Day 02 - Team Formation / 2. Team Formation",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Team Building Exercise 1 (Step 2)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985603/View",
+    "group": "Day 02 - Team Formation / 2. Team Formation",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Team Exercise 2 (Step 3)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985604/View",
+    "group": "Day 02 - Team Formation / 2. Team Formation",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Worksheet - Team Canvas",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985605/View",
+    "group": "Day 02 - Team Formation / 2. Team Formation",
+    "kind": "Reading"
+  },
+  {
+    "title": "3. Additional Theory on Team Formation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985473",
+    "group": "Day 02 - Team Formation / 3. Additional Theory on Team Formation",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Team Theory - Video on effective teams",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985609/View",
+    "group": "Day 02 - Team Formation / 3. Additional Theory on Team Formation",
+    "kind": "Video"
+  },
+  {
+    "title": "Team Theory - The discipline of teams by Jon R. Katzenback and Douglas K. Smith_HBR_1993",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985607/View",
+    "group": "Day 02 - Team Formation / 3. Additional Theory on Team Formation",
+    "kind": "Reading"
+  },
+  {
+    "title": "Team Theory - Tuckman (1965) Developmental sequence in small groups",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985608/View",
+    "group": "Day 02 - Team Formation / 3. Additional Theory on Team Formation",
+    "kind": "Reading"
+  },
+  {
+    "title": "Team Theory - Leavitt (1951) Some effects of certain communication partners on group performance",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985606/View",
+    "group": "Day 02 - Team Formation / 3. Additional Theory on Team Formation",
+    "kind": "Reading"
+  },
+  {
+    "title": "4. Stakeholder Analysis",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985468",
+    "group": "Day 02 - Team Formation / 4. Stakeholder Analysis",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Intro to Stakeholders Analysis and Challenge Exploration",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985622/View",
+    "group": "Day 02 - Team Formation / 4. Stakeholder Analysis",
+    "kind": "Reading"
+  },
+  {
+    "title": "Part 1 Video Stakeholder - What is a stakeholder?",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985588/View",
+    "group": "Day 02 - Team Formation / 4. Stakeholder Analysis",
+    "kind": "Video"
+  },
+  {
+    "title": "Part 1 Exercise - List 3 key stakeholders",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985589/View",
+    "group": "Day 02 - Team Formation / 4. Stakeholder Analysis",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Part 2 Video - Stakeholder identification",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985590/View",
+    "group": "Day 02 - Team Formation / 4. Stakeholder Analysis",
+    "kind": "Video"
+  },
+  {
+    "title": "Part 2 Exercise - Stakeholder identification",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985591/View",
+    "group": "Day 02 - Team Formation / 4. Stakeholder Analysis",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Part 3 Video - Stakeholder assessment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985592/View",
+    "group": "Day 02 - Team Formation / 4. Stakeholder Analysis",
+    "kind": "Video"
+  },
+  {
+    "title": "Part 3 Exercise - Stakeholder assessment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985593/View",
+    "group": "Day 02 - Team Formation / 4. Stakeholder Analysis",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Part 4 Video - Stakeholder engagement",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985594/View",
+    "group": "Day 02 - Team Formation / 4. Stakeholder Analysis",
+    "kind": "Video"
+  },
+  {
+    "title": "Part 4 Exercise - Stakeholder engagement",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985595/View",
+    "group": "Day 02 - Team Formation / 4. Stakeholder Analysis",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Part 5 Video - Further Readings",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985596/View",
+    "group": "Day 02 - Team Formation / 4. Stakeholder Analysis",
+    "kind": "Reading"
+  },
+  {
+    "title": "5. Initiating Challenge Exploration",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985482",
+    "group": "Day 02 - Team Formation / 5. Initiating Challenge Exploration",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - Challenge Exploration",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985624/View",
+    "group": "Day 02 - Team Formation / 5. Initiating Challenge Exploration",
+    "kind": "Reading"
+  },
+  {
+    "title": "6. Individual Progress Report",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985490",
+    "group": "Day 02 - Team Formation / 6. Individual Progress Report",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - Progress Report",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985625/View",
+    "group": "Day 02 - Team Formation / 6. Individual Progress Report",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Day 02 - Challenge C Progress Report 1 Individual hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985642/View",
+    "group": "Day 02 - Team Formation / 6. Individual Progress Report",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Day 03 - Innovation in a Day",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985442",
+    "group": "Day 03 - Innovation in a Day",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Innovation in a Day",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985506/View",
+    "group": "Day 03 - Innovation in a Day",
+    "kind": "Reading"
+  },
+  {
+    "title": "Day 04 - Innovation Theory",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985445",
+    "group": "Day 04 - Innovation Theory",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "General Information",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=265608&type=content&rcode=dtu-271654",
+    "group": "Day 04 - Innovation Theory",
+    "kind": "Course link"
+  },
+  {
+    "title": "Primary method to submit an assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=265608&type=content&rcode=dtu-585711",
+    "group": "Day 04 - Innovation Theory",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Secondary method to submit an assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/common/dialogs/quickLink/quickLink.d2l?ou=265608&type=content&rcode=dtu-675506",
+    "group": "Day 04 - Innovation Theory",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "1. Innovation in Research - Slide Decks",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985484",
+    "group": "Day 04 - Innovation Theory / 1. Innovation in Research - Slide Decks",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Day 4",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985670/View",
+    "group": "Day 04 - Innovation Theory / 1. Innovation in Research - Slide Decks",
+    "kind": "Slides"
+  },
+  {
+    "title": "Innovation Theory Lecture",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985661/View",
+    "group": "Day 04 - Innovation Theory / 1. Innovation in Research - Slide Decks",
+    "kind": "Slides"
+  },
+  {
+    "title": "Innovation in Research #1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985662/View",
+    "group": "Day 04 - Innovation Theory / 1. Innovation in Research - Slide Decks",
+    "kind": "Slides"
+  },
+  {
+    "title": "Innovation in Research #2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985663/View",
+    "group": "Day 04 - Innovation Theory / 1. Innovation in Research - Slide Decks",
+    "kind": "Slides"
+  },
+  {
+    "title": "2. Challenge Exploration",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985492",
+    "group": "Day 04 - Innovation Theory / 2. Challenge Exploration",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - Challenge Exploration",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985672/View",
+    "group": "Day 04 - Innovation Theory / 2. Challenge Exploration",
+    "kind": "Reading"
+  },
+  {
+    "title": "Example - Challenge Exploration",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985644/View",
+    "group": "Day 04 - Innovation Theory / 2. Challenge Exploration",
+    "kind": "Reading"
+  },
+  {
+    "title": "3. Exercise Key Takeaways",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985466",
+    "group": "Day 04 - Innovation Theory / 3. Exercise Key Takeaways",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Exercise - Key Takeaways",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985648/View",
+    "group": "Day 04 - Innovation Theory / 3. Exercise Key Takeaways",
+    "kind": "Exercises"
+  },
+  {
+    "title": "4. Team Assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985491",
+    "group": "Day 04 - Innovation Theory / 4. Team Assignment",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 04 - Challenge C hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985646/View",
+    "group": "Day 04 - Innovation Theory / 4. Team Assignment",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 05 - Getting Ready for The Innovation Project",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985443",
+    "group": "Day 05 - Getting Ready for The Innovation Project",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Innovation in Industry - Exercise and Slide Decks",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985485",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 1. Innovation in Industry - Exercise and Slide Decks",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Innovation in Industry #1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985664/View",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 1. Innovation in Industry - Exercise and Slide Decks",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Innovation in Industry #2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985665/View",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 1. Innovation in Industry - Exercise and Slide Decks",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Multicultural and Multidisciplinary teams",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985666/View",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 1. Innovation in Industry - Exercise and Slide Decks",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Exercise - Identify the innovation process",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985668/View",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 1. Innovation in Industry - Exercise and Slide Decks",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Exercise solution - Identify the innovation process",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985669/View",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 1. Innovation in Industry - Exercise and Slide Decks",
+    "kind": "Official solutions"
+  },
+  {
+    "title": "2. Innovator Preperation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985486",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 2. Innovator Preperation",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Reflection Presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985671/View",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 2. Innovator Preperation",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "3. Topic 1 - Experience, Learnings & Challenges",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985474",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 3. Topic 1 - Experience, Learnings & Challenges",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Prep Topic 1 - Experience, Learnings & Challenges",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985626/View",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 3. Topic 1 - Experience, Learnings & Challenges",
+    "kind": "Course link"
+  },
+  {
+    "title": "4. Topic 2 - Working With a Project in Multidisciplinary Teams",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985475",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 4. Topic 2 - Working With a Project in Multidisciplinary Teams",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Prep Topic 2 - Working with a project in a multidisciplinary team",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985627/View",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 4. Topic 2 - Working With a Project in Multidisciplinary Teams",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "5. Topic 3 - Suggestions & Applications",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985476",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 5. Topic 3 - Suggestions & Applications",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Prep Topic 3 - Suggestions & Applications",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985628/View",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 5. Topic 3 - Suggestions & Applications",
+    "kind": "Course link"
+  },
+  {
+    "title": "6. Provide Feedback to Another Team",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985477",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 6. Provide Feedback to Another Team",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "7. Team Reflection Presentations",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985467",
+    "group": "Day 05 - Getting Ready for The Innovation Project / 7. Team Reflection Presentations",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 06 - Introduction & Kick-off",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985448",
+    "group": "Day 06 - Introduction & Kick-off",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Introduction to the Experience Module",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985508",
+    "group": "Day 06 - Introduction & Kick-off / 1. Introduction to the Experience Module",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction Experience Module",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985667/View",
+    "group": "Day 06 - Introduction & Kick-off / 1. Introduction to the Experience Module",
+    "kind": "Reading"
+  },
+  {
+    "title": "2. Daily Standup",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985465",
+    "group": "Day 06 - Introduction & Kick-off / 2. Daily Standup",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Day 6",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985629/View",
+    "group": "Day 06 - Introduction & Kick-off / 2. Daily Standup",
+    "kind": "Course link"
+  },
+  {
+    "title": "3. Team Catch-up Exercise",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985478",
+    "group": "Day 06 - Introduction & Kick-off / 3. Team Catch-up Exercise",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Worksheet - Team Canvas",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985649/View",
+    "group": "Day 06 - Introduction & Kick-off / 3. Team Catch-up Exercise",
+    "kind": "Reading"
+  },
+  {
+    "title": "4. Overview of the Innovation Process",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985479",
+    "group": "Day 06 - Introduction & Kick-off / 4. Overview of the Innovation Process",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Innovation Process, Double Diamond",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985650/View",
+    "group": "Day 06 - Introduction & Kick-off / 4. Overview of the Innovation Process",
+    "kind": "Reading"
+  },
+  {
+    "title": "5. Investigate Your Challenge",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985480",
+    "group": "Day 06 - Introduction & Kick-off / 5. Investigate Your Challenge",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Worksheet - Discuss your challenge",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/989731/View",
+    "group": "Day 06 - Introduction & Kick-off / 5. Investigate Your Challenge",
+    "kind": "Reading"
+  },
+  {
+    "title": "6. Prepare for Data Collection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985481",
+    "group": "Day 06 - Introduction & Kick-off / 6. Prepare for Data Collection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Overview - Data Collection Methods (Step 1)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985655/View",
+    "group": "Day 06 - Introduction & Kick-off / 6. Prepare for Data Collection",
+    "kind": "Reading"
+  },
+  {
+    "title": "Field Guide Example - Qualitative Interview (Step 4)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985654/View",
+    "group": "Day 06 - Introduction & Kick-off / 6. Prepare for Data Collection",
+    "kind": "Reading"
+  },
+  {
+    "title": "Field Guide Example - Participant Observation (Step 4)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985653/View",
+    "group": "Day 06 - Introduction & Kick-off / 6. Prepare for Data Collection",
+    "kind": "Reading"
+  },
+  {
+    "title": "Consent Form for Data Collection (Step 5)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985652/View",
+    "group": "Day 06 - Introduction & Kick-off / 6. Prepare for Data Collection",
+    "kind": "Course link"
+  },
+  {
+    "title": "Worksheet - Field Guide Participant Observation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985656/View",
+    "group": "Day 06 - Introduction & Kick-off / 6. Prepare for Data Collection",
+    "kind": "Course link"
+  },
+  {
+    "title": "7. Team Assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985464",
+    "group": "Day 06 - Introduction & Kick-off / 7. Team Assignment",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 06 - Challenge C hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985637/View",
+    "group": "Day 06 - Introduction & Kick-off / 7. Team Assignment",
+    "kind": "Course link"
+  },
+  {
+    "title": "8. Benchmarking & Reflection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985463",
+    "group": "Day 06 - Introduction & Kick-off / 8. Benchmarking & Reflection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Benchmarking Video: Day 6 - Activity Reflections by innovators",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985630/View",
+    "group": "Day 06 - Introduction & Kick-off / 8. Benchmarking & Reflection",
+    "kind": "Video"
+  },
+  {
+    "title": "Day 07 - Data Collection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985450",
+    "group": "Day 07 - Data Collection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Daily Standup",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985462",
+    "group": "Day 07 - Data Collection / 1. Daily Standup",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Day 7",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985631/View",
+    "group": "Day 07 - Data Collection / 1. Daily Standup",
+    "kind": "Course link"
+  },
+  {
+    "title": "2. Data Collection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985488",
+    "group": "Day 07 - Data Collection / 2. Data Collection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "3. Organise the Collected Data",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985489",
+    "group": "Day 07 - Data Collection / 3. Organise the Collected Data",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - Organizing the collected data",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985657/View",
+    "group": "Day 07 - Data Collection / 3. Organise the Collected Data",
+    "kind": "Reading"
+  },
+  {
+    "title": "4. Benchmarking & Reflection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985487",
+    "group": "Day 07 - Data Collection / 4. Benchmarking & Reflection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Benchmarking Video: Day 7 - Activity Reflections",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985632/View",
+    "group": "Day 07 - Data Collection / 4. Benchmarking & Reflection",
+    "kind": "Video"
+  },
+  {
+    "title": "5. Individual Progress Report",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985505",
+    "group": "Day 07 - Data Collection / 5. Individual Progress Report",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - Progress Report",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/1014199/View",
+    "group": "Day 07 - Data Collection / 5. Individual Progress Report",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Day 07 - Challenge C Progress Report 2 Individual hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985640/View",
+    "group": "Day 07 - Data Collection / 5. Individual Progress Report",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Day 08 - Explore & Analyze",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985449",
+    "group": "Day 08 - Explore & Analyze",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Daily Standup",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985493",
+    "group": "Day 08 - Explore & Analyze / 1. Daily Standup",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Day 8",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985658/View",
+    "group": "Day 08 - Explore & Analyze / 1. Daily Standup",
+    "kind": "Course link"
+  },
+  {
+    "title": "2. Cluster Insights and Identify Focus Areas",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985497",
+    "group": "Day 08 - Explore & Analyze / 2. Cluster Insights and Identify Focus Areas",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - Introduction to Data Synthesis",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985660/View",
+    "group": "Day 08 - Explore & Analyze / 2. Cluster Insights and Identify Focus Areas",
+    "kind": "Reading"
+  },
+  {
+    "title": "Guide - Cluster Insights and Identify Focus Areas",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985693/View",
+    "group": "Day 08 - Explore & Analyze / 2. Cluster Insights and Identify Focus Areas",
+    "kind": "Reading"
+  },
+  {
+    "title": "3. Prioritise Your Focus Areas",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985498",
+    "group": "Day 08 - Explore & Analyze / 3. Prioritise Your Focus Areas",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Worksheet - Prioritize your focus areas",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985694/View",
+    "group": "Day 08 - Explore & Analyze / 3. Prioritise Your Focus Areas",
+    "kind": "Reading"
+  },
+  {
+    "title": "https://servicedesigntools.org/tools/synthesis-wall",
+    "url": "https://servicedesigntools.org/tools/synthesis-wall",
+    "group": "Day 08 - Explore & Analyze / 3. Prioritise Your Focus Areas",
+    "kind": "Course link"
+  },
+  {
+    "title": "4. Opportunity Mapping",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985499",
+    "group": "Day 08 - Explore & Analyze / 4. Opportunity Mapping",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Worksheet - Opportunity Mapping",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985695/View",
+    "group": "Day 08 - Explore & Analyze / 4. Opportunity Mapping",
+    "kind": "Reading"
+  },
+  {
+    "title": "https://circitnord.com/tools/stakeholder-value-mapping/",
+    "url": "https://circitnord.com/tools/stakeholder-value-mapping/",
+    "group": "Day 08 - Explore & Analyze / 4. Opportunity Mapping",
+    "kind": "Course link"
+  },
+  {
+    "title": "5. Selection of 5 Opportunities",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985500",
+    "group": "Day 08 - Explore & Analyze / 5. Selection of 5 Opportunities",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "6. Prepare for Q&A Session Tomorrow",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985504",
+    "group": "Day 08 - Explore & Analyze / 6. Prepare for Q&A Session Tomorrow",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "7. Team Assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985496",
+    "group": "Day 08 - Explore & Analyze / 7. Team Assignment",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 08 - Challenge C hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985675/View",
+    "group": "Day 08 - Explore & Analyze / 7. Team Assignment",
+    "kind": "Course link"
+  },
+  {
+    "title": "8. Benchmarking & Reflection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985495",
+    "group": "Day 08 - Explore & Analyze / 8. Benchmarking & Reflection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Benchmarking Video: Day 8 - Activity Reflections",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985678/View",
+    "group": "Day 08 - Explore & Analyze / 8. Benchmarking & Reflection",
+    "kind": "Video"
+  },
+  {
+    "title": "Day 09 - Q&A + Define & Choose Direction",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985452",
+    "group": "Day 09 - Q&A + Define & Choose Direction",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Daily Standup",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985494",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 1. Daily Standup",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Day 9",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985679/View",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 1. Daily Standup",
+    "kind": "Course link"
+  },
+  {
+    "title": "2. Evaluate Oppertunities by Expanded Mental Model",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985501",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 2. Evaluate Oppertunities by Expanded Mental Model",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Worksheet - Evaluation and Dot-voting",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/989742/View",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 2. Evaluate Oppertunities by Expanded Mental Model",
+    "kind": "Reading"
+  },
+  {
+    "title": "3. Create an Innovation Question",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985502",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 3. Create an Innovation Question",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - How to write a great Innovation Question",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985697/View",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 3. Create an Innovation Question",
+    "kind": "Reading"
+  },
+  {
+    "title": "4. Create Your Innovation Brief",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985503",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 4. Create Your Innovation Brief",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Example - Innovation Brief",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985698/View",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 4. Create Your Innovation Brief",
+    "kind": "Reading"
+  },
+  {
+    "title": "5. FeedbackFruit - Reviewing Innovation Briefs",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985510",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 5. FeedbackFruit - Reviewing Innovation Briefs",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "6. Team Assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985509",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 6. Team Assignment",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 09 - Challenge C hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985700/View",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 6. Team Assignment",
+    "kind": "Course link"
+  },
+  {
+    "title": "7.  Benchmarking & Reflection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985513",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 7.  Benchmarking & Reflection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Benchmarking Video: Day 9 - Activity Reflections",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985680/View",
+    "group": "Day 09 - Q&A + Define & Choose Direction / 7.  Benchmarking & Reflection",
+    "kind": "Video"
+  },
+  {
+    "title": "Day 11 - Conceptualize",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985451",
+    "group": "Day 11 - Conceptualize",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Daily Standup",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985516",
+    "group": "Day 11 - Conceptualize / 1. Daily Standup",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Day 11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985683/View",
+    "group": "Day 11 - Conceptualize / 1. Daily Standup",
+    "kind": "Course link"
+  },
+  {
+    "title": "Introduction day 11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/1014073/View",
+    "group": "Day 11 - Conceptualize / 1. Daily Standup",
+    "kind": "Reading"
+  },
+  {
+    "title": "2. Early-stage Concepts – Investigate and Detail Them Further",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985524",
+    "group": "Day 11 - Conceptualize / 2. Early-stage Concepts – Investigate and Detail Them Further",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Instructions and worksheet - Cartoon Sketching of Concepts",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985713/View",
+    "group": "Day 11 - Conceptualize / 2. Early-stage Concepts – Investigate and Detail Them Further",
+    "kind": "Course link"
+  },
+  {
+    "title": "3. Assess and Choose Your Concepts",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985525",
+    "group": "Day 11 - Conceptualize / 3. Assess and Choose Your Concepts",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Instructions and Worksheet - Assess your Concepts",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985714/View",
+    "group": "Day 11 - Conceptualize / 3. Assess and Choose Your Concepts",
+    "kind": "Course link"
+  },
+  {
+    "title": "4. Concept Assumptions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985526",
+    "group": "Day 11 - Conceptualize / 4. Concept Assumptions",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Worksheet w. Example - Concept Assumptions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985715/View",
+    "group": "Day 11 - Conceptualize / 4. Concept Assumptions",
+    "kind": "Course link"
+  },
+  {
+    "title": "5. FeedbackFruit - Reviewing Concepts",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985537",
+    "group": "Day 11 - Conceptualize / 5. FeedbackFruit - Reviewing Concepts",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "FeedbackFruits: Day 11 - Concept Hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985687/View",
+    "group": "Day 11 - Conceptualize / 5. FeedbackFruit - Reviewing Concepts",
+    "kind": "Course link"
+  },
+  {
+    "title": "6. Team Assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985555",
+    "group": "Day 11 - Conceptualize / 6. Team Assignment",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 11 - Challenge C hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985717/View",
+    "group": "Day 11 - Conceptualize / 6. Team Assignment",
+    "kind": "Course link"
+  },
+  {
+    "title": "7. Benchmarking & Reflection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985518",
+    "group": "Day 11 - Conceptualize / 7. Benchmarking & Reflection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Benchmarking Video: Day 11 - Activity Reflections",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985685/View",
+    "group": "Day 11 - Conceptualize / 7. Benchmarking & Reflection",
+    "kind": "Video"
+  },
+  {
+    "title": "Day 12 - Prototyping, Testing & Improving",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985455",
+    "group": "Day 12 - Prototyping, Testing & Improving",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Example - MEASURE Validation Matrix #2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985738/View",
+    "group": "Day 12 - Prototyping, Testing & Improving",
+    "kind": "Reading"
+  },
+  {
+    "title": "1. Daily Standup",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985528",
+    "group": "Day 12 - Prototyping, Testing & Improving / 1. Daily Standup",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Day 12",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985686/View",
+    "group": "Day 12 - Prototyping, Testing & Improving / 1. Daily Standup",
+    "kind": "Course link"
+  },
+  {
+    "title": "2. Building Your Concept",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985531",
+    "group": "Day 12 - Prototyping, Testing & Improving / 2. Building Your Concept",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Worksheet - Building your concept",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985719/View",
+    "group": "Day 12 - Prototyping, Testing & Improving / 2. Building Your Concept",
+    "kind": "Course link"
+  },
+  {
+    "title": "Prototype Selector",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985720/View",
+    "group": "Day 12 - Prototyping, Testing & Improving / 2. Building Your Concept",
+    "kind": "Reading"
+  },
+  {
+    "title": "3. Define Critical Assumptions to Test",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985532",
+    "group": "Day 12 - Prototyping, Testing & Improving / 3. Define Critical Assumptions to Test",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Worksheet - Assumptions to Test",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/989776/View",
+    "group": "Day 12 - Prototyping, Testing & Improving / 3. Define Critical Assumptions to Test",
+    "kind": "Reading"
+  },
+  {
+    "title": "4. Creating Your Validation Matrix",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985533",
+    "group": "Day 12 - Prototyping, Testing & Improving / 4. Creating Your Validation Matrix",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Example - MEASURE Validation Matrix #1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985737/View",
+    "group": "Day 12 - Prototyping, Testing & Improving / 4. Creating Your Validation Matrix",
+    "kind": "Reading"
+  },
+  {
+    "title": "5. Plan Your Prototyping",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985534",
+    "group": "Day 12 - Prototyping, Testing & Improving / 5. Plan Your Prototyping",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "6. Time to Prototype!",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985535",
+    "group": "Day 12 - Prototyping, Testing & Improving / 6. Time to Prototype!",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "7. Team Assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985530",
+    "group": "Day 12 - Prototyping, Testing & Improving / 7. Team Assignment",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 12 - Challenge C hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985740/View",
+    "group": "Day 12 - Prototyping, Testing & Improving / 7. Team Assignment",
+    "kind": "Course link"
+  },
+  {
+    "title": "8. Benchmarking & Reflection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985529",
+    "group": "Day 12 - Prototyping, Testing & Improving / 8. Benchmarking & Reflection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Benchmarking Video: Day 12 - Activity Reflections",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985729/View",
+    "group": "Day 12 - Prototyping, Testing & Improving / 8. Benchmarking & Reflection",
+    "kind": "Video"
+  },
+  {
+    "title": "9. Individual Progress Report",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985536",
+    "group": "Day 12 - Prototyping, Testing & Improving / 9. Individual Progress Report",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - Progress Report",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/1014200/View",
+    "group": "Day 12 - Prototyping, Testing & Improving / 9. Individual Progress Report",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Day 12 - Challenge C Progress Report 3 Individual hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985733/View",
+    "group": "Day 12 - Prototyping, Testing & Improving / 9. Individual Progress Report",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Day 13 - Prototyping, Testing & Improving",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985456",
+    "group": "Day 13 - Prototyping, Testing & Improving",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Daily Standup",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985548",
+    "group": "Day 13 - Prototyping, Testing & Improving / 1. Daily Standup",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Day 13",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985730/View",
+    "group": "Day 13 - Prototyping, Testing & Improving / 1. Daily Standup",
+    "kind": "Course link"
+  },
+  {
+    "title": "2. Continue Prototyping",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985549",
+    "group": "Day 13 - Prototyping, Testing & Improving / 2. Continue Prototyping",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - Prototype Testing",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985742/View",
+    "group": "Day 13 - Prototyping, Testing & Improving / 2. Continue Prototyping",
+    "kind": "Reading"
+  },
+  {
+    "title": "Guide -  What You can Test in a Prototype - The Product Value Pyramid",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985743/View",
+    "group": "Day 13 - Prototyping, Testing & Improving / 2. Continue Prototyping",
+    "kind": "Reading"
+  },
+  {
+    "title": "3. Pitch Session",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985554",
+    "group": "Day 13 - Prototyping, Testing & Improving / 3. Pitch Session",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "4. Evaluate Your Validation Matrix",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985550",
+    "group": "Day 13 - Prototyping, Testing & Improving / 4. Evaluate Your Validation Matrix",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "5. Present Your Prototype",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985553",
+    "group": "Day 13 - Prototyping, Testing & Improving / 5. Present Your Prototype",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Example - Evaluation of the Validation Matrix & Present your Prototype(s) #1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985744/View",
+    "group": "Day 13 - Prototyping, Testing & Improving / 5. Present Your Prototype",
+    "kind": "Reading"
+  },
+  {
+    "title": "Example - Evaluation of the Validation Matrix & Present your Prototype(s) #2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985745/View",
+    "group": "Day 13 - Prototyping, Testing & Improving / 5. Present Your Prototype",
+    "kind": "Reading"
+  },
+  {
+    "title": "Example - Evaluation of the Validation Matrix & Present your Prototype(s) #3",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985746/View",
+    "group": "Day 13 - Prototyping, Testing & Improving / 5. Present Your Prototype",
+    "kind": "Reading"
+  },
+  {
+    "title": "6. Team Assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985551",
+    "group": "Day 13 - Prototyping, Testing & Improving / 6. Team Assignment",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 13 - Challenge C hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985748/View",
+    "group": "Day 13 - Prototyping, Testing & Improving / 6. Team Assignment",
+    "kind": "Course link"
+  },
+  {
+    "title": "7. Benchmarking & Reflection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985552",
+    "group": "Day 13 - Prototyping, Testing & Improving / 7. Benchmarking & Reflection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Benchmarking Video: Day 13 - Activity Reflections",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985731/View",
+    "group": "Day 13 - Prototyping, Testing & Improving / 7. Benchmarking & Reflection",
+    "kind": "Video"
+  },
+  {
+    "title": "Day 14 - Prepare & Communicate",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985453",
+    "group": "Day 14 - Prepare & Communicate",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Course Evaluation & Preparation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985558",
+    "group": "Day 14 - Prepare & Communicate / 1. Course Evaluation & Preparation",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "2. Daily Standup",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985538",
+    "group": "Day 14 - Prepare & Communicate / 2. Daily Standup",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Day 14",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985724/View",
+    "group": "Day 14 - Prepare & Communicate / 2. Daily Standup",
+    "kind": "Course link"
+  },
+  {
+    "title": "3. Your Concept From a Business Case Perspective",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985542",
+    "group": "Day 14 - Prepare & Communicate / 3. Your Concept From a Business Case Perspective",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Example - Combined, Implementaion Plan, Expanded Mental Model Evaluation & SWOT Analysis",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/990415/View",
+    "group": "Day 14 - Prepare & Communicate / 3. Your Concept From a Business Case Perspective",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "4. Prepare Your Story",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985543",
+    "group": "Day 14 - Prepare & Communicate / 4. Prepare Your Story",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - Content",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985751/View",
+    "group": "Day 14 - Prepare & Communicate / 4. Prepare Your Story",
+    "kind": "Reading"
+  },
+  {
+    "title": "Example - Pitch Presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985752/View",
+    "group": "Day 14 - Prepare & Communicate / 4. Prepare Your Story",
+    "kind": "Reading"
+  },
+  {
+    "title": "KPI Innovation in Engineering Final Pitch",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985753/View",
+    "group": "Day 14 - Prepare & Communicate / 4. Prepare Your Story",
+    "kind": "Reading"
+  },
+  {
+    "title": "5. Additional Material - Polish Up Your Pitch!",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985545",
+    "group": "Day 14 - Prepare & Communicate / 5. Additional Material - Polish Up Your Pitch!",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "How to Pitch your Startup in 3 Minutes  - Inspirational video",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985725/View",
+    "group": "Day 14 - Prepare & Communicate / 5. Additional Material - Polish Up Your Pitch!",
+    "kind": "Video"
+  },
+  {
+    "title": "How to Create the Perfect Pitch  - Inspirational video",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985726/View",
+    "group": "Day 14 - Prepare & Communicate / 5. Additional Material - Polish Up Your Pitch!",
+    "kind": "Video"
+  },
+  {
+    "title": "Kevin Hale - How to Pitch Your Startup  - Inspirational video",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985727/View",
+    "group": "Day 14 - Prepare & Communicate / 5. Additional Material - Polish Up Your Pitch!",
+    "kind": "Video"
+  },
+  {
+    "title": "Guidelines for Pitching With Fire",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985754/View",
+    "group": "Day 14 - Prepare & Communicate / 5. Additional Material - Polish Up Your Pitch!",
+    "kind": "Reading"
+  },
+  {
+    "title": "6. Finalists Pitches From Aug22 ",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985544",
+    "group": "Day 14 - Prepare & Communicate / 6. Finalists Pitches From Aug22",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Finalist 1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985755/View",
+    "group": "Day 14 - Prepare & Communicate / 6. Finalists Pitches From Aug22",
+    "kind": "Course link"
+  },
+  {
+    "title": "Finalist 2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985756/View",
+    "group": "Day 14 - Prepare & Communicate / 6. Finalists Pitches From Aug22",
+    "kind": "Course link"
+  },
+  {
+    "title": "Finalist 3",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985757/View",
+    "group": "Day 14 - Prepare & Communicate / 6. Finalists Pitches From Aug22",
+    "kind": "Course link"
+  },
+  {
+    "title": "Finalist 4",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985758/View",
+    "group": "Day 14 - Prepare & Communicate / 6. Finalists Pitches From Aug22",
+    "kind": "Reading"
+  },
+  {
+    "title": "7. Team Assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985540",
+    "group": "Day 14 - Prepare & Communicate / 7. Team Assignment",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 14 - Challenge C hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985760/View",
+    "group": "Day 14 - Prepare & Communicate / 7. Team Assignment",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 14 - Challenge C Pitch Deck",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985767/View",
+    "group": "Day 14 - Prepare & Communicate / 7. Team Assignment",
+    "kind": "Course link"
+  },
+  {
+    "title": "8. Benchmarking & Reflection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985539",
+    "group": "Day 14 - Prepare & Communicate / 8. Benchmarking & Reflection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Benchmarking Video: Day 14 - Activity Reflections",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985728/View",
+    "group": "Day 14 - Prepare & Communicate / 8. Benchmarking & Reflection",
+    "kind": "Video"
+  },
+  {
+    "title": "Day 15 - Deliver",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985454",
+    "group": "Day 15 - Deliver",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Pitch Sessions ",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985541",
+    "group": "Day 15 - Deliver / 1. Pitch Sessions",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "2. Innovation Fair",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985546",
+    "group": "Day 15 - Deliver / 2. Innovation Fair",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "3. Pitch Finals & Reception",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985547",
+    "group": "Day 15 - Deliver / 3. Pitch Finals & Reception",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Templates for submissions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985441",
+    "group": "Templates for submissions",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Progress Reports",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/1014188",
+    "group": "Templates for submissions / Progress Reports",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Template - Progress Report 1 - IN",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985764/View",
+    "group": "Templates for submissions / Progress Reports",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Template - Progress Report 2 - IN",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985771/View",
+    "group": "Templates for submissions / Progress Reports",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Template - Progress Report 3 - IN",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985812/View",
+    "group": "Templates for submissions / Progress Reports",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Day 04",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985512",
+    "group": "Templates for submissions / Day 04",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Template - Challenge Exploration",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985762/View",
+    "group": "Templates for submissions / Day 04",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 06",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985556",
+    "group": "Templates for submissions / Day 06",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Template - Research design (step 3)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985769/View",
+    "group": "Templates for submissions / Day 06",
+    "kind": "Course link"
+  },
+  {
+    "title": "Template - Field guide (step 4)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985770/View",
+    "group": "Templates for submissions / Day 06",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 08",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985566",
+    "group": "Templates for submissions / Day 08",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Template - Opportunity Evaluation Matrix",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985807/View",
+    "group": "Templates for submissions / Day 08",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 09",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985567",
+    "group": "Templates for submissions / Day 09",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Template - Innovation Brief",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985808/View",
+    "group": "Templates for submissions / Day 09",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 10",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985568",
+    "group": "Templates for submissions / Day 10",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Template - Combine, Evaluate & Pick Top 3 Ideas",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985809/View",
+    "group": "Templates for submissions / Day 10",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985569",
+    "group": "Templates for submissions / Day 11",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Template - Top early-stage concepts",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985810/View",
+    "group": "Templates for submissions / Day 11",
+    "kind": "Course link"
+  },
+  {
+    "title": "Template - Concept Assumptions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985811/View",
+    "group": "Templates for submissions / Day 11",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 12",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985570",
+    "group": "Templates for submissions / Day 12",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Template - Validation Matrix",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985822/View",
+    "group": "Templates for submissions / Day 12",
+    "kind": "Course link"
+  },
+  {
+    "title": "Template - Prototyping Plan",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985813/View",
+    "group": "Templates for submissions / Day 12",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 13",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985571",
+    "group": "Templates for submissions / Day 13",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Template - Evaluation of the Validation Matrix",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985814/View",
+    "group": "Templates for submissions / Day 13",
+    "kind": "Course link"
+  },
+  {
+    "title": "Template - Present your Prototype(s)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985815/View",
+    "group": "Templates for submissions / Day 13",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 14",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985572",
+    "group": "Templates for submissions / Day 14",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Template - Implementation Plan (PPTX)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985816/View",
+    "group": "Templates for submissions / Day 14",
+    "kind": "Course link"
+  },
+  {
+    "title": "Template - Expanded Mental Model Evaluation (PPTX)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985817/View",
+    "group": "Templates for submissions / Day 14",
+    "kind": "Course link"
+  },
+  {
+    "title": "Template - SWOT Analysis (PPTX)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985818/View",
+    "group": "Templates for submissions / Day 14",
+    "kind": "Course link"
+  },
+  {
+    "title": "Miro boards",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985439",
+    "group": "Miro boards",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Challenge A",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985560",
+    "group": "Miro boards / Challenge A",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 2 Team Building Exercise",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985773/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Day 3 Innovation in a day - Challenge A",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985774/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 5 Innovator reflection - Challenge A",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985775/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A01",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985776/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A02",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985777/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A03",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985778/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A04",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985779/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A05",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985780/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A06",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985781/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A07",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985782/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A08",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985783/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A09",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985784/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A10",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985785/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985786/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A12",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985787/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A13",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985788/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A14",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985789/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A15",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985790/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A16",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985791/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A17",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985792/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A18",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985793/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A19",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985794/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A20",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985795/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A21",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985796/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A22",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985797/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A23",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985798/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A24",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985799/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A25",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985800/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team A26",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985801/View",
+    "group": "Miro boards / Challenge A",
+    "kind": "Course link"
+  },
+  {
+    "title": "Challenge B",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985561",
+    "group": "Miro boards / Challenge B",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 2 Team Building Exercise",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985805/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Day 3 Innovation in a day - Challenge B",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985802/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 5 Innovator reflection - Challenge B",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985803/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B01",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985804/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B02",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985806/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B03",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985819/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B04",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985820/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B05",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985821/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B06",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985823/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B07",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985824/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B08",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985825/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B09",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985826/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B10",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985827/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985828/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B12",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985829/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B13",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985830/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B14",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985831/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B15",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985832/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B16",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985833/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B17",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985834/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B18",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985835/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B19",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985836/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B20",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985837/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B21",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985838/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B22",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985839/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B23",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985840/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B24",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985841/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B25",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985842/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team B26",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985860/View",
+    "group": "Miro boards / Challenge B",
+    "kind": "Course link"
+  },
+  {
+    "title": "Challenge C",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985559",
+    "group": "Miro boards / Challenge C",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 2 Team Building Exercise",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985864/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Day 3 Innovation in a day - Challenge C",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985843/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 5 Innovator reflection - Challenge C",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985844/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C01",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985845/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C02",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985846/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C03",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985847/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C04",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985848/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C05",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985849/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C06",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985850/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C07",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985851/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C08",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985852/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C09",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985853/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C10",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985854/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985855/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C12",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985856/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C13",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985857/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C14",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985858/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C15",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985859/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C16",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985861/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C17",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985862/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C18",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985863/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C19",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985865/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C20",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985866/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C21",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985867/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C22",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985868/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C23",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985869/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C24",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985870/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C25",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985871/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team C26",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985872/View",
+    "group": "Miro boards / Challenge C",
+    "kind": "Course link"
+  },
+  {
+    "title": "Challenge D",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985562",
+    "group": "Miro boards / Challenge D",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 2 Team Building Exercise",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985883/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Exercises"
+  },
+  {
+    "title": "Day 3 Innovation in a day - Challenge D",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985873/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 5 Innovator reflection - Challenge D",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985874/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D01",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985875/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D02",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985876/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D03",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985877/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D04",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985878/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D05",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985879/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D06",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985880/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D07",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985881/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D08",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985882/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D09",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985884/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D10",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985885/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D11",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985886/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D12",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985887/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D13",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985888/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D14",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985889/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D15",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985890/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D16",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985891/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D17",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985892/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D18",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985893/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D19",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985894/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D20",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985895/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D21",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985896/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D22",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985897/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D23",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985898/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D24",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985899/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D25",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985900/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Team D26",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985901/View",
+    "group": "Miro boards / Challenge D",
+    "kind": "Course link"
+  },
+  {
+    "title": "Day 10 - Ideate & Filter",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985447",
+    "group": "Day 10 - Ideate & Filter",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "1. Daily Standup",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985514",
+    "group": "Day 10 - Ideate & Filter / 1. Daily Standup",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Introduction to Day 10",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985681/View",
+    "group": "Day 10 - Ideate & Filter / 1. Daily Standup",
+    "kind": "Course link"
+  },
+  {
+    "title": "2. Student Opportunities & Challenges",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985527",
+    "group": "Day 10 - Ideate & Filter / 2. Student Opportunities & Challenges",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Skylab Introduction",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985702/View",
+    "group": "Day 10 - Ideate & Filter / 2. Student Opportunities & Challenges",
+    "kind": "Reading"
+  },
+  {
+    "title": "3. Create Requirements & Criteria Lists",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985522",
+    "group": "Day 10 - Ideate & Filter / 3. Create Requirements & Criteria Lists",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Overview & Worksheets - Create your Requirement and Criteria Lists",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985703/View",
+    "group": "Day 10 - Ideate & Filter / 3. Create Requirements & Criteria Lists",
+    "kind": "Reading"
+  },
+  {
+    "title": "4. Idea Generation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985519",
+    "group": "Day 10 - Ideate & Filter / 4. Idea Generation",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Overview - Negative Brainstorming",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985704/View",
+    "group": "Day 10 - Ideate & Filter / 4. Idea Generation",
+    "kind": "Reading"
+  },
+  {
+    "title": "Overview - Wishing Method",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985705/View",
+    "group": "Day 10 - Ideate & Filter / 4. Idea Generation",
+    "kind": "Reading"
+  },
+  {
+    "title": "Overview - 10x10 Method",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985706/View",
+    "group": "Day 10 - Ideate & Filter / 4. Idea Generation",
+    "kind": "Reading"
+  },
+  {
+    "title": "Overview & Worksheet - Brain Writing",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985707/View",
+    "group": "Day 10 - Ideate & Filter / 4. Idea Generation",
+    "kind": "Reading"
+  },
+  {
+    "title": "5. Cluster Your Ideas",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985520",
+    "group": "Day 10 - Ideate & Filter / 5. Cluster Your Ideas",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - Introduction to Data Synthesis",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985708/View",
+    "group": "Day 10 - Ideate & Filter / 5. Cluster Your Ideas",
+    "kind": "Reading"
+  },
+  {
+    "title": "Instructions & Worksheet - Cluster your Ideas",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985709/View",
+    "group": "Day 10 - Ideate & Filter / 5. Cluster Your Ideas",
+    "kind": "Reading"
+  },
+  {
+    "title": "6. Combine, Evaluate & Pick Top 3 Ideas",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985521",
+    "group": "Day 10 - Ideate & Filter / 6. Combine, Evaluate & Pick Top 3 Ideas",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Guide - Combine, Evaluate & Pick Top 3 Ideas",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985692/View",
+    "group": "Day 10 - Ideate & Filter / 6. Combine, Evaluate & Pick Top 3 Ideas",
+    "kind": "Reading"
+  },
+  {
+    "title": "7. Additional Material",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985523",
+    "group": "Day 10 - Ideate & Filter / 7. Additional Material",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "A large collection of how to brainstorm (Gamestorming)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985676/View",
+    "group": "Day 10 - Ideate & Filter / 7. Additional Material",
+    "kind": "Course link"
+  },
+  {
+    "title": "Insights into how a major design company works (Ideo)",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985677/View",
+    "group": "Day 10 - Ideate & Filter / 7. Additional Material",
+    "kind": "Course link"
+  },
+  {
+    "title": "8. Team Assignment",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985515",
+    "group": "Day 10 - Ideate & Filter / 8. Team Assignment",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Day 10 - Challenge C hand-in",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985711/View",
+    "group": "Day 10 - Ideate & Filter / 8. Team Assignment",
+    "kind": "Course link"
+  },
+  {
+    "title": "9. Benchmarking & Reflection",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/265608/units/985517",
+    "group": "Day 10 - Ideate & Filter / 9. Benchmarking & Reflection",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Benchmarking Video: Day 10 - Activity Reflections",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/265608/viewContent/985682/View",
+    "group": "Day 10 - Ideate & Filter / 9. Benchmarking & Reflection",
+    "kind": "Video"
+  },
+  {
+    "title": "DTU Learn course",
+    "url": "https://learn.inside.dtu.dk/d2l/home/265608",
+    "group": "Course information",
+    "kind": "Learn course"
+  }
+]

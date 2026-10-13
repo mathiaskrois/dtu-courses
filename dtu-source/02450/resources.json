@@ -1,0 +1,680 @@
+[
+  {
+    "title": "Course handbook",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242056/units/927405",
+    "group": "Course handbook",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "02450_handbook_spring2025",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/949468/View",
+    "group": "Course handbook",
+    "kind": "Reading"
+  },
+  {
+    "title": "Lecture slides",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242056/units/927399",
+    "group": "Lecture slides",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Presentation version",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242056/units/927431",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "02450lecture01_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/956098/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_02_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/960961/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_03_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/964809/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_04_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/967558/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_05_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/970899/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_06_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927520/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_07_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927521/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_08_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/982439/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_09_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/983377/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_09_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/983386/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_10_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/987022/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_11_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/990591/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_12_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/993760/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_13_presentation",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/995650/View",
+    "group": "Lecture slides / Presentation version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Preview version",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242056/units/929534",
+    "group": "Lecture slides / Preview version",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Lecture_01_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/949950/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_02_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/960815/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_03_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/963327/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_04_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/966167/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_05_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/970140/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_06_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927429/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_07_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/975983/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_08_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/980270/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_09_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/982681/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_10_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/984932/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_11_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/989412/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Lecture_12_preview",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/991779/View",
+    "group": "Lecture slides / Preview version",
+    "kind": "Slides"
+  },
+  {
+    "title": "Exercise descriptions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242056/units/953687",
+    "group": "Exercise descriptions",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "02450ex0_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/953688/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex0_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/953689/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex0_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/953690/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex1_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/953691/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex1_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/953692/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex1_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/953693/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex2_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/958493/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex2_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/958494/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex2_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/958495/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex3_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/963320/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex3_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/963321/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex3_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/963322/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex4_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/966345/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex4_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/966346/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex4_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/966347/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex5_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/969521/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex5_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/969522/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex5_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/969523/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex6_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972493/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex6_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972494/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex6_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972495/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex7_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972496/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex7_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972497/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex7_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972498/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex8_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972499/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex8_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972500/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex8_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972501/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex9_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972502/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex9_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972503/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex9_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972504/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex10_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972505/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex10_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972506/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex10_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972507/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex11_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972508/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex11_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972509/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex11_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972510/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex12_Matlab",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972511/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex12_Python",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972512/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex12_R",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/972514/View",
+    "group": "Exercise descriptions",
+    "kind": "Reading"
+  },
+  {
+    "title": "Project descriptions",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242056/units/927400",
+    "group": "Project descriptions",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "02450finding_a_dataset_for_reports",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/949469/View",
+    "group": "Project descriptions",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "02450project_1",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/953361/View",
+    "group": "Project descriptions",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "02450project_2",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/953362/View",
+    "group": "Project descriptions",
+    "kind": "Assignment guidance"
+  },
+  {
+    "title": "Book",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242056/units/927404",
+    "group": "Book",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "02450_Book",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927496/View",
+    "group": "Book",
+    "kind": "Reading"
+  },
+  {
+    "title": "Toolboxes",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242056/units/927402",
+    "group": "Toolboxes",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "Old exam sets",
+    "url": "https://learn.inside.dtu.dk/d2l/le/lessons/242056/units/927401",
+    "group": "Old exam sets",
+    "kind": "Learn topic"
+  },
+  {
+    "title": "02450ex_Spring2016",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927470/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2016_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927471/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2016",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927464/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2016_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927465/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2017_corrected",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927466/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2017_corrected_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927467/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2017",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927472/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2017sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927473/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2018",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927474/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2018_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927475/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2018",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927468/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2018_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927469/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2019",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927476/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2019_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927477/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2019",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927490/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2019_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927491/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2020",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927478/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2020_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927479/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2020",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927488/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2020_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927489/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2021",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927495/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2021_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927463/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2021",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927507/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2021_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927506/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2023",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927508/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2023_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927509/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2023",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927510/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2023_sol_",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927511/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2024.pdf",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927512/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Spring2024_sol",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/927514/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2024_",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/993347/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450ex_Fall2024_sol_",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/997197/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "02450answersheet",
+    "url": "https://learn.inside.dtu.dk/d2l/le/content/242056/viewContent/1079271/View",
+    "group": "Old exam sets",
+    "kind": "Reading"
+  },
+  {
+    "title": "DTU Learn course",
+    "url": "https://learn.inside.dtu.dk/d2l/home/242056",
+    "group": "Course information",
+    "kind": "Learn course"
+  }
+]

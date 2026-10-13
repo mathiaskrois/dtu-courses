@@ -1,0 +1,49 @@
+{
+  "course": {
+    "id": "02476",
+    "title": "Machine learning operations",
+    "shortTitle": "Machine learning operations",
+    "term": "Winter 2026",
+    "verified": "14 October 2026",
+    "learn": "https://learn.inside.dtu.dk/d2l/home/293879",
+    "website": "https://github.com/SkafteNicki/dtu_mlops/tree/3b1992997d89cf23bb85c74be0425798b2d0d4bd",
+    "breakStart": null,
+    "breakEnd": null,
+    "periodStart": "2026-01-05",
+    "archived": true,
+    "noExam": true
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2026-01-05",
+      "end": "2026-01-11",
+      "title": "Development, versioning and reproducibility"
+    },
+    {
+      "number": 2,
+      "start": "2026-01-12",
+      "end": "2026-01-18",
+      "title": "Automation, cloud and deployment"
+    },
+    {
+      "number": 3,
+      "start": "2026-01-19",
+      "end": "2026-01-25",
+      "title": "Monitoring, scaling and project delivery"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "learn-69215",
+      "title": "Project URL",
+      "audience": "Group",
+      "description": "Submit the project URL for the January 2026 group project. Use the pinned course project and report instructions to check the repository deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=293879&db=69215",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=293879&db=69215",
+      "due": "2026-01-23T23:59:59+01:00",
+      "date": "23 January",
+      "time": "23:59"
+    }
+  ]
+}

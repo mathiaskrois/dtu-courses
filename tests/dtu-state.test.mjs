@@ -39,3 +39,12 @@ test('undated required work stays visible without becoming a fabricated deadline
  assert.equal(nextObligation([undated,dated],now).id,'report-1');
  assert.equal(nextObligation([undated,dated],now,{'report-1':true}),null);
 });
+
+test('future courses use their own week bounds and allow an empty draft calendar',()=>{
+ const futureWeeks=[{number:1,start:'2027-08-30',end:'2027-09-05'},{number:2,start:'2027-09-13',end:'2027-09-19'}];
+ assert.equal(semesterState('2027-09-02',futureWeeks,'2027-09-06','2027-09-12').week.number,1);
+ assert.equal(semesterState('2027-09-07',futureWeeks,'2027-09-06','2027-09-12').kind,'break');
+ assert.equal(semesterState('2027-09-14',futureWeeks,'2027-09-06','2027-09-12').week.number,2);
+ assert.equal(semesterState('2027-09-20',futureWeeks,null,null).kind,'after');
+ assert.equal(semesterState('2027-09-02',[],null,null).kind,'empty');
+});

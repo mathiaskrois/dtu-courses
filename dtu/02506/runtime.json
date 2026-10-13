@@ -1,0 +1,138 @@
+{
+  "course": {
+    "id": "02506",
+    "title": "Advanced Image Analysis",
+    "shortTitle": "Advanced Image Analysis",
+    "term": "Spring 2026",
+    "verified": "14 October 2026",
+    "learn": "https://learn.inside.dtu.dk/d2l/home/296294",
+    "website": "https://learn.inside.dtu.dk/d2l/home/296294",
+    "breakStart": "2026-03-30",
+    "breakEnd": "2026-04-05",
+    "periodStart": "2026-02-02",
+    "archived": true
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2026-02-02",
+      "end": "2026-02-08",
+      "title": "Introduction to image analysis"
+    },
+    {
+      "number": 2,
+      "start": "2026-02-09",
+      "end": "2026-02-15",
+      "title": "Scale-space"
+    },
+    {
+      "number": 3,
+      "start": "2026-02-16",
+      "end": "2026-02-22",
+      "title": "Feature-based registration"
+    },
+    {
+      "number": 4,
+      "start": "2026-02-23",
+      "end": "2026-03-01",
+      "title": "Feature-based segmentation"
+    },
+    {
+      "number": 5,
+      "start": "2026-03-02",
+      "end": "2026-03-08",
+      "title": "Markov random fields"
+    },
+    {
+      "number": 6,
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "title": "Deformable models"
+    },
+    {
+      "number": 7,
+      "start": "2026-03-16",
+      "end": "2026-03-22",
+      "title": "Layered surfaces"
+    },
+    {
+      "number": 8,
+      "start": "2026-03-23",
+      "end": "2026-03-29",
+      "title": "Feed-forward neural networks"
+    },
+    {
+      "number": 9,
+      "start": "2026-04-06",
+      "end": "2026-04-12",
+      "title": "Image classification"
+    },
+    {
+      "number": 10,
+      "start": "2026-04-13",
+      "end": "2026-04-19",
+      "title": "Convolutional neural networks"
+    },
+    {
+      "number": 11,
+      "start": "2026-04-20",
+      "end": "2026-04-26",
+      "title": "Mini-project: choose and test"
+    },
+    {
+      "number": 12,
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "title": "Mini-project: evaluate and explain"
+    },
+    {
+      "number": 13,
+      "start": "2026-05-04",
+      "end": "2026-05-10",
+      "title": "Poster session"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "poster",
+      "title": "Poster session",
+      "audience": "Group",
+      "description": "Present the mini-project poster at the Week 13 session. Poster participation contributes up to five points under the checked grading note.",
+      "url": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137378",
+      "source": "https://learn.inside.dtu.dk/d2l/le/lessons/296294/units/1137378",
+      "dateOnly": "2026-05-06",
+      "date": "6 May",
+      "time": "Time to confirm"
+    },
+    {
+      "id": "learn-69867",
+      "title": "Group enrollment week 9",
+      "audience": "Individual registration",
+      "description": "Join the prepared Learn group to reveal the competition or poster assignment. Follow the corresponding week instructions; no date is published for this registration space.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=296294&db=69867",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=296294&db=69867",
+      "date": "Date unconfirmed",
+      "time": "Check official instructions"
+    },
+    {
+      "id": "learn-69868",
+      "title": "Group enrollment week 13",
+      "audience": "Individual registration",
+      "description": "Join the prepared Learn group to reveal the competition or poster assignment. Follow the corresponding week instructions; no date is published for this registration space.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=296294&db=69868",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=296294&db=69868",
+      "date": "Date unconfirmed",
+      "time": "Check official instructions"
+    },
+    {
+      "id": "exam",
+      "title": "Written exam",
+      "audience": "Individual",
+      "description": "The Learn grading note combines up to 5 points for poster participation with up to 20 points for the written exam; the stated passing threshold is 12 out of 25. Groups must enroll to see the competition and poster assignments. Confirm the actual 2026 exam date and individual placement.",
+      "url": "https://learn.inside.dtu.dk/d2l/home/296294",
+      "source": "https://learn.inside.dtu.dk/d2l/home/296294",
+      "date": "Date unconfirmed",
+      "time": "Check official instructions"
+    }
+  ]
+}

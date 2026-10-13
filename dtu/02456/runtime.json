@@ -1,0 +1,140 @@
+{
+  "course": {
+    "id": "02456",
+    "title": "Deep learning",
+    "shortTitle": "Deep learning",
+    "term": "Fall 2025",
+    "verified": "14 October 2026",
+    "learn": "https://learn.inside.dtu.dk/d2l/home/270871",
+    "website": "https://learn.inside.dtu.dk/d2l/home/270871",
+    "breakStart": "2025-10-13",
+    "breakEnd": "2025-10-19",
+    "periodStart": "2025-09-01",
+    "archived": true
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2025-09-01",
+      "end": "2025-09-07",
+      "title": "Shallow and deep networks"
+    },
+    {
+      "number": 2,
+      "start": "2025-09-08",
+      "end": "2025-09-14",
+      "title": "Losses, backpropagation and initialization"
+    },
+    {
+      "number": 3,
+      "start": "2025-09-15",
+      "end": "2025-09-21",
+      "title": "Performance, regularization and residual networks"
+    },
+    {
+      "number": 4,
+      "start": "2025-09-22",
+      "end": "2025-09-28",
+      "title": "Convolutional networks"
+    },
+    {
+      "number": 5,
+      "start": "2025-09-29",
+      "end": "2025-10-05",
+      "title": "Recurrent networks"
+    },
+    {
+      "number": 6,
+      "start": "2025-10-06",
+      "end": "2025-10-12",
+      "title": "Transformers"
+    },
+    {
+      "number": 7,
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "title": "Unsupervised learning"
+    },
+    {
+      "number": 8,
+      "start": "2025-10-27",
+      "end": "2025-11-02",
+      "title": "Mini-project and project selection"
+    },
+    {
+      "number": 9,
+      "start": "2025-11-03",
+      "end": "2025-11-09",
+      "title": "Project scope and baseline"
+    },
+    {
+      "number": 10,
+      "start": "2025-11-10",
+      "end": "2025-11-16",
+      "title": "Synopsis and experimental design"
+    },
+    {
+      "number": 11,
+      "start": "2025-11-17",
+      "end": "2025-11-23",
+      "title": "Evaluation and ablations"
+    },
+    {
+      "number": 12,
+      "start": "2025-11-24",
+      "end": "2025-11-30",
+      "title": "Reproducibility and interpretation"
+    },
+    {
+      "number": 13,
+      "start": "2025-12-01",
+      "end": "2025-12-07",
+      "title": "Report and exam preparation"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "project-selection",
+      "title": "Register project preferences",
+      "audience": "Group",
+      "description": "Prioritize three project choices by Monday of teaching Week 8, as specified in the Fall 2025 project module.",
+      "url": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1058713",
+      "source": "https://learn.inside.dtu.dk/d2l/le/lessons/270871/units/1058713",
+      "due": "2025-10-27T23:59:00+01:00",
+      "date": "27 October",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-66212",
+      "title": "Project synopsis",
+      "audience": "Group",
+      "description": "Ungraded planning synopsis: half a page to one page with the proposed topic, motivation, background, milestones and references; also send it to the supervisor.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270871&db=66212",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270871&db=66212",
+      "due": "2025-11-10T23:59:59+01:00",
+      "date": "10 November",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-66211",
+      "title": "Final report",
+      "audience": "Group",
+      "description": "Group report: at most four pages excluding references and AI declaration, using the provided template, with a repository link and reproducible notebook.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270871&db=66211",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270871&db=66211",
+      "due": "2025-12-05T23:59:59+01:00",
+      "date": "5 December",
+      "time": "23:59"
+    },
+    {
+      "id": "exam",
+      "title": "Written exam",
+      "audience": "Individual",
+      "description": "Weeks 1–8 contain learning activities with no mandatory exercise hand-ins. The project is completed in groups of 3–4, with project selection, an ungraded synopsis and a final report. The report is at most four pages excluding references and the AI declaration, uses the course template and links a repository with reproducible results. A two-hour paper multiple-choice exam permits printed material only. Project and exam jointly determine the grade.",
+      "url": "https://learn.inside.dtu.dk/d2l/home/270871",
+      "source": "https://learn.inside.dtu.dk/d2l/home/270871",
+      "date": "Date unconfirmed",
+      "time": "Check official instructions"
+    }
+  ]
+}

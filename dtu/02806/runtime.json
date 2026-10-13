@@ -1,0 +1,141 @@
+{
+  "course": {
+    "id": "02806",
+    "title": "Social Data Analysis and Visualization",
+    "shortTitle": "Social Data Analysis and Visualization",
+    "term": "Spring 2025",
+    "verified": "14 October 2026",
+    "learn": "https://learn.inside.dtu.dk/d2l/home/242129",
+    "website": "https://github.com/suneman/socialdata2025/wiki",
+    "breakStart": "2025-04-14",
+    "breakEnd": "2025-04-20",
+    "periodStart": "2025-02-03",
+    "archived": true
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2025-02-03",
+      "end": "2025-02-09",
+      "title": "Social data and responsible questions"
+    },
+    {
+      "number": 2,
+      "start": "2025-02-10",
+      "end": "2025-02-16",
+      "title": "Temporal patterns and plotting"
+    },
+    {
+      "number": 3,
+      "start": "2025-02-17",
+      "end": "2025-02-23",
+      "title": "Visual encoding and perception"
+    },
+    {
+      "number": 4,
+      "start": "2025-02-24",
+      "end": "2025-03-02",
+      "title": "Geographic visualization"
+    },
+    {
+      "number": 5,
+      "start": "2025-03-03",
+      "end": "2025-03-09",
+      "title": "Two-variable exploration and regression"
+    },
+    {
+      "number": 6,
+      "start": "2025-03-10",
+      "end": "2025-03-16",
+      "title": "Interactive and narrative visualization"
+    },
+    {
+      "number": 7,
+      "start": "2025-03-17",
+      "end": "2025-03-23",
+      "title": "Publishing a data-story website"
+    },
+    {
+      "number": 8,
+      "start": "2025-03-24",
+      "end": "2025-03-30",
+      "title": "A concise data story"
+    },
+    {
+      "number": 9,
+      "start": "2025-03-31",
+      "end": "2025-04-06",
+      "title": "Project question and dataset"
+    },
+    {
+      "number": 10,
+      "start": "2025-04-07",
+      "end": "2025-04-13",
+      "title": "Project prototype and narrative"
+    },
+    {
+      "number": 11,
+      "start": "2025-04-21",
+      "end": "2025-04-27",
+      "title": "Video pitch and peer feedback"
+    },
+    {
+      "number": 12,
+      "start": "2025-04-28",
+      "end": "2025-05-04",
+      "title": "Validation and refinement"
+    },
+    {
+      "number": 13,
+      "start": "2025-05-05",
+      "end": "2025-05-11",
+      "title": "Final data-story delivery"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "learn-62587",
+      "title": "Assignment 1",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242129&db=62587",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242129&db=62587",
+      "due": "2025-03-03T23:59:59+01:00",
+      "date": "3 March",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-63169",
+      "title": "Assignment 2",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242129&db=63169",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242129&db=63169",
+      "due": "2025-03-31T23:59:59+02:00",
+      "date": "31 March",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-63612",
+      "title": "Project Assignment A",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242129&db=63612",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242129&db=63612",
+      "due": "2025-04-21T23:59:59+02:00",
+      "date": "21 April",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-63990",
+      "title": "Project Assignment B",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242129&db=63990",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=242129&db=63990",
+      "due": "2025-05-13T23:59:59+02:00",
+      "date": "13 May",
+      "time": "23:59"
+    }
+  ]
+}

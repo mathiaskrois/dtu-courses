@@ -1,0 +1,141 @@
+{
+  "course": {
+    "id": "02805",
+    "title": "Social graphs and interactions",
+    "shortTitle": "Social graphs and interactions",
+    "term": "Fall 2025",
+    "verified": "14 October 2026",
+    "learn": "https://learn.inside.dtu.dk/d2l/home/270843",
+    "website": "https://github.com/suneman/socialgraphs2025/wiki",
+    "breakStart": "2025-10-13",
+    "breakEnd": "2025-10-19",
+    "periodStart": "2025-09-01",
+    "archived": true
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2025-09-01",
+      "end": "2025-09-07",
+      "title": "APIs and network representations"
+    },
+    {
+      "number": 2,
+      "start": "2025-09-08",
+      "end": "2025-09-14",
+      "title": "Degree distributions and random networks"
+    },
+    {
+      "number": 3,
+      "start": "2025-09-15",
+      "end": "2025-09-21",
+      "title": "Small-world and scale-free networks"
+    },
+    {
+      "number": 4,
+      "start": "2025-09-22",
+      "end": "2025-09-28",
+      "title": "Constructing and visualizing networks"
+    },
+    {
+      "number": 5,
+      "start": "2025-09-29",
+      "end": "2025-10-05",
+      "title": "Network visualization and backbones"
+    },
+    {
+      "number": 6,
+      "start": "2025-10-06",
+      "end": "2025-10-12",
+      "title": "Text processing and NLTK"
+    },
+    {
+      "number": 7,
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "title": "Communities, text and TF.IDF"
+    },
+    {
+      "number": 8,
+      "start": "2025-10-27",
+      "end": "2025-11-02",
+      "title": "Sentiment analysis"
+    },
+    {
+      "number": 9,
+      "start": "2025-11-03",
+      "end": "2025-11-09",
+      "title": "Project question and network data"
+    },
+    {
+      "number": 10,
+      "start": "2025-11-10",
+      "end": "2025-11-16",
+      "title": "Network and text baseline"
+    },
+    {
+      "number": 11,
+      "start": "2025-11-17",
+      "end": "2025-11-23",
+      "title": "Video pitch and peer review"
+    },
+    {
+      "number": 12,
+      "start": "2025-11-24",
+      "end": "2025-11-30",
+      "title": "Validation and explanation"
+    },
+    {
+      "number": 13,
+      "start": "2025-12-01",
+      "end": "2025-12-07",
+      "title": "Final project delivery"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "learn-66995",
+      "title": "Assignment 1",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270843&db=66995",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270843&db=66995",
+      "due": "2025-09-30T23:59:59+02:00",
+      "date": "30 September",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-67839",
+      "title": "Assignment 2",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270843&db=67839",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270843&db=67839",
+      "due": "2025-11-04T23:59:59+01:00",
+      "date": "4 November",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-68178",
+      "title": "Project Assignment A",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270843&db=68178",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270843&db=68178",
+      "due": "2025-11-18T23:59:59+01:00",
+      "date": "18 November",
+      "time": "23:59"
+    },
+    {
+      "id": "learn-68635",
+      "title": "Project Assignment B",
+      "audience": "Group",
+      "description": "Use the original Learn assignment and its brief for the required deliverables.",
+      "url": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270843&db=68635",
+      "source": "https://learn.inside.dtu.dk/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=270843&db=68635",
+      "due": "2025-12-10T23:59:59+01:00",
+      "date": "10 December",
+      "time": "23:59"
+    }
+  ]
+}
